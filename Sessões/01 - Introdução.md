@@ -39,91 +39,44 @@ A cada final de rodada, o monstro ataca (1-2: proa, 3-4: convés, 5-6: popa). Se
 - O monstro está atacando aqui. Tripulantes tentam fugir/se defender em vão;
 ### 2 - Castelo da Popa (fundo do navio)
 
-  
-
 - Em seu convés, acessado pela escadaria, é onde ficava o timão, arrancado pelo monstro. Há alguns corpos estilhaçados aqui;
-
 - Porta trancada para a cabine do capitão;
-
-  
-
 #### 2.1 - Cabine do Capitão
-
-  
 
 - Sala arrumada com uma escrivaninha com mapas ao centro. Tem uma janela grande com vista para o monstro, uma estante de livros e registros prisionais e uma cama;
 
 - Baú trancado debaixo da cama (chave está com o capitão, na cozinha);
 
-  
-
-1d6 Itens:
-
-  
+##### 1d6 Itens:
 
 | d6 | Item |
-
 |----|------|
-
 | 1 | Mapa costeiro detalhado com anotações |
-
 | 2 | Pistola e munição (5dn)|
-
 | 3 | Sabre (4dn) |
-
 | 4 | Luneta de latão (200$) |
-
 | 5 | Bolsa com 50$ |
-
 | 6 | Kit de navegação (bússola, régua, transferidor) |
 
-  
-
-O baú trancado: 150$, 3 joias escarlates (50$ cada, as 3 ocupam 1 Espaço em conjunto) e um grimório com 2 feitiços de nível 1. Caso o baú não seja aberto, há uma chance de 1:6 dele aparecer estilhaçado na costa, contendo apenas o grimório;
-
-  
-
+O baú trancado: 150$ , 3 joias escarlates (50$ cada, as 3 ocupam 1 Espaço em conjunto) e um grimório com 2 feitiços de nível 1. Caso o baú não seja aberto, há uma chance de 1:6 dele aparecer estilhaçado na costa, contendo apenas o grimório;
 ### 3 - Cozinha / Castelo da Proa (frente do navio)
 
-  
-
 - Local apertado por onde passa um dos mastros. Tem um fogão de pedra pequeno onde uma panela com óleo está suspensa e balançando por conta do ataque;
-
 - Contém barris de alimentos jogados, panelas e utensílios de cozinha ao chão. O capitão do barco está caído morto aqui (se vasculharem o corpo podem encontrar a chave de seu baú);
-
+##### 1d6 Itens:
   
-
-1d6 Itens:
-
-  
-
 | d6 | Item |
-
 |----|------|
-
 | 1 | Cutelo (3dn) |
-
 | 2 | rações de viagem (3)|
-
 | 3 | Odre de água cheio (equivale a 2 rações) |
-
 | 4 | Frasco de óleo |
-
 | 5 | Pederneira e isqueiro |
-
 | 6 | Chave do baú (no corpo do capitão) |
-
-  
-
 ### 4 - O Paiol
 
-  
-
-- Área aberta com barris, redes de dormir penduradas e alguns armários com espadas, lanças e bestas;
-
+- Área aberta com barris, redes de dormir penduradas e alguns armários com espadas, lanças e bestas
 - Tem pequenas janelas de tiro dos lados, uma escada para o porão (de onde tripulantes tentam resgatar coisas) e uma seção fechada por uma parede que dá para o corredor de celas;
-
-  
 
 **Os Canhões**: o navio é equipado com canhões. Um jogador pode gastar uma rodada para preparar e atirar uma bala contra o monstro. Isso adia por uma rodada o aumento do progresso da destruição do navio. Entretanto, caso ataquem repetidas vezes (2+), isso atiçará a fúria do monstro que irá atacar o paiol, destruindo parte da parede do barco e aumentando em 3 níveis de uma só vez o progresso da destruição;
 
