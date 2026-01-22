@@ -65,7 +65,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -75,7 +75,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -195,22 +195,20 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "html-server:Turn Http Server On": false,
-      "html-server:Turn Http Server Off": false,
       "obsidian-kanban:Create new board": false,
       "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Boca do Vale.md",
     "ESCUDO.md",
+    "MAPA.md",
+    "Boca do Vale.md",
     "README.md",
     "Untitled.canvas",
     "z-media/terras marginais.png",
     "Untitled.base",
     "Sessões/01 - Introdução.md",
-    "MAPA.md",
     "Estruturas/O Velho Forte.md",
     "Estruturas",
     "z-media",
