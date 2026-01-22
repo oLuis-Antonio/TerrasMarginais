@@ -1,24 +1,28 @@
 {
   "main": {
-    "id": "2ee9a86558812cd4",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "c4ded12ec87510bd",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "6a92365ca0669d10",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
+                "file": "ESCUDO.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-trello",
+              "title": "ESCUDO"
             }
           }
         ]
@@ -145,7 +149,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "Todas as propriedades"
+              "title": "All properties"
             }
           },
           {
@@ -154,15 +158,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ESCUDO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Outline of ESCUDO"
+            }
+          },
+          {
+            "id": "7b9748e8816a2326",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,18 +194,26 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "html-server:Turn Http Server On": false,
+      "html-server:Turn Http Server Off": false,
+      "obsidian-kanban:Create new board": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "d0f3e5852350bcaa",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Boca do Vale.md",
+    "ESCUDO.md",
+    "README.md",
+    "Untitled.canvas",
+    "z-media/terras marginais.png",
+    "Untitled.base",
+    "Sessões/01 - Introdução.md",
     "MAPA.md",
     "Estruturas/O Velho Forte.md",
     "Estruturas",
-    "Sessões/01 - Introdução.md",
-    "README.md",
     "z-media",
-    "z-media/terras marginais.png",
     "Regiões/Boca do Vale (região inicial).md",
     "[].md",
     "Sessões",
