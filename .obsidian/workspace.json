@@ -4,25 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "21d859b41d9720a6",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "222c23af53827b1b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ESCUDO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "ESCUDO"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -199,10 +195,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "222c23af53827b1b",
   "lastOpenFiles": [
-    "ESCUDO.md",
+    "Untitled.md",
     "MAPA.md",
+    "ESCUDO.md",
     "Boca do Vale.md",
     "README.md",
     "Untitled.canvas",
