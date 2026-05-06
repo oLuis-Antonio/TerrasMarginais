@@ -139,11 +139,14 @@ Para conjurar magias você precisa de um grimório ou um pergaminho contendo uma
 Grimório -> consegue guardar um número de magias igual seu nível + 1
 Pergaminho -> guarda só uma magia e é consumido assim que usado.
 
-Conjurar uma magia requer receber 1 Cansaço e rolar uma salvaguarda de VON para evitar um *efeito adverso*
+Conjurar uma magia requer receber 1 Cansaço. Magias sempre são conjuradas, porém, caso não sejam interrompidas, é necessário rolar uma salvaguarda de VON para evitar um *efeito adverso*
 
 é possível conjurar magias estando de armadura, porém com penalidades:
 - Armadura leve: uma desvantagem em VON
 - Armadura pesada duas desvantagens em VON
+
+magias não tem nível, para conjurar magias com poder maior é necessário se concentrar e "carregar" a magia durante mais de um turno. 
+Se você for interrompido (seja por combate, deslocamento, salvaguarda) a magia é executada naquele nível de concentração e automaticamente recebe um *efeito adverso*.
 
 lista de magias?
 
