@@ -94,10 +94,11 @@ O jogador escolhe a salvaguarda:
 - VON → resistir a efeitos mentais/sobrenaturais
 
 Ele precisa resistir ao seu valor de salvaguarda + o valor de Habilidade (HAB) do oponente.
-A resolução final sempre passa pela tabela de impacto.
+A resolução final sempre passa pela tabela de TABELA DE IMPACTO.
+## 3. ATAQUE DO JOGADOR
 
-## 3. A TABELA DE IMPACTO (1d6)
-
+Ataques sempre acertam. O ataque gera impacto direto através da TABELA DE IMPACTO
+## 4. A TABELA DE IMPACTO (1d6)
 
 | 1d6 | resultado                                                                                                        |
 | --- | ---------------------------------------------------------------------------------------------------------------- |
@@ -107,3 +108,39 @@ A resolução final sempre passa pela tabela de impacto.
 | 4   | Dano normal                                                                                                      |
 | 5   | Dano normal. O defensor alvo ganha uma desvantagem da próxima vez que for atacado OU perde uma posição           |
 | 6   | Dano em Dobro. O defensor alvo perde a sua ação por 1 turno.                                                     |
+### DANO E ARMADURA
+
+Se uma criatura recebe Dano (dn) enquanto usa uma armadura, o Dano reduz os pontos de Armadura dela. Se nenhum ponto de armadura sobrar, ela recebe o restante do Dano como Ferimentos. Alguns ataques ou efeitos podem causar Ferimentos diretamente e ignorar a Armadura da criatura.
+
+### ESCUDOS
+
+Empunhar um escudo reduz o Dano a ser recebido em 1, mas nunca reduz este Dano abaixo de 1.
+
+## DADOS DE VIDA E MORTE
+
+Cada vez que uma criatura recebe um Ferimento, ela rola seus Dados de Vida (DV). Cada DV é um d6. Se o resultado for menor ou igual ao número de Ferimentos que ela acumulou, a criatura sucumbe.
+
+Personagens não morrem imediatamente, ao invés disso ficam incapacitados e sofrem uma das seguintes consequências:
+
+TABELA 2D6 FERIMENTOS GRAVES
+
+| 2-3   | Morte Iminente      | Morre em 1d6 rodadas, a menos que seja curado com magia. Na sua última rodada tem direito a uma ação final.                                                           |
+| ----- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4-5   | Corpo Quebrado      | Você quebrou algumas costelas e saiu muito ferido. Sua salvaguarda de FOR aumenta em 1 até se recuperar com magia ou 1d4 meses de repouso.                            |
+| 6-7-8 | Choque Traumático   | Incapacitado por 1d6 horas. Permanece com 1 Ferimento até ser curado com magia ou 1d6 dias de repouso;                                                                |
+| 9-10  | Membro Debilitado   | Você quebrou uma perna ou um braço e agora precisa de uma tala. Sua salvaguarda de DES aumenta em 1 até se recuperar com magia ou 1d4 meses de repouso.               |
+| 11-12 | Cicatriz de Batalha | A sua pele nunca mais será a mesma depois dessa luta. Sua salvaguarda de VON aumenta em 1 até se recuperar com magia ou 1d6 dias de repouso. A cicatriz não é curada. |
+
+Se um PJ receber dano logo após um ferimento grave, ele morrerá naquela rodada.
+
+# MAGIA (rascunho)
+
+Para conjurar magias você precisa de um grimório ou um pergaminho contendo uma magia nas suas mãos e capacidade de falar em alto e bom som.
+Grimório -> consegue guardar um número de magias igual seu nível + 1
+Pergaminho -> guarda só uma magia e é consumido assim que usado.
+
+Conjurar uma magia requer receber 1 Cansaço e rolar uma salvaguarda de VON para evitar um *efeito adverso*
+
+é possível conjurar magias estando de armadura, porém com penalidades:
+- Armadura leve: uma desvantagem em VON
+- Armadura pesada duas desvantagens em VON
