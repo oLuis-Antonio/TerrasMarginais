@@ -144,3 +144,23 @@ Conjurar uma magia requer receber 1 Cansaço e rolar uma salvaguarda de VON para
 é possível conjurar magias estando de armadura, porém com penalidades:
 - Armadura leve: uma desvantagem em VON
 - Armadura pesada duas desvantagens em VON
+
+lista de magias?
+
+- bola de fogo
+- vinhas
+- bola de gude
+- levantar muro
+- disco flutuante
+- luz
+- trancar/destrancar
+- névoa
+- raio
+- dardos místicos
+- armadura arcana
+- encantar indivíduo
+- curar ferimentos
+- espantar males
+- invisibilidade
+- grito
+- 
