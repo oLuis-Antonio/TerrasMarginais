@@ -66,9 +66,44 @@ Antes de rolar um teste, se seu personagem tiver ao menos um espaço vazio no in
 
 # COMBATE
 
-O combate funciona em rodadas. Em cada rodada:
+O combate funciona em turno. Em cada turno:
 
 - Os oponentes agem
 - Jogadores escolhem como resistir a ameaça imposta e sofrem as consequências da resolução
 - Jogadores reagem. Podendo se deslocar e realizar uma ação (atacar, usar um item, conjurar uma magia, etc.)
 
+## 1. ESTRUTURA DE PERÍMETROS
+
+A cena é dividida em zonas abstratas:
+
+- Centro do Conflito (corpo a corpo)
+- Próximo (engajado, precisa se aproximar para atacar)
+- Longe (a distância certa para atirar em alguém)
+- Afastado (fora do alcance imediato)
+
+Mover entre perímetros é mudança de exposição, não medição precisa. Porém, sua capacidade de fazê-la depende da sua taxa de movimento. Ela determina quantos deslocamentos você pode fazer em um turno. Caso você seja forçado a mudar de posição sem movimentos restantes, você automaticamente cai no chão e precisa se levantar como uma ação no próximo turno.
+
+## 2. ATAQUE INIMIGO
+
+O MJ não faz nenhuma rolagem de ataque. Ao invés disso, ele declara a ação dos oponentes e os alvos, de acordo com o perímetro onde ocorrerá o ataque.  Cada ataque inimigo força uma **salvaguarda do jogador afetado**.
+
+O jogador escolhe a salvaguarda:
+
+- FOR → resistir e manter posição
+- DES → evitar impacto mudando perímetro
+- VON → resistir a efeitos mentais/sobrenaturais
+
+Ele precisa resistir ao seu valor de salvaguarda + o valor de Habilidade (HAB) do oponente.
+A resolução final sempre passa pela tabela de impacto.
+
+## 3. A TABELA DE IMPACTO (1d6)
+
+
+| 1d6 | resultado                                                                                                        |
+| --- | ---------------------------------------------------------------------------------------------------------------- |
+| 1   | Dano normal.  O defensor alvo ganha uma vantagem da próxima vez que for atacado OU o atacante alvo perde posição |
+| 2   | Ataque fraco, o dano da arma é reduzido pela metade, sendo no mínimo 1 dn.                                       |
+| 3   | Dano normal                                                                                                      |
+| 4   | Dano normal                                                                                                      |
+| 5   | Dano normal. O defensor alvo ganha uma desvantagem da próxima vez que for atacado OU perde uma posição           |
+| 6   | Dano em Dobro. O defensor alvo perde a sua ação por 1 turno.                                                     |
