@@ -147,13 +147,13 @@ Conjurar uma magia requer receber 1 Cansaço e rolar uma salvaguarda de VON para
 
 lista de magias?
 
-- bola de fogo
-- vinhas
-- bola de gude
-- levantar muro
+- bola de fogo: salvaguarda de DES ou dano em um perímetro igual a 2 * o número de turnos q essa magia vem sendo preparada (pensei nessa mecânica agr, de se concentrar por x turnos e não podendo ser atacado no processo)
+- vinhas: imobiliza uma criatura alvo
+- bola de gude: afeta um perímetro por 1 turno. exige salvaguarda de DES para não cair
+- levantar muro: ergue uma parede de 2m. a partir do chão
 - disco flutuante
 - luz
-- trancar/destrancar
+- cadeado
 - névoa
 - raio
 - dardos místicos
@@ -163,4 +163,8 @@ lista de magias?
 - espantar males
 - invisibilidade
 - grito
+- metamorfose
+- Falar com o além
+- Remendar
+- Animar mortos
 - 
