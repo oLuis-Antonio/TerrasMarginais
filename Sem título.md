@@ -10,12 +10,12 @@ Para cada um desses, role um d4 para determinar cada valor das salvaguardas do s
 
 #### TABELA 1D4 VALORES DE SALVAGUARDA
 
-| 1d4 | Salvaguarda |
-| --- | ----------- |
-| 1   | 16          |
-| 2   | 15          |
-| 3   | 14          |
-| 4   | 13          |
+| 1d4 | Salvaguarda |     |
+| --- | ----------- | --- |
+| 1   | 16          |     |
+| 2   | 15          |     |
+| 3   | 14          |     |
+| 4   | 13          |     |
 
 # COMO JOGAR
 
