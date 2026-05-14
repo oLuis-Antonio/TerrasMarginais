@@ -31,7 +31,7 @@ O tipo de marco adquirido é relevante pois interfere diretamente no conheciment
 
 ## Subindo de nível
 
-O jogo possuí 5 níveis ao todo e sua progressão depende dos marcos passados por um personagem. Um PJ não pode adquirir mais do que 2 marcos relevantes por sessão e para subir de nível precisa acumular uma quantidade de novos marcos igual ao nível desejado.
+O jogo possuí 5 níveis ao todo e sua progressão depende dos marcos passados por um personagem. Ao final de uma sessão, os jogadores devem  identificar todos os marcos possíveis e selecionar os 2 que melhor representam transformação de seus personagens. Ao adquirir uma quantidade de novos marcos igual o nível de personagem almejado, ele evo
 
 Exemplo: para subir do nível 1 para o 2, uma personagem precisa conquistar 2 marcos de jogo. Para evoluir para o nível 3 são necessários 3 novos marcos e assim por diante.
 
@@ -41,6 +41,10 @@ PJs adquirem a cada nível um Dado de Vida, uma **Habilidade** e reduzem uma sal
 
 Habilidades são conjuntos de conhecimentos e práticas adquiridos pela experiência, seja por meio da evolução convencional, ou despertados por conjuntos de marcos de jogo. Um personagem possui um limite de 5 espaços de habilidade.
 
+A cada vez que um personagem evoluir, o jogador pode escolher uma nova habilidade que esteja disponível de acordo com seu nível ou pré-requisitos estabelecidos. Certas habilidades podem ser adquiridas ao passar por uma grande quantidades de marcos relacionados aquela vivência. De tanto cair aprendemos em algum momento a levantar.
+
 ### Desapegar 
 
-Muitas vezes acreditamos que já estamos completamente avessos a mudança
+Muitas vezes acreditamos que já estamos completamente avessos a mudança, porém isso não é verdade. Eventos impactantes e momentos de evolução podem alterar antigas concepções a troco de novas possibilidades e perspectivas.
+
+Uma personagem ao evoluir ou adquirir uma habilidade pode escolher desapegar de uma já previamente adquirida, desde que esta não tenha outras habilidades como pré-requisito. 
