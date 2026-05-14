@@ -31,7 +31,7 @@ O tipo de marco adquirido é relevante pois interfere diretamente no conheciment
 
 ## Subindo de nível
 
-O jogo possuí 5 níveis ao todo e sua progressão depende dos marcos passados por um personagem. Ao final de uma sessão, os jogadores devem  identificar todos os marcos possíveis e selecionar os 2 que melhor representam transformação de seus personagens. Ao adquirir uma quantidade de novos marcos igual o nível de personagem almejado, ele evo
+O jogo possuí 5 níveis ao todo e sua progressão depende dos marcos passados por um personagem. Ao final de uma sessão, os jogadores devem  identificar todos os marcos possíveis e selecionar os 2 que melhor representam transformação de seus personagens. Ao adquirir uma quantidade de novos marcos igual o nível de personagem almejado, ele evoluem.
 
 Exemplo: para subir do nível 1 para o 2, uma personagem precisa conquistar 2 marcos de jogo. Para evoluir para o nível 3 são necessários 3 novos marcos e assim por diante.
 
@@ -47,4 +47,4 @@ A cada vez que um personagem evoluir, o jogador pode escolher uma nova habilidad
 
 Muitas vezes acreditamos que já estamos completamente avessos a mudança, porém isso não é verdade. Eventos impactantes e momentos de evolução podem alterar antigas concepções a troco de novas possibilidades e perspectivas.
 
-Uma personagem ao evoluir ou adquirir uma habilidade pode escolher desapegar de uma já previamente adquirida, desde que esta não tenha outras habilidades como pré-requisito. 
+Uma personagem ao evoluir ou adquirir uma habilidade pode escolher desapegar de uma já previamente adquirida, desde que esta não tenha outras habilidades como pré-requisito. Não é possível desapegar de mais de uma habilidade por vez.
