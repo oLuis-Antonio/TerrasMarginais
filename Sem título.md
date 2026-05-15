@@ -1,3 +1,7 @@
+# Chamado para Aventura
+
+Os personagens são pessoas comuns que, por alguma razão, possuem dentro de si a vontade de sair por aí sem saber para onde seus pés o levarão. Isso, é claro, não vem completamente do nada. Por isso, ao criar seu personagem, você preenche o seu primeiro espaço de Vivência com um Chamado para Aventura. Uma experiência inicial que te põe em movimento, ainda que de forma atrapalhada.  Eventualmente, após evoluir para o 2 nível, o PJ deverá Desapegar daquele chamado em troca de sua primeira Vivência.
+
 # Evolução
 
 Personagens são indivíduos que passam por todo o tipo de situações: das mais bobas as mais ardilosas, arriscadas e, principalmente, transformadoras. Isso, é claro, reflete diretamente no seu progresso de jogo.
@@ -37,14 +41,14 @@ Exemplo: para subir do nível 1 para o 2, uma personagem precisa conquistar 2 ma
 
 PJs adquirem a cada nível um Dado de Vida, uma **Habilidade** e reduzem uma salvaguarda em 1 (respeitando o valor máximo de 8). 
 
-## Habilidades
+## Vivências
 
-Habilidades são conjuntos de conhecimentos e práticas adquiridos pela experiência, seja por meio da evolução convencional, ou despertados por conjuntos de marcos de jogo. Um personagem possui um limite de 5 espaços de habilidade.
+Vivências são conjuntos de conhecimentos e práticas adquiridos pela experiência, seja por meio da evolução convencional, ou despertados por conjuntos de marcos de jogo. Um personagem possui um limite de 4 espaços de Vivência.
 
-A cada vez que um personagem evoluir, o jogador pode escolher uma nova habilidade que esteja disponível de acordo com seu nível ou pré-requisitos estabelecidos. Certas habilidades podem ser adquiridas ao passar por uma grande quantidades de marcos relacionados aquela vivência. De tanto cair aprendemos em algum momento a levantar.
+A cada vez que um personagem evoluir, o jogador pode escolher uma nova Vivência que esteja disponível de acordo com seu nível ou pré-requisitos estabelecidos. Certas Vivências podem ser adquiridas ao passar por uma grande quantidades de marcos relacionados aquela Vivência. De tanto cair aprendemos em algum momento a levantar.
 
 ### Desapegar 
 
 Muitas vezes acreditamos que já estamos completamente avessos a mudança, porém isso não é verdade. Eventos impactantes e momentos de evolução podem alterar antigas concepções a troco de novas possibilidades e perspectivas.
 
-Uma personagem ao evoluir ou adquirir uma habilidade pode escolher desapegar de uma já previamente adquirida, desde que esta não tenha outras habilidades como pré-requisito. Não é possível desapegar de mais de uma habilidade por vez.
+Uma personagem ao evoluir ou adquirir uma Vivência pode escolher desapegar de uma já previamente adquirida, desde que esta não tenha outras Vivências como pré-requisito. Não é possível desapegar de mais de uma Vivência por vez. Entretanto, o primeiro e único desapego obrigatório é ao atingir o nível 2, substituindo seu antigo Chamado para Aventura.
