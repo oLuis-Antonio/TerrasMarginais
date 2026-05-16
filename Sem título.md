@@ -2,6 +2,15 @@
 
 Os personagens são pessoas comuns que, por alguma razão, possuem dentro de si a vontade de sair por aí sem saber para onde seus pés o levarão. Isso, é claro, não vem completamente do nada. Por isso, ao criar seu personagem, você preenche o seu primeiro espaço de Vivência com um Chamado para Aventura. Uma experiência inicial que te põe em movimento, ainda que de forma atrapalhada.  Eventualmente, após evoluir para o 2 nível, o PJ deverá Desapegar daquele chamado em troca de sua primeira Vivência.
 
+## Lista de Chamados para Aventura
+
+- Entusiasta Arcano: você começa a sua jornada achando um grimório abandonando com apenas 1 feitiço anotado. Você sofre uma desvantagem na primeira salvaguarda de VON envolvendo magia que fizer.
+- 
+- Trombadinha: você começa a sua jornada egresso de uma confusão em que estava envolvido. Você rola o dobro em qualquer tabela de tesouro ao praticar furtos, mas você precisa pagar sua dívida.
+- 
+- Recruta: você começa a sua jornada na expectativa e desejo insensato por uma batalha. A sua arma inicial causa 1 dano a mais, mas inimigos também causam 1 dano a mais a você
+- você começa a sua jornada se colocando na frente de alguém que precisava de ajuda. Escudos
+
 # Evolução
 
 Personagens são indivíduos que passam por todo o tipo de situações: das mais bobas as mais ardilosas, arriscadas e, principalmente, transformadoras. Isso, é claro, reflete diretamente no seu progresso de jogo.
