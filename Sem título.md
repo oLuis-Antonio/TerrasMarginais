@@ -4,12 +4,12 @@ Os personagens são pessoas comuns que, por alguma razão, possuem dentro de si 
 
 ## Lista de Chamados para Aventura
 
-- Entusiasta Arcano: você começa a sua jornada achando um grimório abandonando com apenas 1 feitiço anotado. Você sofre uma desvantagem na primeira salvaguarda de VON envolvendo magia que fizer.
-- 
-- Trombadinha: você começa a sua jornada egresso de uma confusão em que estava envolvido. Você rola o dobro em qualquer tabela de tesouro ao praticar furtos, mas você precisa pagar sua dívida.
-- 
-- Recruta: você começa a sua jornada na expectativa e desejo insensato por uma batalha. A sua arma inicial causa 1 dano a mais, mas inimigos também causam 1 dano a mais a você
-- você começa a sua jornada se colocando na frente de alguém que precisava de ajuda. Escudos
+* Iniciado: você começa a sua jornada achando um grimório abandonando com apenas 1 feitiço anotado. Você sofre uma desvantagem na primeira salvaguarda de VON envolvendo magia que fizer.
+* Estafeta: você começa a sua jornada com alguém lhe entregando um pergaminho de feitiço, ele quer que você entregue para uma pessoa importante. 
+* Trombadinha: você começa a sua jornada egresso de uma confusão em que estava envolvido. Você rola o dobro em qualquer tabela de tesouro ao praticar furtos, mas você precisa pagar sua dívida.
+* Batedor: você começa a sua jornada com um simples trabalho de caça aos arredores de casa.
+* Recruta: você começa a sua jornada na expectativa e desejo insensato por uma batalha. A sua arma inicial causa 1 dano a mais, mas inimigos também causam 1 dano a mais a você
+* Protetor: você começa a sua jornada se colocando na frente de alguém que precisava de ajuda. 
 
 # Evolução
 
