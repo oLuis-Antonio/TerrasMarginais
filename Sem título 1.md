@@ -200,7 +200,7 @@ S - Bola de Fogo: você conjura uma explosão de fogo em um perímetro alvo à d
 
 ### FECHADURA
 
-Truque: grudar um pequeno objeto a uma superfície por um breve período de tempo.
+Truque: Grudar um pequeno objeto a uma superfície por uma rodada tocando-o.
 
 R - Trancar/Destrancar um cadeado de mecanismo simples;
 
