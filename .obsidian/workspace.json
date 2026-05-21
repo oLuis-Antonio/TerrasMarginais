@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título 1.md",
+                "file": "Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título 1"
+              "title": "Sem título"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Sem título.md",
     "Sem título 1.md",
+    "Sem título.md",
     "ESCUDO.md",
     "Context.md",
     "MAPA.md",
