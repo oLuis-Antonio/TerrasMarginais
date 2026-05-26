@@ -68,6 +68,11 @@ Antes de rolar um teste, se seu personagem tiver ao menos um espaço vazio no in
 
 # COMBATE
 
+A violência é, na maioria dos casos, a última resposta para um conflito. Um combate vencedor não é meramente questão de força bruta (por mais que, como veremos, isso impacte tremendamente em seu resultado), mas sim de posicionamento e cálculo de risco. Aventureiros certamente pensarão duas vezes antes de se meterem em um conflito armado, mas é fato que 
+
+
+----
+
 O combate funciona ems turnos. Em cada turno:
 
 - Os oponentes agem
