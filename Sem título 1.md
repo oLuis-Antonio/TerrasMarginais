@@ -100,7 +100,27 @@ Um personagem pode se deslocar de perímetros propositalmente quando for sua vez
 
 ## Atacando
 
-Diferente de outros RPGs, neste de jogo não há rolagens de ataque ou de dano convencionais. Ao invés disso, o resultado de um ataque é determinado pelo resultado em uma **Tabela de Impacto** determinado pelo resultado total do Dado de Impacto de um arma após possíveis reduções aplicadas por 
+Diferente de outros RPGs, neste de jogo não há rolagens de ataque ou de dano convencionais. Ao invés disso, o resultado de um ataque é determinado pelo resultado em uma **Tabela de Impacto** determinado pelo resultado total do Dado de Impacto de um arma após possíveis reduções aplicadas por armaduras ou efeitos correlatos.
+
+Ataques corpo-a-corpo exigem, por padrão, que o atacante e o alvo estejam no mesmo perímetro (geralmente o Perímetro Engajado). Ataques à distância exigem pelo menos dois perímetros de distância ou a rolagem na Tabela de Impacto sofre uma desvantagem (duas rolagens, mantém o pior resultado para o atacante).
+
+#### Tabela de Impacto
+
+0 Ataque absorvido: arma causa 0 de dano.
+1-2 Reviravolta: o defensor ganha uma vantagem para se defender ou reduzir Impacto no próximo ataque que sofrer
+3-4 Golpe ordinário: um acerto sem impacto especial
+5 Empurrão: o defensor é deslocado de perímetro com o ataque
+6 Botar Pressão: o atacante ganha uma vantagem para aumentar Impacto no próximo ataque contra aquele defensor
+7+ Golpe Crítico: o defensor recebe um Cansaço e o atacante escolhe um efeito adicional da tabela.
+
+| Impacto | Resultado                                                                                                   |
+| ------- | ----------------------------------------------------------------------------------------------------------- |
+| 0       | Ataque absorvido: arma causa 0 de dano.                                                                     |
+| 1-2     | Reviravolta: o defensor ganha uma vantagem para se defender ou reduzir Impacto no próximo ataque que sofrer |
+| 3-4     | Dano normal                                                                                                 |
+| 5       | Dano normal                                                                                                 |
+| 6       | Dano normal. O defensor alvo ganha uma desvantagem da próxima vez que for atacado OU perde uma posição      |
+| 7+      | Dano em Dobro. O defensor alvo perde a sua ação por 1 turno.                                                |
 
 
 ----
