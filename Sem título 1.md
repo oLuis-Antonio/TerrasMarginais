@@ -46,10 +46,6 @@ quando uma personagem estiver com todos seus Espaços de Inventário ocupados po
 
 Os Espaços de Inventário das mãos não contam para a sobrecarga, porém ultrapassar seu limite de cansaços também causa a completa exaustão.
 
-## Dados de Uso
-
-Itens como marmitas, tochas e flechas cabem em grandes quantidades em um único Espaço de Inventário. Nesse caso, todos possuem um indicador ❖, informando que a cada utilização 1d10 é rolado. Em um resultado 1, aquele dado é consumido e o item passa a usar um dado menor como dado de uso na seguinte ordem: 1d10, 1d8, 1d6, 1d4. Os itens são completamente consumidos após o gasto do 1d4.
-
 # Mochila e Movimento
 
 Uma PJ pode tirar sua mochila das costas para aliviar o peso. A personagem ganha 1 ponto a mais de movimento e imediatamente elimina Sobrecarga relativa a mochila. Por outro lado, ao soltar sua mochila, a PJ não pode utilizar nenhum dos itens presentes nela ou seus Espaços de Inventário, e os únicos espaços utilizáveis são os de suas mãos.
@@ -68,7 +64,26 @@ Antes de rolar um teste, se seu personagem tiver ao menos um espaço vazio no in
 
 # COMBATE
 
-A violência é, na maioria dos casos, a última resposta para um conflito. Um combate vencedor não é meramente questão de força bruta (por mais que, como veremos, isso impacte tremendamente em seu resultado), mas sim de posicionamento e cálculo de risco. Aventureiros certamente pensarão duas vezes antes de se meterem em um conflito armado, mas é fato que 
+A violência é, na maioria dos casos, a última resposta para um conflito. Um combate vencedor não é meramente questão de força bruta (por mais que, como veremos, isso impacte tremendamente em seu resultado), mas sim de posicionamento e cálculo de risco. Aventureiros certamente pensarão duas vezes antes de se meterem em um conflito armado, mas é igualmente verdade que, nestes momentos tão críticos, surjam as histórias mais inusitadas e memoráveis.
+
+> "Lembra daquela vez quando minha personagem matou dois lobos sozinha com uma adaga velha e um sonho? Ela não morreu por pouco!"
+
+#### Ritmo
+Um combate funciona em Rodadas, onde cada lado age uma ou mais vezes até que a próxima Rodada aconteça. Para determinar isso existem os momentos de Surpresa e Iniciativa.
+
+## Surpresa e Iniciativa
+
+O grande erro de todo principiante é achar que um combate começa pela ação, mas os verdadeiros estrategistas sabem o valor que é pegar seu inimigo com as calças curtas. Aqueles que sofrerem uma tentativa de emboscada devem fazer uma salvaguarda de DES, geralmente o membro com maior acuidade fica responsável por esse teste. Em um sucesso, o combate prossegue normalmente, mas, em caso de falha, o grupo emboscador toma a iniciativa durante aquela primeira rodada. Nas rodadas seguintes a iniciativa ocorre normalmente.
+
+#### Iniciativa por Rodada
+
+A cada Rodada, o lado que age primeiro é aquele que estiver em menor número. Grandes grupos, patrulhas e bandos possuem a vantagem numérica, mas tem dificuldades para coordenarem suas ações.
+
+## Agindo
+
+Esse é o momento decisivo! Segundos que parecem vários minutos gastos por discussões, estratégias e táticas de combate. Um personagem pode realizar uma ação e/ou deslocar de uma quantidade de perímetros de combate igual a sua taxa de movimento.
+
+### Deslocamento
 
 
 ----
