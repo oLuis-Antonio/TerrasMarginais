@@ -81,10 +81,21 @@ A cada Rodada, o lado que age primeiro é aquele que estiver em menor número. G
 
 ## Agindo
 
-Esse é o momento decisivo! Segundos que parecem vários minutos gastos por discussões de tática regadas a salgadinhos baratos. Um personagem pode realizar uma ação e/ou deslocar de uma quantidade de perímetros de combate igual a sua taxa de movimento.
+Esse é o momento decisivo! Segundos que parecem vários minutos gastos por discussões de tática regadas a salgadinhos baratos. Um personagem pode realizar uma ação e/ou se deslocar durante aquela Rodada.
 
 ### Deslocamento
 
+Neste jogo as distâncias e deslocamentos de um combate sempre se ocorrem utilizando o lado inimigo como referencial.  A partir dele, são traçados alguns círculos de perímetro para determinar as distintas distâncias dos demais personagens do centro daquele combate.
+
+#### Perímetros
+- Engajado: o centro do conflito
+- Próximo: a distância dos lanceiros
+- Longe: o bastante para atacar a distância com precisão
+- Afastado: fora do alcance imediato
+
+Um personagem pode se deslocar de perímetros propositalmente quando for sua vez de agir. Ele pode se deslocar ou ser deslocado sem cair no chão uma quantidade de vezes igual ao total de sua Taxa de Movimento durante toda uma Rodada.
+
+Caindo: Caso o personagem seja deslocado por outra pessoa (seja como efeito de um combate, feitiço, etc.) e sua Taxa de Movimento estiver zerada por aquela Rodada, ele automaticamente cairá no chão. É necessário uma ação para levantar-se assim que estiver apto a agir.
 
 ----
 
