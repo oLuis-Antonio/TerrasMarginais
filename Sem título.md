@@ -58,3 +58,4 @@ A cada vez que um personagem evoluir, o jogador pode escolher uma nova Vivência
 Muitas vezes acreditamos que já estamos completamente avessos a mudança, porém isso não é verdade. Eventos impactantes e momentos de evolução podem alterar antigas concepções a troco de novas possibilidades e perspectivas.
 
 Uma personagem ao evoluir ou adquirir uma Vivência pode escolher desapegar de uma já previamente adquirida, desde que esta não tenha outras Vivências como pré-requisito. Não é possível desapegar de mais de uma Vivência por vez. Entretanto, o primeiro e único desapego obrigatório é ao atingir o nível 2, substituindo seu antigo Chamado para Aventura.
+
