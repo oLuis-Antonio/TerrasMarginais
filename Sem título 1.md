@@ -113,7 +113,10 @@ Ataques corpo-a-corpo exigem, por padrão, que o atacante e o alvo estejam no me
 | 3-4     | Golpe ordinário: um acerto sem impacto especial                                                             |
 | 5       | Empurrão: o defensor é deslocado de perímetro com o ataque                                                  |
 | 6       | Botar Pressão: o atacante ganha uma vantagem para aumentar Impacto no próximo ataque contra aquele defensor |
-| 7+      | Cheque: o defensor recebe um Cansaço e o atacante escolhe um efeito adicional da tabela.                    |
+| 7+      | Atropelo: o defensor recebe um Cansaço e o atacante escolhe um efeito adicional da tabela.                  |
+### Dano Crítico
+
+Caso o valor máximo do Dado de Impacto seja rolado, o dano fixo daquela arma é dobrado
 ## Defendendo
 
 Quando personagens atacam NPCs os Dados de Impacto são rolados automaticamente, porém o contrário não acontece. Os personagens ao serem atacados tem a escolha de Resistir ou Esquivar.
@@ -132,74 +135,11 @@ Flechas e projéteis são incrivelmente velozes.  A única forma de Esquivar de 
 
 ## Ferimentos e Morte
 
-Uma criatura ao sofrer Dano (dn.) converte aquele total em Ferimentos. Sempre que um ou mais Ferimentos s~
-
-----
-
-O combate funciona ems turnos. Em cada turno:
-
-- Os oponentes agem
-- Jogadores escolhem como resistir a ameaça imposta e sofrem as consequências da resolução
-- Jogadores reagem. Podendo se deslocar e realizar uma ação (atacar, usar um item, conjurar uma magia, etc.)
-
-## 1. ESTRUTURA DE PERÍMETROS
-
-A cena é dividida em zonas abstratas:
-
-- Engajado (centro do Conflito, corpo a corpo)
-- Próximo (engajado, precisa se aproximar para atacar)
-- Longe (a distância certa para atirar em alguém)
-- Afastado (fora do alcance imediato)
-
-Mover entre perímetros é mudança de exposição, não medição precisa. Porém, sua capacidade de fazê-la depende da sua taxa de movimento. Ela determina quantos deslocamentos você pode fazer em um turno. Caso você seja forçado a mudar de posição sem movimentos restantes, você automaticamente cai no chão e precisa se levantar como uma ação no próximo turno.
-
-## 2. ATAQUE INIMIGO
-
-O MJ não faz nenhuma rolagem de ataque. Ao invés disso, ele declara a ação dos oponentes e os alvos, de acordo com o perímetro onde ocorrerá o ataque. Cada ataque inimigo força uma **salvaguarda do jogador afetado**.
-
-O jogador escolhe a salvaguarda:
-
-- FOR → resistir e manter posição
-- DES → evitar impacto mudando perímetro
-- VON → resistir a efeitos mentais/sobrenaturais
-
-Ele precisa resistir ao seu valor de salvaguarda + o valor de Habilidade (HAB) do oponente.
-A resolução final sempre passa pela tabela de TABELA DE IMPACTO.
-
-### Ataques à Distância
-
-Diferente do que somos acostumados a crer, desviar de uma flecha disparada é uma tarefa quase impossível. A única forma de um PJ, a princípio, poder fazer algum teste de salvaguarda contra um ataque à distância, é estando em posse de algum escudo ou engajado à algum obstáculo, muro, barricada.
-
-## 3. ATAQUE DO JOGADOR
-
-Ataques sempre acertam. O ataque gera impacto direto através da TABELA DE IMPACTO.
-
-## 4. A TABELA DE IMPACTO (1d6)
-
-| 1d6 | resultado                                                                                                       |
-| --- | --------------------------------------------------------------------------------------------------------------- |
-| 1   | Dano normal. O defensor alvo ganha uma vantagem da próxima vez que for atacado OU o atacante alvo perde posição |
-| 2   | Ataque fraco, o dano da arma é reduzido pela metade, sendo no mínimo 1 dn.                                      |
-| 3   | Dano normal                                                                                                     |
-| 4   | Dano normal                                                                                                     |
-| 5   | Dano normal. O defensor alvo ganha uma desvantagem da próxima vez que for atacado OU perde uma posição          |
-| 6   | Dano em Dobro. O defensor alvo perde a sua ação por 1 turno.                                                    |
-
-### DANO E ARMADURA
-
-Se uma criatura recebe Dano (dn) enquanto usa uma armadura, o Dano reduz os pontos de Armadura dela. Se nenhum ponto de armadura sobrar, ela recebe o restante do Dano como Ferimentos. Alguns ataques ou efeitos podem causar Ferimentos diretamente e ignorar a Armadura da criatura.
-
-### ESCUDOS
-
-Empunhar um escudo reduz o Dano a ser recebido em 1, mas nunca reduz este Dano abaixo de 1.
-
-## DADOS DE VIDA E MORTE
-
-Cada vez que uma criatura recebe um Ferimento, ela rola seus Dados de Vida (DV). Cada DV é um d6. Se o resultado for menor ou igual ao número de Ferimentos que ela acumulou, a criatura sucumbe.
+Uma criatura ao sofrer Dano (dn.) converte aquele total em Ferimentos. Sempre que um ou mais Ferimentos são causados ela deve rolar uma quantidade de d6 igual ao total dos seus Dados de Vida. Se o resultado total for  o número de Ferimentos que ela acumulou, a criatura sucumbe.
 
 Personagens não morrem imediatamente, ao invés disso ficam incapacitados e sofrem uma das seguintes consequências:
 
-TABELA 2D6 FERIMENTOS GRAVES
+#### Tabela 2d6 Ferimentos Graves
 
 | 2-3   | Morte Iminente      | Morre em 1d6 rodadas, a menos que seja curado com magia. Na sua última rodada tem direito a uma ação final.                                                           |
 | ----- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -209,7 +149,6 @@ TABELA 2D6 FERIMENTOS GRAVES
 | 11-12 | Cicatriz de Batalha | A sua pele nunca mais será a mesma depois dessa luta. Sua salvaguarda de VON aumenta em 1 até se recuperar com magia ou 1d6 dias de repouso. A cicatriz não é curada. |
 
 Se um PJ receber dano logo após um ferimento grave, ele morrerá naquela rodada.
-
 # MAGIA (rascunho)
 
 Para conjurar magias você precisa de um grimório ou um pergaminho contendo uma magia nas mãos e capacidade de falar em alto e bom som.
