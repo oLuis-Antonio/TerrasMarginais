@@ -83,7 +83,8 @@ A cada Rodada, o lado que age primeiro é aquele que estiver em menor número. G
 
 Esse é o momento decisivo! Segundos que parecem vários minutos gastos por discussões de tática regadas a salgadinhos baratos. Um personagem pode realizar uma ação e/ou se deslocar durante aquela Rodada.
 
-### Deslocamento
+Uma ação é qualquer atitude específica q exija algum esforço além das pernas: atacar, procurar um item na mochila, etc. É incentivado que ações tomem um rumo mais criativo do que simplesmente "eu ataco", podendo por exemplo "saltar da mesa e atacar", ficando a critério do mestre as consequências e desafios extras que possam incutir tão tipo de ação. O que não é possível é combinar múltiplas ações como uma "mega-ação" (pegar um item na mochila e atacar com ele é um exemplo clássico).
+## Deslocando
 
 Neste jogo as distâncias e deslocamentos de um combate sempre se ocorrem utilizando o lado inimigo como referencial.  A partir dele, são traçados alguns círculos de perímetro para determinar as distintas distâncias dos demais personagens do centro daquele combate.
 
@@ -95,7 +96,12 @@ Neste jogo as distâncias e deslocamentos de um combate sempre se ocorrem utiliz
 
 Um personagem pode se deslocar de perímetros propositalmente quando for sua vez de agir. Ele pode se deslocar ou ser deslocado sem cair no chão uma quantidade de vezes igual ao total de sua Taxa de Movimento durante toda uma Rodada.
 
-Caindo: Caso o personagem seja deslocado por outra pessoa (seja como efeito de um combate, feitiço, etc.) e sua Taxa de Movimento estiver zerada por aquela Rodada, ele automaticamente cairá no chão. É necessário uma ação para levantar-se assim que estiver apto a agir.
+**Caindo**: Caso o personagem seja deslocado por outra pessoa (seja como efeito de um combate, feitiço, etc.) e sua Taxa de Movimento estiver zerada por aquela Rodada, ele automaticamente cairá no chão. É necessário uma ação para levantar-se assim que estiver apto a agir.
+
+## Atacando
+
+Diferente de outros RPGs, neste de jogo não há rolagens de ataque ou de dano convencionais. Ao invés disso, o resultado de um ataque é determinado pelo resultado em uma **Tabela de Impacto** determinado pelo resultado total do Dado de Impacto de um arma após possíveis reduções aplicadas por 
+
 
 ----
 
