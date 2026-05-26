@@ -81,7 +81,7 @@ A cada Rodada, o lado que age primeiro é aquele que estiver em menor número. G
 
 ## Agindo
 
-Esse é o momento decisivo! Segundos que parecem vários minutos gastos por discussões, estratégias e táticas de combate. Um personagem pode realizar uma ação e/ou deslocar de uma quantidade de perímetros de combate igual a sua taxa de movimento.
+Esse é o momento decisivo! Segundos que parecem vários minutos gastos por discussões de tática regadas a salgadinhos baratos. Um personagem pode realizar uma ação e/ou deslocar de uma quantidade de perímetros de combate igual a sua taxa de movimento.
 
 ### Deslocamento
 
