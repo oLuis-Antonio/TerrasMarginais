@@ -34,7 +34,8 @@ Algumas situações podem dar a um personagem Vantagens e/ou Desvantagens em sua
 
 Em qualquer teste, para cada Vantagem ou Desvantagem o jogador rola um d6 (que se adiciona ao d20 normal). Se o dado rolado é uma Vantagem, o maior valor tirado é adicionado ao resultado. Se o dado rolado é uma Desvantagem, o maior valor tirado é subtraído do resultado.
 
-Um NPC não rola sob efeito de nenhuma Vantagem ou Desvantagem. Se algo o afeta positiva ou negativamente, isso deve refletir nos testes dos PJs apenas.# Inventário e Cansaços
+Um NPC não rola sob efeito de nenhuma Vantagem ou Desvantagem. Se algo o afeta positiva ou negativamente, isso deve refletir nos testes dos PJs apenas.
+# Inventário e Cansaços
 
 Um PJ possuí 12 Espaços de Inventário (EI), 10 em sua mochila e 1 para cada mão. Esses espaços são abstrações da capacidade de carga de cada PJ, onde a maioria dos itens ocupa apenas um espaço, mas alguns itens, como armas e armaduras, ocupam múltiplos espaços.
 
@@ -98,6 +99,8 @@ Um personagem pode se deslocar de perímetros propositalmente quando for sua vez
 
 **Caindo**: Caso o personagem seja deslocado por outra pessoa (seja como efeito de um combate, feitiço, etc.) e sua Taxa de Movimento estiver zerada por aquela Rodada, ele automaticamente cairá no chão. É necessário uma ação para levantar-se assim que estiver apto a agir.
 
+Personagens caídos não conseguem deslocar de perímetro, Resistir ou Esquivar de ataques enquanto estiverem caídos.
+
 ## Atacando
 
 Diferente de outros RPGs, neste de jogo não há rolagens de ataque ou de Dano (dn.) convencionais. Ao invés disso, as consequências de um ataque são determinadas pelo resultado em uma **Tabela de Impacto** determinado pelo resultado total do Dado de Impacto de um arma após possíveis reduções aplicadas por armaduras ou efeitos correlatos.
@@ -106,14 +109,15 @@ Ataques corpo-a-corpo exigem, por padrão, que o atacante e o alvo estejam no me
 
 #### Tabela de Impacto
 
-| Impacto | Resultado                                                                                                   |
-| ------- | ----------------------------------------------------------------------------------------------------------- |
-| 0       | Ataque absorvido: arma causa 0dn.                                                                           |
-| 1-2     | Reviravolta: o defensor ganha uma vantagem para se defender ou reduzir Impacto no próximo ataque que sofrer |
-| 3-4     | Golpe ordinário: um acerto sem impacto especial                                                             |
-| 5       | Empurrão: o defensor é deslocado de perímetro com o ataque                                                  |
-| 6       | Botar Pressão: o atacante ganha uma vantagem para aumentar Impacto no próximo ataque contra aquele defensor |
-| 7+      | Atropelo: o defensor recebe um Cansaço e o atacante escolhe um efeito adicional da tabela.                  |
+| Impacto | Resultado                                                                                                                                                          |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0       | Ataque absorvido: arma causa 0dn.                                                                                                                                  |
+| 1-2     | Reviravolta: o defensor ganha uma Vantagem para se defender ou reduzir Impacto no próximo ataque que sofrer; ou o atacante sofre uma Desvantagem na mesma situação |
+| 3-4     | Golpe ordinário: um acerto sem impacto especial                                                                                                                    |
+| 5       | Empurrão: o defensor é deslocado de perímetro com o ataque                                                                                                         |
+| 6       | Botar Pressão: o atacante ganha uma Vantagem para aumentar Impacto no próximo ataque contra aquele defensor; ou o defensor sofre uma Desvantagem na mesma situação |
+| 7+      | Atropelo: o defensor recebe um Cansaço e o atacante escolhe um efeito adicional da tabela.                                                                         |
+**Vantagem e Desvantagem**: assim como na regra de salvaguardas, vantagens e desvantagens podem ser aplicadas às rolagens de Impacto feitas por jogadores. Um Dado de Impacto extra é rolado para armas, no caso de um ataque, ou para armaduras, no caso de uma defesa. 
 ### Dano Crítico
 
 Caso o valor máximo do Dado de Impacto seja rolado, o dano fixo daquela arma é dobrado
@@ -128,7 +132,7 @@ Quando um personagem não quer perder sua posição para se defender ele precisa
 Flechas e projéteis são incrivelmente velozes. A única forma de Resistir a um ataque à distância é estar em posse de um escudo.
 
 ### Esquivar
-Quando um personagem não se garante na força bruta ele precisa confiar nos próprios pés. Esquivar requer forçar um deslocamento de posição (podendo cair no processo) e uma salvaguarda bem-sucedida de DES para defender um ataque. O resultado da salvaguarda não interfere no deslocamento.
+Quando um personagem não se garante na força bruta ele precisa confiar nos próprios pés. Esquivar requer um recuo forçado de um perímetro e uma salvaguarda bem-sucedida de DES para defender um ataque. Caso o personagem não possua Taxa de Movimento restante suficiente para esse deslocamento, ele cai no chão. O resultado da salvaguarda não interfere no deslocamento.
 
 #### Ataques à Distância
 Flechas e projéteis são incrivelmente velozes.  A única forma de Esquivar de um ataque à distância é estar próximo de qualquer coisa que sirva de barricada, ou arriscar tudo Caindo ao chão. 
