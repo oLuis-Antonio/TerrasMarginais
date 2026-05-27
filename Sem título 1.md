@@ -100,7 +100,7 @@ Um personagem pode se deslocar de perímetros propositalmente quando for sua vez
 
 ## Atacando
 
-Diferente de outros RPGs, neste de jogo não há rolagens de ataque ou de Dano (dn.) convencionais. Ao invés disso, o resultado de um ataque é determinado pelo resultado em uma **Tabela de Impacto** determinado pelo resultado total do Dado de Impacto de um arma após possíveis reduções aplicadas por armaduras ou efeitos correlatos.
+Diferente de outros RPGs, neste de jogo não há rolagens de ataque ou de Dano (dn.) convencionais. Ao invés disso, as consequências de um ataque são determinadas pelo resultado em uma **Tabela de Impacto** determinado pelo resultado total do Dado de Impacto de um arma após possíveis reduções aplicadas por armaduras ou efeitos correlatos.
 
 Ataques corpo-a-corpo exigem, por padrão, que o atacante e o alvo estejam no mesmo perímetro (geralmente o Perímetro Engajado). Ataques à distância exigem pelo menos dois perímetros de distância ou a rolagem na Tabela de Impacto sofre uma desvantagem (duas rolagens, mantém o pior resultado para o atacante).
 
@@ -133,9 +133,20 @@ Quando um personagem não se garante na força bruta ele precisa confiar nos pr�
 #### Ataques à Distância
 Flechas e projéteis são incrivelmente velozes.  A única forma de Esquivar de um ataque à distância é estar próximo de qualquer coisa que sirva de barricada, ou arriscar tudo Caindo ao chão. 
 
+### Armaduras
+
+Cada armadura possui um Dado de Impacto próprio. Quando um atacante rola o Impacto de seu ataque, o defensor alvo subtrai daquele total o resultado da rolagem de sua respectiva armadura para reduzir o Impacto final.
+
+| Armadura | Dado de Impacto |
+| -------- | --------------- |
+| Leve     | 1d4             |
+| Pesada   | 1d6             |
+#### Escudos
+Escudos reduzem todo Impacto de um ataque em 1 e permitem com que personagens Resistam a ataques à distância.
+
 ## Ferimentos e Morte
 
-Uma criatura ao sofrer Dano (dn.) converte aquele total em Ferimentos. Sempre que um ou mais Ferimentos são causados ela deve rolar uma quantidade de d6 igual ao total dos seus Dados de Vida. Se o resultado total for  o número de Ferimentos que ela acumulou, a criatura sucumbe.
+Uma criatura ao sofrer Dano (dn.) converte aquele total em Ferimentos. Sempre que um ou mais Ferimentos são causados ela deve rolar uma quantidade de d6 igual ao total dos seus Dados de Vida. Se o resultado total for menor que o número de Ferimentos que ela acumulou, a criatura sucumbe.
 
 Personagens não morrem imediatamente, ao invés disso ficam incapacitados e sofrem uma das seguintes consequências:
 
