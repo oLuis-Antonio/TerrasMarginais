@@ -109,14 +109,14 @@ Ataques corpo-a-corpo exigem, por padrão, que o atacante e o alvo estejam no me
 
 #### Tabela de Impacto
 
-| Impacto | Resultado                                                                                                                                                          |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0-1     | Ataque absorvido: arma causa 0dn.                                                                                                                                  |
-| 2       | Reviravolta: o defensor ganha uma Vantagem para se defender ou reduzir Impacto no próximo ataque que sofrer; ou o atacante sofre uma Desvantagem na mesma situação |
-| 3-4     | Golpe ordinário: um acerto sem impacto especial                                                                                                                    |
-| 5       | Empurrão: o defensor é deslocado de perímetro com o ataque                                                                                                         |
-| 6       | Botar Pressão: o atacante ganha uma Vantagem para aumentar Impacto no próximo ataque contra aquele defensor; ou o defensor sofre uma Desvantagem na mesma situação |
-| 7+      | Atropelo: o defensor recebe um Cansaço e o atacante escolhe um efeito adicional da tabela.                                                                         |
+| Impacto | Resultado                                                                                                                                                                                            |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0       | Ataque absorvido: arma causa 0dn.                                                                                                                                                                    |
+| 1       | Reviravolta: o defensor ganha uma Vantagem para se defender ou reduzir Impacto no próximo ataque que sofrer; ou o atacante sofre uma Desvantagem na mesma situação. Esse efeito vale por uma Rodada  |
+| 2-4     | Golpe ordinário: um acerto sem impacto especial                                                                                                                                                      |
+| 5       | Empurrão: o defensor é deslocado de perímetro com o ataque                                                                                                                                           |
+| 6       | Botar Pressão: o atacante ganha uma Vantagem para aumentar Impacto no próximo ataque contra aquele defensor; ou o defensor sofre uma Desvantagem na mesma situação.  Esse efeito vale por uma Rodada |
+| 7+      | Atropelo: o defensor recebe um Cansaço e o atacante escolhe um efeito adicional da tabela.                                                                                                           |
 **Vantagem e Desvantagem**: assim como na regra de salvaguardas, vantagens e desvantagens podem ser aplicadas às rolagens de Impacto feitas por jogadores. Um Dado de Impacto extra é rolado para armas, no caso de um ataque, ou para armaduras, no caso de uma defesa. 
 ### Dano Crítico
 
