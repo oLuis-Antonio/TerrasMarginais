@@ -111,8 +111,8 @@ Ataques corpo-a-corpo exigem, por padrão, que o atacante e o alvo estejam no me
 
 | Impacto | Resultado                                                                                                                                                          |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0       | Ataque absorvido: arma causa 0dn.                                                                                                                                  |
-| 1-2     | Reviravolta: o defensor ganha uma Vantagem para se defender ou reduzir Impacto no próximo ataque que sofrer; ou o atacante sofre uma Desvantagem na mesma situação |
+| 0-1     | Ataque absorvido: arma causa 0dn.                                                                                                                                  |
+| 2       | Reviravolta: o defensor ganha uma Vantagem para se defender ou reduzir Impacto no próximo ataque que sofrer; ou o atacante sofre uma Desvantagem na mesma situação |
 | 3-4     | Golpe ordinário: um acerto sem impacto especial                                                                                                                    |
 | 5       | Empurrão: o defensor é deslocado de perímetro com o ataque                                                                                                         |
 | 6       | Botar Pressão: o atacante ganha uma Vantagem para aumentar Impacto no próximo ataque contra aquele defensor; ou o defensor sofre uma Desvantagem na mesma situação |
