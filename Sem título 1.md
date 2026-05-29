@@ -164,6 +164,11 @@ Personagens não morrem imediatamente, ao invés disso ficam incapacitados e sof
 | 11-12 | Cicatriz de Batalha | A sua pele nunca mais será a mesma depois dessa luta. Sua salvaguarda de VON aumenta em 1 até se recuperar com magia ou 1d6 dias de repouso. A cicatriz não é curada. |
 
 Se um PJ receber dano logo após um ferimento grave, ele morrerá naquela rodada.
+
+### Descanso e Cura
+
+
+
 # MAGIA (rascunho)
 
 Para conjurar magias você precisa de um grimório ou um pergaminho contendo uma magia nas mãos e capacidade de falar em alto e bom som.
