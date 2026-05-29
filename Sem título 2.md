@@ -55,10 +55,38 @@ O tempo de deslocamento entre dois Destinos é medido em Marchas e depende tanto
 Os jogadores podem optar por desbravar fora dos limites dos Caminhos conhecidos. Isso não quer dizer que ali não é terra de ninguém, apenas que o grupo não sabe o suficiente sobre aquela parte do mundo.
 
 Quando não há um caminho claro ou descoberto por uma determinada região, ela se torna uma Zona Desconhecida. É enquanto se atravessa essas regiões que o tempo de Marcha tende a variar e há mais perigos de se explorar ou descansar.
-#### Abrir Caminho
+##### Abrir Caminho
 
 Personagens podem ativamente se esforçar para delimitar uma nova trilha dentro de uma Zona Desconhecida.
 
 A vantagem de abrir novos Caminhos é poder estabelecer rotas alternativas por regiões ermas, outra vantagem é a de descobrir novos Destinos inesperados, trazendo consigo novas aventuras. É claro, não é tarefa fácil. Abrir caminho atrai muito mais riscos de se perder ou encontrar alguma coisa indesejada, mas como negar a vontade dos próprios pés?
 
 Ao abrir um novo Caminho com sucesso, reduza em um passo a proporção de Marchas necessária para atravessar aquela região. Anote em seu mapa para não acabar esquecendo da trilha e precisar repetir todo o processo novamente.
+
+### Teste de Travessia
+
+A cada marcha, um dos jogadores é responsável por realizar um Teste de Travessia. Uma maneira de verificar possíveis acontecimentos durante uma viagem como: encontros, mudanças no tempo ou desvios de rota.
+
+Para realizar um Teste de Travessia, role 1d6 para a tabela principal e 1d6 para as tabelas secundárias responsáveis por detalhar o resultado inicial. Estar viajando por um Caminho ou explorando uma Zona Desconhecida alteram os resultados da Tabela de Travessia, descrita abaixo:
+
+#### Tabela de Travessia
+
+| 1d6 | Caminho         | 1d6 | Zona Desconhecida |
+| --- | --------------- | --- | ----------------- |
+| 1   | Encontro        | 1   | Encontro          |
+| 2   | Virada no Tempo | 2-3 | Desvio            |
+| 3-5 | Quietude        | 4-5 | Virada no Tempo   |
+| 6   | Pista           | 6   | Pista             |
+
+#### Encontros
+
+Um Encontro é um evento onde os personagens se aproximam repentinamente de algum NPC como um comerciante na estrada, um animal selvagem ou um... dragão?
+Claro, um Encontro não significa automaticamente um Combate, mas exigem um Teste de Moral para determinar os rumos daquele acontecimento.
+
+#### Virada no Tempo
+
+O Mestre de Jogo no início de uma dia delimita as condições climáticas iniciais: um dia ensolarado, Sol entre nuvens, chuva torrencial. Um evento de Virada no Tempo altera essas condições climáticas a partir do resultado do segundo d6 de acordo com as Tabelas de Tempo nas regras do MJ.
+
+#### Desvio
+
+Ao explorar uma Zona Desconhecida ou tentar Abrir Caminho por ela, é possível que ocorra um desvio de rota. Porém, ao invés de ficar meramente perdido, é muito provável que esse desvio acarrete na descoberta de novos Destinos e, com eles, novas episódios de aventura.
