@@ -82,12 +82,12 @@ A cada Rodada, o lado que age primeiro é aquele que estiver em menor número. G
 
 ## Agindo
 
-Esse é o momento decisivo! Segundos que parecem vários minutos gastos por discussões de tática regadas a salgadinhos baratos. Um personagem pode realizar uma ação e/ou se deslocar durante aquela Rodada.
+Esse é o momento decisivo! Segundos que parecem vários minutos gastos por discussões de tática regadas a salgadinhos baratos. Um personagem pode realizar uma ação e se deslocar durante aquela Rodada.
 
-Uma ação é qualquer atitude específica q exija algum esforço além das pernas: atacar, procurar um item na mochila, etc. É incentivado que ações tomem um rumo mais criativo do que simplesmente "eu ataco", podendo por exemplo "saltar da mesa e atacar", ficando a critério do mestre as consequências e desafios extras que possam incutir tão tipo de ação. O que não é possível é combinar múltiplas ações como uma "mega-ação" (pegar um item na mochila e atacar com ele é um exemplo clássico).
+Uma ação é qualquer atitude específica que exija algum esforço além das pernas: atacar, procurar um item na mochila ou jogá-la ao chão, etc. É incentivado que ações tomem um rumo mais criativo do que simplesmente "eu ataco", podendo por exemplo "saltar da mesa e atacar", ficando a critério do mestre as consequências e desafios extras que esse tipo de ação possa gerar. O que não é possível é combinar múltiplas ações como uma "mega-ação" (pegar um item na mochila e atacar com ele é um exemplo clássico).
 ## Deslocando
 
-Neste jogo as distâncias e deslocamentos de um combate sempre se ocorrem utilizando o lado inimigo como referencial.  A partir dele, são traçados alguns círculos de perímetro para determinar as distintas distâncias dos demais personagens do centro daquele combate.
+Neste jogo, distâncias em combate são medidas utilizando o lado inimigo como referencial.  A partir dele, são traçados alguns círculos de perímetro para determinar as distintas distâncias dos demais personagens do centro daquele combate.
 
 #### Perímetros
 - Engajado: o centro do conflito
@@ -167,7 +167,15 @@ Se um PJ receber dano logo após um ferimento grave, ele morrerá naquela rodada
 
 ### Descanso e Cura
 
+Após quase sair morto de um conflito é preciso tirar certo tempo de descanso para haver alguma recuperação. Isso pode ser feito de duas formas:
 
+#### Descanso Rápido
+
+Quando se está explorando uma área perigosa geralmente não é possível descansar por várias horas seguidas. Entretanto, é possível gastar um Turno para fazer uma pequena pausa estratégica. Esses descansos rápidos durante explorações são momentos valiosos para evitar fadiga e se curar pontualmente. Além de evitar acumulo de novos Cansaços, fazer essa pausa permite com que você remova um Cansaço já existente ou 1 Ferimento cometido contra aquele personagem, em troca de consumir uma marmita de viagem.
+
+#### Noite de Sono
+
+Para se recuperar de todos os Ferimentos não graves e Cansaços é necessário uma boa noite de sono: não ser interrompido durante a noite e possuir um local adequado para dormir. Caso o descanso seja interrompido ou inadequado, recupere apenas metade dos Ferimentos e Cansaços (arredondando para baixo, mínimo 1).
 
 # MAGIA (rascunho)
 
