@@ -14,15 +14,13 @@ Essas perguntas são mera referência para uma construção emergente de jogo, p
 
 ### De volta ao Lar
 
-Os Personagens ao tomarem a decisão de voltar para casa são ocupados pela saudade daquilo que os conecta com aquele lugar. O sentimento é tamanho que as estradas até parecem detalhe frente a sensação de estarem retornando. Quando os Aventureiros fazem esse movimento de reaproximação do Lar de algum membro do grupo todos os Testes de Exploração ganham um bônus de +2 enquanto estiverem viajando por caminhos conhecidos.
-
-// Teste de Exploração --> Hazard Die (ainda vou escrever)
+Os Personagens ao tomarem a decisão de voltar para casa são ocupados pela saudade daquilo que os conecta com aquele lugar. O sentimento é tamanho que as estradas até parecem detalhe frente a sensação de estarem retornando. Quando os Aventureiros fazem esse movimento de reaproximação do Lar de algum membro do grupo todos os Testes de Travessia ganham um bônus de +2 enquanto estiverem viajando na direção de casa.
 ## Travessia pelos ermos
 
 O mundo é vasto: florestas, pântanos, montanhas e desertos preenchem a paisagem e moldam as trilhas, percalços e histórias dos personagens. Por mais que chamemos as terras longe de casa de "ermos" - terras isoladas, aparentemente sem dono - a verdade, convenientemente ignorada por "conquistadores", é que nunca estamos sozinhos no mundo e o ermo para alguns é a casa de outros.
 
 É claro, como esse é um jogo sobre sair por aí em uma aventura e voltar para contar a história, nosso foco não é uma exploração voltada a pilhagem. Os personagens são peregrinos em um mundo pra eles até então desconhecido. E é o efeito de atravessar essa barreira do desconhecido e aprender sobre o mundo que trataremos nestas regras.
-### Destino
+### Destinos
 
 Destinos são zonas de interesse como vilas, cidades, acidentes geográficos ou qualquer área que possa ser explorada em maiores detalhes. O Destino é o motor de qualquer Travessia, então é preciso escolhe-lo com cuidado. Falaremos sobre sua exploração em mais detalhes nas próximas seções.
 ### Preparando uma Travessia
@@ -49,11 +47,18 @@ O tempo de deslocamento entre dois Destinos é medido em Marchas e depende tanto
 
 ##### Proporção dos tempos de Marcha
 
-| Estrada Pavimentada ou Embarcação | Planícies, Tundras e Desertos | Montanhas, Pântanos e Florestas |
-| --------------------------------- | ----------------------------- | ------------------------------- |
-| 1x                                | 2x                            | 3x                              |
+| Estrada e Hidrovias | Trilhas e Terrenos Abertos | Zonas Desconhecidas |
+| ------------------- | -------------------------- | ------------------- |
+| 1x                  | 2x                         | 3x                  |
+#### Zonas Desconhecidas
+
+Os jogadores podem optar por desbravar fora dos limites dos Caminhos conhecidos. Isso não quer dizer que ali não é terra de ninguém, apenas que o grupo não sabe o suficiente sobre aquela parte do mundo.
+
+Quando não há um caminho claro ou descoberto por uma determinada região, ela se torna uma Zona Desconhecida. É enquanto se atravessa essas regiões que o tempo de Marcha tende a variar e há mais perigos de se explorar ou descansar.
 #### Abrir Caminho
 
-Os jogadores podem optar por desbravar fora dos limites dos Caminhos conhecidos. Isso não quer dizer que ali não é terra de ninguém, apenas que o grupo não sabe o suficiente sobre aquela parte do mundo. A vantagem de abrir novos Caminhos é manter rotas e trilhas alternativas por regiões ermas, ou descobrir novos Destinos inesperados, trazendo consigo novas aventuras. É claro, não é tarefa fácil. Abrir caminho atrai muito mais riscos de se perder ou encontrar alguma coisa indesejada, mas como negar a vontade dos próprios pés?
+Personagens podem ativamente se esforçar para delimitar uma nova trilha dentro de uma Zona Desconhecida.
 
-Ao abrir um novo caminho com sucesso, ele reduz em 1x a proporção total de Marchas necessário para atravess
+A vantagem de abrir novos Caminhos é poder estabelecer rotas alternativas por regiões ermas, outra vantagem é a de descobrir novos Destinos inesperados, trazendo consigo novas aventuras. É claro, não é tarefa fácil. Abrir caminho atrai muito mais riscos de se perder ou encontrar alguma coisa indesejada, mas como negar a vontade dos próprios pés?
+
+Ao abrir um novo Caminho com sucesso, reduza em um passo a proporção de Marchas necessária para atravessar aquela região. Anote em seu mapa para não acabar esquecendo da trilha e precisar repetir todo o processo novamente.
