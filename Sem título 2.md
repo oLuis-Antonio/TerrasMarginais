@@ -24,4 +24,4 @@ O mundo é vasto: florestas, pântanos, montanhas e desertos preenchem a paisage
 É claro, como esse é um jogo sobre sair por aí em uma aventura e voltar para contar a história, nosso foco não é uma exploração voltada a pilhagem. Os personagens são peregrinos em um mundo pra eles até então desconhecido. E é o efeito de atravessar essa barreira do desconhecido e aprender sobre o mundo que trataremos nestas regras.
 ### Preparando uma Travessia
 
-Aqui eu pretendo escrever sobre: ordem de marcha e mapeamento
+É nesse momento onde os personagens ajeitam suas mochilas e compram os equipamentos necessários para uma viagem de um ou mais dias
