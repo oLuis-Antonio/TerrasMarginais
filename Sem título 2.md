@@ -1,5 +1,11 @@
+# Lar
+
+Todos vieram de algum lugar e os Aventureiros de *nome do jogo* não são exceção. Antes de qualquer viagem temos, que guardar na memória nossa casa para que a ansiedade de voltar dê o ânimo necessário durante o fim de uma aventura.
+
+Personagens possuem um Lar
 # Aventurando-se
 
+Nesta seção iremos descrever os procedimentos realizados pelos jogadores para explorar antigas estradas e calabouços abandonados.
 ## Exploração pelos ermos
 
 O mundo é vasto: florestas, pântanos, montanhas e desertos preenchem a paisagem e moldam as trilhas, percalços e histórias dos personagens. Por mais que chamemos as terras longe de casa de "ermos" - terras isoladas, aparentemente sem dono - a verdade, convenientemente ignorada por "conquistadores", é que nunca estamos sozinhos no mundo e o ermo para alguns é a casa de outros.
