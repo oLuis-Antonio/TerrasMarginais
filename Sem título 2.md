@@ -24,4 +24,32 @@ O mundo é vasto: florestas, pântanos, montanhas e desertos preenchem a paisage
 É claro, como esse é um jogo sobre sair por aí em uma aventura e voltar para contar a história, nosso foco não é uma exploração voltada a pilhagem. Os personagens são peregrinos em um mundo pra eles até então desconhecido. E é o efeito de atravessar essa barreira do desconhecido e aprender sobre o mundo que trataremos nestas regras.
 ### Preparando uma Travessia
 
-É nesse momento onde os personagens ajeitam suas mochilas e compram os equipamentos necessários para uma viagem de um ou mais dias
+É nesse momento onde os personagens ajeitam suas mochilas e compram os equipamentos necessários para uma viagem baseado no Destino escolhido para a Travessia.
+#### Destino
+
+São zonas de interesse como vilas, cidades, acidentes geográficos ou qualquer área explorável em maiores detalhes.
+#### Mapeamento
+
+Ainda que alguns Destinos e caminhos até sejam conhecidos, os aventureiros não possuem o completa compreensão da vastidão do mundo. Portanto, é recomendado que um jogador fique responsabilizado em desenhar o mapa conforme o mundo é mais e mais explorado.
+### Marchas
+
+Marchas são uma forma de contabilizar o progresso e duração de uma Travessia. Dividindo o dia em 4 Marchas, cada uma com 6 horas de duração:
+
+- Manhã (6h. - 11h.)
+- Tarde (12h. - 17h.)
+- Noite (18h. - 23h.)
+- Madrugada (00h. - 5h.)
+
+### Caminhos
+
+Caminhos são as conexões entre diferentes Destinos: trilhas, estradas e percursos fluviais são algumas de suas variações mais comuns. O tempo de deslocamento é medido em Marchas e varia conforme o tipo de caminho e o terreno atravessado.
+
+##### Tabela de variação nos tempos de Marcha
+
+| Estrada Pavimentada ou Embarcação | Planícies, Tundras e Desertos | Montanhas, Pântanos e Florestas |
+| --------------------------------- | ----------------------------- | ------------------------------- |
+| 1 Marcha                          | +1 Marcha                     | +2 Marchas                      |
+
+#### Abrir Caminhos
+
+Os jogadores podem optar
