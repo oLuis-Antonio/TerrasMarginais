@@ -2,7 +2,7 @@
 
 Os personagens são pessoas comuns que, por alguma razão, possuem dentro de si a vontade de sair por aí sem saber para onde seus pés o levarão. Isso, é claro, não vem completamente do nada. Por isso, ao criar seu personagem, você preenche o seu primeiro espaço de Vivência com um Chamado para Aventura. Uma experiência inicial que te põe em movimento, ainda que de forma atrapalhada.  Eventualmente, após evoluir para o 2 nível, o PJ deverá Desapegar daquele chamado em troca de sua primeira Vivência.
 
-## Lista de Chamados para Aventura
+## Lista de Chamados para Aventura (rascunho antigo)
 
 * Iniciado: você começa a sua jornada achando um grimório abandonando com apenas 1 feitiço anotado. Você sofre uma desvantagem na primeira salvaguarda de VON envolvendo magia que fizer.
 * Trombadinha: você começa a sua jornada egresso de uma confusão em que estava envolvido. Você rola o dobro em qualquer tabela de tesouro ao praticar furtos, mas você precisa pagar sua dívida.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "Sem título 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Sem título 1"
             }
           }
         ]
@@ -197,10 +197,10 @@
   },
   "active": "69aa25932cf853b3",
   "lastOpenFiles": [
-    "Sem título 1.md",
     "Sem título 2.md",
-    "ESCUDO.md",
     "Sem título.md",
+    "Sem título 1.md",
+    "ESCUDO.md",
     "Context.md",
     "MAPA.md",
     "Boca do Vale.md",

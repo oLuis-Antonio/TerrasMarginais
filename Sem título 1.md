@@ -185,14 +185,14 @@ Grimório -> Consegue guardar um número de magias igual a 2x o nível de person
 
 Pergaminho -> guarda só uma magia e é consumido assim que usado.
 
-Conjurar uma magia requer normalmente o gasto de 1 Cansaço e seu poder varia conforme o Nível de Concentração para conjurá-la, declarado previamente pelo jogador. Por sua natureza volátil e caotica, magias requerem uma salvaguarda de VON ao final de uma conjuração sem interrupções para evitar qualquer _falha mágica_, efeitos adversos que modificam o resultado da magia de maneira imprevisível tanto para inimigos, quanto aliados.
+Conjurar uma magia requer normalmente o gasto de 1 Cansaço e seu poder varia conforme o Nível de Concentração para conjurá-la, declarado previamente pelo jogador. Por sua natureza volátil e caótica, magias requerem uma salvaguarda de VON ao final de uma conjuração sem interrupções para evitar qualquer _falha mágica_, efeitos adversos que modificam o resultado da magia de maneira imprevisível tanto para inimigos, quanto aliados.
 
 TABELA DE FALHA MÁGICA
 
 | 1d6 | Efeito                                                                                          |
 | --- | ----------------------------------------------------------------------------------------------- |
 | 1   | Um efeito arcano perceptível denuncia sua presença ou altera o ambiente ao redor                |
-| 2   | Você recebe 1 Ferimento direto ou perde toda Armadura restante                                  |
+| 2   | Você recebe 1 Ferimento  direto                                                                 |
 | 3   | A magia é conjurada com um Nível de Concentração a menos e você perde posição                   |
 | 4   | Você recebe 1 Cansaço adicional e não pode conjurar novamente até o próximo turno               |
 | 5   | A magia afeta um alvo ou perímetro próximo de forma indesejada                                  |
