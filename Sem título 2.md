@@ -73,8 +73,8 @@ Para realizar um Teste de Travessia, role 1d6 para a tabela principal e 1d6 para
 
 | 1d6 | Caminho         | 1d6 | Zona Desconhecida |
 | --- | --------------- | --- | ----------------- |
-| 1   | Encontro        | 1   | Encontro          |
-| 2   | Virada no Tempo | 2-3 | Desvio            |
+| 1   | Encontro        | 1-2 | Encontro          |
+| 2   | Virada no Tempo | 3   | Desvio            |
 | 3-5 | Quietude        | 4-5 | Virada no Tempo   |
 | 6   | Pista           | 6   | Pista             |
 
@@ -87,6 +87,35 @@ Claro, um Encontro não significa automaticamente um Combate, mas exigem um Test
 
 O Mestre de Jogo no início de uma dia delimita as condições climáticas iniciais: um dia ensolarado, Sol entre nuvens, chuva torrencial. Um evento de Virada no Tempo altera essas condições climáticas a partir do resultado do segundo d6 de acordo com as Tabelas de Tempo nas regras do MJ.
 
-#### Desvio
+#### Desvios
 
 Ao explorar uma Zona Desconhecida ou tentar Abrir Caminho por ela, é possível que ocorra um desvio de rota. Porém, ao invés de ficar meramente perdido, é muito provável que esse desvio acarrete na descoberta de novos Destinos e, com eles, novas episódios de aventura.
+
+#### Pistas
+
+Um sinal em direção ao Destino, um rastro de animal, vestígios de passagem ou qualquer detalhe que revele algo sobre a região. Pistas servem para instigar os personagens com novas informações, ou mostrar que eles estão na direção certa
+
+Durante uma Travessia em meio a uma Zona Desconhecida, achar Pistas confere um bônus de +1 para o próximo Teste de Travessia, parece que no meio daquela mata fechada existe alguma lógica, afinal. O Mestre pode considerar uma sequência de Pistas como evidência suficiente para estabelecer um novo Caminho através daquela região.
+
+----
+## (texto da parte do mestre) Tabela de Tempo
+
+Toda região possui a sua variabilidade climática e, enquanto se está viajando, isso faz toda a diferença. A Tabela de Tempo serve para contabilizar essas mudanças com o passar do tempo.
+
+**Como Funciona?**
+A Tabela de Tempo de uma região tem como base em 1d8, porém ela nunca é rolada aleatoriamente, pelo menos não de maneira convencional. No começo de toda Travessia ou num Evento de Virada no Tempo, 1d6 é rolado e seu resultado corresponde ao número de casas que se anda de cima para baixo pela tabela. Se o resultado ultrapassa seu fim, volta-se ao inicio da tabela e o resultado termina de ser contabilizado.
+
+Tempo base: No começo da Travessia, o tempo inicia sempre no resultado 2 da tabela e progride conforme as rolagens seguintes.
+
+Exemplo:
+
+| d8  | Clima         |
+| --- | ------------- |
+| 1   | Céu limpo     |
+| 2   | Céu limpo     |
+| 3   | Nublado       |
+| 4   | Garoa         |
+| 5   | Chuva         |
+| 6   | Chuva         |
+| 7   | Tempestade    |
+| 8   | Névoa intensa |
