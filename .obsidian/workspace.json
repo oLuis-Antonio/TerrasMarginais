@@ -11,18 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ESCUDO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "Sem título 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "ESCUDO"
+              "icon": "lucide-file",
+              "title": "Sem título 1"
             }
           }
         ]
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESCUDO.md",
+                "file": "Sem título 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para ESCUDO"
+              "title": "Links inversos para Sem título 1"
             }
           },
           {
@@ -213,10 +209,10 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Sem título 2.md",
-    "Sem título 1.md",
-    "Context.md",
-    "ESCUDO.md",
     "Sem título.md",
+    "Sem título 1.md",
+    "ESCUDO.md",
+    "Context.md",
     "MAPA.md",
     "Boca do Vale.md",
     "README.md",
