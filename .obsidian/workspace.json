@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideias do cenário.md",
+                "file": "03-aventurando-se.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ideias do cenário"
+              "title": "03-aventurando-se"
             }
           }
         ]
@@ -89,12 +89,36 @@
         "type": "tabs",
         "children": [
           {
+            "id": "86c9e4c9e1cdf92c",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "90a88aea4081184e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "03-aventurando-se.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 03-aventurando-se"
+            }
+          },
+          {
             "id": "942e0d2c65dfef58",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ideias do cenário.md",
+                "file": "03-aventurando-se.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,20 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para ideias do cenário"
-            }
-          },
-          {
-            "id": "90a88aea4081184e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links inversos para 03-aventurando-se"
             }
           },
           {
@@ -132,7 +143,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
@@ -146,7 +157,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas as propriedades"
             }
           },
           {
@@ -155,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESCUDO.md",
+                "file": "03-aventurando-se.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ESCUDO"
+              "title": "Sumário de 03-aventurando-se"
             }
           },
           {
@@ -180,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Sem título 2.md"
+                "file": "03-aventurando-se.md"
               },
               "icon": "lucide-info",
-              "title": "Propriedades do arquivo Sem título 2"
+              "title": "Propriedades do arquivo 03-aventurando-se"
             }
           }
         ]
@@ -208,12 +219,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "03-aventurando-se.md",
+    "Context.md",
     "ideias do cenário.md",
+    "ESCUDO.md",
+    "03-aventurando-se.md",
     "01-regras principais.md",
     "02-evolucao.md",
-    "ESCUDO.md",
-    "Context.md",
     "MAPA.md",
     "Boca do Vale.md",
     "README.md",
