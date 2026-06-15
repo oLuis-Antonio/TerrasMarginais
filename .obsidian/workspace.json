@@ -11,24 +11,6 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "ESCUDO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "ESCUDO"
-            }
-          },
-          {
-            "id": "691bc5bb46af6195",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "03-aventurando-se.md",
@@ -39,8 +21,7 @@
               "title": "03-aventurando-se"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,11 +89,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "03bd22729c917c91",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
             "id": "942e0d2c65dfef58",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03-aventurando-se.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para 03-aventurando-se"
             }
           },
           {
@@ -150,7 +142,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
@@ -164,7 +156,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas as propriedades"
             }
           },
           {
@@ -192,8 +184,7 @@
               "title": "git-view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,15 +205,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "691bc5bb46af6195",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01-regras principais.md",
+    "ESCUDO.md",
+    "03-aventurando-se.md",
     "ideias do cenário.md",
     "Context.md",
     "conflict-files-obsidian-git.md",
-    "03-aventurando-se.md",
-    "ESCUDO.md",
     "02-evolucao.md",
-    "01-regras principais.md",
     "Sem título 2.md",
     "Sem título 1.md",
     "Sem título.md",

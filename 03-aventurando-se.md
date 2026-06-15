@@ -98,7 +98,7 @@ Um sinal em direção ao Destino, um rastro de animal, vestígios de passagem ou
 Durante uma Travessia em meio a uma Zona Desconhecida, achar Pistas confere um bônus de +1 para o próximo Teste de Travessia, parece que no meio daquela mata fechada existe alguma lógica, afinal. O Mestre pode considerar uma sequência de Pistas como evidência suficiente para estabelecer um novo Caminho através daquela região.
 
 ----
-## (texto da parte do mestre) Tabela de Tempo
+### (texto da parte do mestre) Tabela de Tempo
 
 Toda região possui a sua variabilidade climática e, enquanto se está viajando, isso faz toda a diferença. A Tabela de Tempo serve para contabilizar essas mudanças com o passar do tempo.
 
@@ -119,3 +119,7 @@ Exemplo:
 | 6   | Chuva         |
 | 7   | Tempestade    |
 | 8   | Névoa intensa |
+
+## Investigação de 
+
+O mundo não é só vasto como extremamente antigo. Cavernas nas profundezas que escondem terríveis segredos, templos abandonados pelas algúrias do tempo e masmorras habitadas por... dragões? Esses são alguns exemplos
