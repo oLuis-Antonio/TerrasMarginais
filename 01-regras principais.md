@@ -16,11 +16,6 @@ Para cada um desses, role um d4 para determinar cada valor das salvaguardas do s
 | 2   | 15          |
 | 3   | 14          |
 | 4   | 13          |
-|     | 12          |
-|     | 11          |
-|     | 10          |
-|     | 09          |
-|     | 08          |
 
 ## Testes de Salvaguarda
 
