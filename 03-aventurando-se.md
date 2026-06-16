@@ -49,7 +49,7 @@ O tempo de deslocamento entre dois Destinos é medido em Marchas e depende tanto
 
 | Estrada e Hidrovias | Trilhas e Terrenos Abertos | Zonas Desconhecidas |
 | ------------------- | -------------------------- | ------------------- |
-| 1x                  | 2x                         | 3x                  |
+| -                   | +1                         | +2                  |
 #### Zonas Desconhecidas
 
 Os jogadores podem optar por desbravar fora dos limites dos Caminhos conhecidos. Isso não quer dizer que ali não é terra de ninguém, apenas que o grupo não sabe o suficiente sobre aquela parte do mundo.

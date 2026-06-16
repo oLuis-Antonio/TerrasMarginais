@@ -118,7 +118,7 @@ Ataques corpo-a-corpo exigem, por padrão, que o atacante e o alvo estejam no me
 Caso o valor máximo do Dado de Impacto seja rolado, o dano fixo daquela arma é dobrado
 ## Defendendo
 
-Quando personagens atacam NPCs os Dados de Impacto são rolados automaticamente, porém o contrário não acontece. Os personagens ao serem atacados tem a escolha de Resistir ou Esquivar.
+Quando personagens atacam NPCs os Dados de Impacto são rolados automaticamente, porém o contrário não acontece. Os personagens ao serem atacados tem a escolha de Resistir ou Esquivar. Caso um personagem seja alvo de mais de um ataque, ele precisará escolher qual dos ataques será defendido.
 
 ### Resistir
 Quando um personagem não quer perder sua posição para se defender ele precisa confiar na própria força. Resistir requer uma salvaguarda bem-sucedida de FOR para defender um ataque.
