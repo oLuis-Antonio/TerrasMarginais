@@ -118,7 +118,7 @@ Ataques corpo-a-corpo exigem, por padrão, que o atacante e o alvo estejam no me
 Caso o valor máximo do Dado de Impacto seja rolado, o dano fixo daquela arma é dobrado
 ## Defendendo
 
-Quando personagens atacam NPCs os Dados de Impacto são rolados automaticamente, porém o contrário não acontece. Os personagens ao serem atacados tem a escolha de Resistir ou Esquivar. Caso um personagem seja alvo de mais de um ataque, ele precisará escolher qual dos ataques será defendido.
+Quando personagens atacam NPCs os Dados de Impacto são rolados automaticamente, porém o contrário não acontece. Os personagens ao serem atacados tem a escolha de Resistir ou Esquivar. Personagens podem se defender apenas uma vez por rodada.
 
 ### Resistir
 Quando um personagem não quer perder sua posição para se defender ele precisa confiar na própria força. Resistir requer uma salvaguarda bem-sucedida de FOR para defender um ataque.
@@ -136,12 +136,12 @@ Flechas e projéteis são incrivelmente velozes.  A única forma de Esquivar de 
 
 Cada armadura possui um Dado de Impacto próprio. Quando um atacante rola o Impacto de seu ataque, o defensor alvo subtrai daquele total o resultado da rolagem de sua respectiva armadura para reduzir o Impacto final.
 
-| Armadura | Dado de Impacto |
-| -------- | --------------- |
-| Leve     | 1d4             |
-| Pesada   | 1d6             |
+| Armadura | Redução de Impacto |
+| -------- | ------------------ |
+| Leve     | 1                  |
+| Pesada   | 2                  |
 #### Escudos
-Escudos reduzem todo Impacto de um ataque em 1 e permitem com que personagens Resistam a ataques à distância.
+Escudos permitem que personagens Resistam a ataques à distância ou Resistam a um ataque corpo a corpo adicional por rodada.
 
 ## Ferimentos e Morte
 
