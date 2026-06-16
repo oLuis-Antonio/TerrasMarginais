@@ -11,18 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ESCUDO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "03-aventurando-se.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "ESCUDO"
+              "icon": "lucide-file",
+              "title": "03-aventurando-se"
             }
           }
         ]
@@ -212,8 +208,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Context.md",
-    "01-regras principais.md",
     "ESCUDO.md",
+    "01-regras principais.md",
     "03-aventurando-se.md",
     "ideias do cenário.md",
     "conflict-files-obsidian-git.md",
