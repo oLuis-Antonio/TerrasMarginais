@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-aventurando-se.md",
+                "file": "Context.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-aventurando-se"
+              "title": "Context"
             }
           }
         ]
@@ -104,12 +104,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-aventurando-se.md",
+                "file": "Context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para 03-aventurando-se"
+              "title": "Links de saída para Context"
             }
           },
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-aventurando-se.md",
+                "file": "Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 03-aventurando-se"
+              "title": "Links inversos para Context"
             }
           },
           {
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-aventurando-se.md",
+                "file": "Context.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 03-aventurando-se"
+              "title": "Sumário de Context"
             }
           },
           {
@@ -191,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03-aventurando-se.md"
+                "file": "Context.md"
               },
               "icon": "lucide-info",
-              "title": "Propriedades do arquivo 03-aventurando-se"
+              "title": "Propriedades do arquivo Context"
             }
           }
         ]
@@ -219,10 +219,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Context.md",
     "ideias do cenário.md",
-    "ESCUDO.md",
     "03-aventurando-se.md",
+    "Context.md",
+    "ESCUDO.md",
     "01-regras principais.md",
     "02-evolucao.md",
     "MAPA.md",
