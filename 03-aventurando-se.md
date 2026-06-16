@@ -15,7 +15,7 @@ Essas perguntas são mera referência para uma construção emergente de jogo, p
 ### De volta ao Lar
 
 Os Personagens ao tomarem a decisão de voltar para casa são ocupados pela saudade daquilo que os conecta com aquele lugar. O sentimento é tamanho que as estradas até parecem detalhe frente a sensação de estarem retornando. Quando os Aventureiros fazem esse movimento de reaproximação do Lar de algum membro do grupo todos os Testes de Travessia ganham um bônus de +2 enquanto estiverem viajando na direção de casa.
-## Travessia pelos ermos
+## Atravessando os Ermos
 
 O mundo é vasto: florestas, pântanos, montanhas e desertos preenchem a paisagem e moldam as trilhas, percalços e histórias dos personagens. Por mais que chamemos as terras longe de casa de "ermos" - terras isoladas, aparentemente sem dono - a verdade, convenientemente ignorada por "conquistadores", é que nunca estamos sozinhos no mundo e o ermo para alguns é a casa de outros.
 
@@ -81,7 +81,7 @@ Para realizar um Teste de Travessia, role 1d6 para a tabela principal e 1d6 para
 #### Encontros
 
 Um Encontro é um evento onde os personagens se aproximam repentinamente de algum NPC como um comerciante na estrada, um animal selvagem ou um... dragão?
-Claro, um Encontro não significa automaticamente um Combate, mas exigem um Teste de Moral para determinar os rumos daquele acontecimento.
+Claro, um Encontro não significa automaticamente um Combate, mas exigem um Teste de Reação para determinar os rumos daquele acontecimento.
 
 #### Virada no Tempo
 
@@ -97,8 +97,16 @@ Um sinal em direção ao Destino, um rastro de animal, vestígios de passagem ou
 
 Durante uma Travessia em meio a uma Zona Desconhecida, achar Pistas confere um bônus de +1 para o próximo Teste de Travessia, parece que no meio daquela mata fechada existe alguma lógica, afinal. O Mestre pode considerar uma sequência de Pistas como evidência suficiente para estabelecer um novo Caminho através daquela região.
 
+%% IDEIA Opção B: Mudar o Efeito da Pista (Solução Narrativa)
+
+Mantenha a sua tabela exatamente como está, mas mude a regra escrita da Pista para:
+
+> _"Durante uma Travessia em meio a uma Zona Desconhecida, se o grupo possuir uma Pista, eles podem **descartá-la para rolar novamente um resultado 'Desvio'** na tabela."_
+
+Isso dá controle tático aos jogadores. Eles gastam a Pista como um "escudo" contra o ato de se perderem. %%
+
 ----
-## (texto da parte do mestre) Tabela de Tempo
+### (texto da parte do mestre) Tabela de Tempo
 
 Toda região possui a sua variabilidade climática e, enquanto se está viajando, isso faz toda a diferença. A Tabela de Tempo serve para contabilizar essas mudanças com o passar do tempo.
 
@@ -119,3 +127,7 @@ Exemplo:
 | 6   | Chuva         |
 | 7   | Tempestade    |
 | 8   | Névoa intensa |
+
+## Investigando as Profundezas
+
+O mundo não é só vasto como extremamente antigo. Cavernas nas profundezas que escondem terríveis segredos, templos abandonados pelas algúrias do tempo e masmorras habitadas por... dragões? Esses são alguns exemplos

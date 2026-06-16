@@ -89,27 +89,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86c9e4c9e1cdf92c",
+            "id": "03bd22729c917c91",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
               "icon": "dices",
               "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "90a88aea4081184e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Context.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Links de saída para Context"
             }
           },
           {
@@ -129,6 +115,19 @@
               },
               "icon": "links-coming-in",
               "title": "Links inversos para Context"
+            }
+          },
+          {
+            "id": "90a88aea4081184e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
             }
           },
           {
@@ -166,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Context.md",
+                "file": "ESCUDO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Context"
+              "title": "Outline of ESCUDO"
             }
           },
           {
@@ -181,27 +180,16 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "c7a619c51fd9ccd2",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Context.md"
-              },
-              "icon": "lucide-info",
-              "title": "Propriedades do arquivo Context"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,12 +207,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "ideias do cenário.md",
-    "03-aventurando-se.md",
-    "Context.md",
-    "ESCUDO.md",
     "01-regras principais.md",
+    "ESCUDO.md",
+    "03-aventurando-se.md",
+    "ideias do cenário.md",
+    "Context.md",
+    "conflict-files-obsidian-git.md",
     "02-evolucao.md",
+    "Sem título 2.md",
+    "Sem título 1.md",
+    "Sem título.md",
     "MAPA.md",
     "Boca do Vale.md",
     "README.md",
