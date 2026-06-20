@@ -10,12 +10,12 @@ Para cada um desses, role um d4 para determinar cada valor das salvaguardas do s
 
 #### Tabela: valores de salvaguarda
 
-| 1d4 | Salvaguarda |
+| 1d6 | Salvaguarda |
 | --- | ----------- |
 | 1   | 16          |
-| 2   | 15          |
-| 3   | 14          |
-| 4   | 13          |
+| 2-3 | 15          |
+| 4-5 | 14          |
+| 6   | 13          |
 
 ## Testes de Salvaguarda
 
@@ -134,7 +134,7 @@ Flechas e projéteis são incrivelmente velozes.  A única forma de Esquivar de 
 
 ### Armaduras
 
-Cada armadura possui um Dado de Impacto próprio. Quando um atacante rola o Impacto de seu ataque, o defensor alvo subtrai daquele total o resultado da rolagem de sua respectiva armadura para reduzir o Impacto final.
+Quando um atacante rola o Impacto de seu ataque, o defensor alvo subtrai o valor de Redução de Impacto de sua armadura daquele resultado, alterando o resultado na Tabela de Impacto. 
 
 | Armadura | Redução de Impacto |
 | -------- | ------------------ |
