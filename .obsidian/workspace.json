@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "01-regras principais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "01-regras principais"
             }
           }
         ]
@@ -207,9 +207,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Sem título.md",
     "01-regras principais.md",
     "02-evolucao.md",
-    "Sem título.md",
     "ideias do cenário.md",
     "03-aventurando-se.md",
     "ESCUDO.md",
