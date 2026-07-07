@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideias do cenário.md",
+                "file": "Sem título.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ideias do cenário"
+              "title": "Sem título"
             }
           }
         ]
@@ -208,16 +208,16 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "03-aventurando-se.md",
-    "ideias do cenário.md",
-    "ESCUDO.md",
-    "01-regras principais.md",
     "Sem título.md",
     "02-evolucao.md",
+    "01-regras principais.md",
     "Context.md",
+    "ESCUDO.md",
+    "ideias do cenário.md",
+    "MAPA.md",
     "conflict-files-obsidian-git.md",
     "Sem título 2.md",
     "Sem título 1.md",
-    "MAPA.md",
     "Boca do Vale.md",
     "README.md",
     "Untitled.canvas",
