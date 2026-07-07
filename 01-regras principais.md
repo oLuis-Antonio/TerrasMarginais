@@ -86,21 +86,20 @@ Um combate pode acontecer numa clareira, no centro de uma cidade ou em uma taver
 #### Perímetros de combate
 São áreas delimitadas a partir de círculos concêntricos e uma divisória central que servem como referencial ao combate. A divisória demarca os lados de cada grupo combatente e os círculos demarcam os seguintes perímetros:
 - Periferia: o perímetro mais externo ao combate;
-- Retaguarda: uma distância relativamente segura, ponto ideal para tomar cobertura ou ataque de longe;
-- Apoio: perímetro de aproximação do epicentro do combate, logo atrás da linha de frente;
-- Frente: a região onde escudos e lanças se chocam;
+- Retaguarda: uma distância relativamente segura, ponto ideal para tomar cobertura ou atacar à distância;
+- Apoio: região imediatamente atrás da linha de frente;
+- Frente: perímetro onde ocorre o contato direto entre combatentes;
 
-Um personagem pode se deslocar de perímetros propositalmente quando for sua vez de agir. Ele pode se deslocar ou ser deslocado sem cair no chão uma quantidade de vezes igual ao total de sua Taxa de Movimento durante toda uma Rodada.
+Durante uma Rodada, um personagem pode deslocar-se ou ser deslocado entre perímetros um número de vezes igual à sua Taxa de Movimento. Caso esse limite seja excedido por um deslocamento forçado, ele cai no chão. O seguinte referencial ajuda a determinar a distância do PJ em relação a determinado ponto ou perímetro:
 
-- Engajado: o centro do conflito
-- Próximo: a distância dos lanceiros
-- Longe: o bastante para atacar a distância com precisão
-- Afastado: fora do alcance imediato
+- Engajado: nenhum movimento é gasto para interagir;
+- Próximo: a distância de 1 movimento;
+- Longe: a distância de 2 movimentos;
+- Afastado: a distância de 3 movimentos;
 
-**Caindo**: Caso o personagem seja deslocado por outra pessoa (seja como efeito de um combate, feitiço, etc.) e sua Taxa de Movimento estiver zerada por aquela Rodada, ele automaticamente cairá no chão. É necessário uma ação para levantar-se assim que estiver apto a agir.
+**Caindo**: Caso o personagem seja deslocado por outra pessoa (seja como efeito de um combate, feitiço, etc.) e sua Taxa de Movimento estiver zerada por aquela Rodada, ele automaticamente cairá no chão. É necessária uma ação para levantar-se assim que estiver apto a agir.
 
 Personagens caídos não conseguem deslocar de perímetro, Resistir ou Esquivar de ataques enquanto estiverem caídos.
-
 ## Atacando
 
 Diferente de outros RPGs, neste de jogo não há rolagens de ataque ou de Dano (dn.) convencionais. Ao invés disso, as consequências de um ataque são determinadas pelo resultado em uma **Tabela de Impacto** determinado pelo resultado total do Dado de Impacto de um arma após possíveis reduções aplicadas por armaduras ou efeitos correlatos.
