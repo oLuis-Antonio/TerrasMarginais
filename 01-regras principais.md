@@ -82,15 +82,20 @@ Esse é o momento decisivo! Segundos que parecem vários minutos gastos por disc
 Uma ação é qualquer atitude específica que exija algum esforço além das pernas: atacar, procurar um item na mochila ou jogá-la ao chão, etc. É incentivado que ações tomem um rumo mais criativo do que simplesmente "eu ataco", podendo por exemplo "saltar da mesa e atacar", ficando a critério do mestre as consequências e desafios extras que esse tipo de ação possa gerar. O que não é possível é combinar múltiplas ações como uma "mega-ação" (pegar um item na mochila e atacar com ele é um exemplo clássico).
 ## Deslocando
 
-Neste jogo, distâncias em combate são medidas utilizando o lado inimigo como referencial.  A partir dele, são traçados alguns círculos de perímetro para determinar as distintas distâncias dos demais personagens do centro daquele combate.
+Um combate pode acontecer numa clareira, no centro de uma cidade ou em uma taverna. Para melhor orientar a movimentação e posicionamento durante o combate sem depender de grids ou medidas precisas, as distâncias são abstraídas a partir dos **perímetros de combate**.
+#### Perímetros de combate
+São áreas delimitadas a partir de círculos concêntricos e uma divisória central que servem como referencial ao combate. A divisória demarca os lados de cada grupo combatente e os círculos demarcam os seguintes perímetros:
+- Periferia: o perímetro mais externo ao combate;
+- Retaguarda: uma distância relativamente segura, ponto ideal para tomar cobertura ou ataque de longe;
+- Apoio: perímetro de aproximação do epicentro do combate, logo atrás da linha de frente;
+- Frente: a região onde escudos e lanças se chocam;
 
-#### Perímetros
+Um personagem pode se deslocar de perímetros propositalmente quando for sua vez de agir. Ele pode se deslocar ou ser deslocado sem cair no chão uma quantidade de vezes igual ao total de sua Taxa de Movimento durante toda uma Rodada.
+
 - Engajado: o centro do conflito
 - Próximo: a distância dos lanceiros
 - Longe: o bastante para atacar a distância com precisão
 - Afastado: fora do alcance imediato
-
-Um personagem pode se deslocar de perímetros propositalmente quando for sua vez de agir. Ele pode se deslocar ou ser deslocado sem cair no chão uma quantidade de vezes igual ao total de sua Taxa de Movimento durante toda uma Rodada.
 
 **Caindo**: Caso o personagem seja deslocado por outra pessoa (seja como efeito de um combate, feitiço, etc.) e sua Taxa de Movimento estiver zerada por aquela Rodada, ele automaticamente cairá no chão. É necessário uma ação para levantar-se assim que estiver apto a agir.
 
