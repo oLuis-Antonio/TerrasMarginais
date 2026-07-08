@@ -16,6 +16,7 @@ Personagens possuem um Lar, podendo ser compartilhado em comum ou disperso pelos
 Essas perguntas são mera referência para uma construção emergente de jogo, podendo ser substituídas ou modificadas. O importante é que os personagens tenham um lugar para onde possam voltar.
 ## Atravessando os Ermos
 
-A Terra do Sol é um lugar vasto: mares de morros, sertões desérticos, regiões pantaneiras e florestas antigas preenchem a paisagem e moldam as trilhas, percalços e histórias dos personagens.  Dos povos originários até a Coroa de Além-mar, todos reconhecem a dificuldade que é transitar por sua paisagem. Os Tropeiros parecem ainda ser os únicos corajosos (ou tolos) o bastante para embarcar nessa empreitada, mas não por falta de motivos.
+A Terra do Sol é um lugar vasto: mares de morros, sertões desérticos, regiões pantaneiras e florestas antigas preenchem a paisagem e moldam as trilhas, percalços e histórias dos personagens.  Dos povos originários até a Coroa de Além-mar, todos reconhecem a dificuldade que é transitar por sua paisagem. Os Tropeiros parece ser alguns dos poucos corajosos (ou tolos) o bastante para embarcar nessa empreitada, mas sem quaisquer motivos.
 ### Trabalhos e Destinos
 
+Todo começo de uma Travessia
