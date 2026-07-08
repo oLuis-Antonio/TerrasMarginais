@@ -51,7 +51,9 @@ O Teste de Travessia é feito a partir da rolagem do Dado de Perigo, um dado que
 
 **d6** → **d8** → **d10** → **d12**
 
-O resultado do Dado de Perigo avança uma quantidade de linhas da Tabela de Travessia, e seu resultado final determina o tipo de **evento** que ocorrerá naquela Marcha de exploração. A Tabela de Travessia é uma tabela com 24 resultados distintos e, no começo de uma Travessia ou após um Encontro, sempre parte do índice 1 e escala em direção ao índice 24.
+O resultado do Dado de Perigo avança uma quantidade de valores da Tabela de Travessia, e seu resultado final determina o tipo de **evento** que ocorrerá naquela Marcha de exploração. O dado não volta ao seu valor padrão até o reinício da Tabela de Travessia.
+
+A Tabela de Travessia é uma tabela com 24 resultados distintos e, no começo de uma Travessia ou após um Encontro, sempre parte do índice 1 e escala em direção ao índice 24. Caso o resultado do Dado de Perigo ultrapasse os 24 índices, o resultado 24 (Encontro de Alto Risco) ocorre e a tabela reinicia.
 
 **TABELA DE TRAVESSIA**
 
@@ -81,3 +83,31 @@ O resultado do Dado de Perigo avança uma quantidade de linhas da Tabela de Trav
 | 3     | Baixo | Obstáculo |
 | 2     | Baixo | Recurso   |
 | 1     | Baixo | Tempo     |
+#### Níveis de Risco
+
+Conforme a tropa avança pela Tabela de Travessia, o nível de periculosidade dos resultados tende a aumentar e o tipo de resultado é afetado de alguma forma. Os três níveis de risco são: Baixo, Médio e Alto.
+#### Encontros
+
+Um Encontro é um evento onde os personagens se aproximam repentinamente de peregrinos, animais selvagens ou criaturas perigosas.
+Claro, um Encontro não significa automaticamente um Combate, mas exigem um Teste de Reação para determinar os rumos daquele acontecimento.
+
+Quando um Encontro ocorre, o MJ deve rolar a tabela de acordo com o Nível de Risco determinado na Tabela de Travessia.
+#### Virada no Tempo
+
+O Mestre de Jogo no início de uma dia delimita as condições climáticas iniciais: um dia ensolarado, Sol entre nuvens, chuva torrencial. Um evento de Virada no Tempo altera essas condições climáticas de acordo com as Tabelas de Tempo nas regras do MJ.
+#### Rastros
+
+Rastros são sinais de um possível encontro nas proximidades da tropa e variam de intensidade e tempo de ocorrência a partir do Nível de Risco determinado na Tabela de Travessia.
+
+- Baixo: rastros deixados há alguns dias. Parece de algo ou alguém que circula pela região.
+- Médio: rastros deixados há algumas horas. Parece de algo ou alguém que passou por aquele Caminho recentemente.
+- Alto: rastros deixados há pouco tempo. O que quer que seja, está há poucas marchas de distância da tropa.
+
+#### Obstáculos
+
+Obstáculos são bloqueios, acidentes, ou perca de sinais daquele Caminho por onde a tropa esteja passando. Um Obstáculo impede que o grupo continue seu percurso normalmente e exige ou uma mudança brusca de trajeto, ou um gasto de tempo e de risco para ultrapassar aquela barreira.
+
+- Mudar de Rota: a tropa decide contornar o obstáculo, causando um evento de Desvio automaticamente na próxima Marcha de exploração;
+- Abrir Caminho: ao custo de aumentar o valor do Dado de Risco, a tropa dá um jeito de liberar a passagem e consegue viajar normalmente. Na Marcha seguinte, o grupo atravessará normalmente em caso de um novo resultado de Obstáculo;
+#### Desvios
+#### Recursos
