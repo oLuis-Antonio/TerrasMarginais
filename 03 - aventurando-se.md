@@ -47,7 +47,10 @@ O tempo de deslocamento entre dois Destinos, ou uma Travessia, é medido em Marc
 
 A cada Marcha, um dos jogadores é responsável por realizar um Teste de Travessia. Uma maneira de verificar possíveis acontecimentos durante uma viagem como: encontros, mudanças no tempo ou desvios de rota.
 
-O Teste de Travessia é realizado com o **Dado de Perigo**, que começa em **1d6** e aumenta sempre que uma ação, evento ou escolha da tropa indicar maior exposição ao risco.
+O Teste de Travessia é realizado com o **Dado de Perigo**, que representa o crescimento a longo prazo do risco de estar viajando pela Terra do Sol.  O dado começa em **1d6** e aumenta em um passo sempre que:
+- For o custo de uma Ação de Travessia;
+- Ocorrer uma piora significativa no tempo;
+- 
 
 **d6 → d8 → d10 → d12**
 
@@ -113,5 +116,10 @@ Recursos são possíveis fontes de alimento, água, ou riquezas naturais encontr
 
 A tropa pode fazer alguns tipos de ações durante sua viagem para além do deslocamento comum, são elas:
 
-- **Patrulhar**: navegar pelos ermos com cautela para antecipar o perigo. Ao custo de um aumento no Dado de Perigo, Os dois próximos resultados de Encontro na Tabela de Travessia tornam-se Rastros. A Tabela de Travessia não reiniciará até que o terceiro e derradeiro Encontro ocorra;
+- **Patrulhar**: navegar pelos ermos com cautela para antecipar o perigo. Ao custo de uma Marcha extra, Os dois próximos resultados de Encontro na Tabela de Travessia tornam-se Rastros. A Tabela de Travessia não reiniciará até que o terceiro e derradeiro Encontro ocorra;
 - **Levantar Acampamento**: ao custo de um aumento no Dado de Perigo, o grupo gasta uma Marcha para estabelecer uma base provisória. O acampamento irá durar até a retomada da viagem e permite realizar uma Noite de Sono ao consumir 1 marmita.
+## Investigando as Profundezas
+
+O mundo não é só vasto como extremamente antigo. Cavernas nas profundezas que escondem terríveis segredos, templos abandonados pelas algúrias do tempo e masmorras criadas por magos loucos. Esses são alguns exemplos de aventuras subterrâneas que, ainda que num primeiro momento aparentam ser algo avesso ao trabalho dos Tropeiros, não se pode subestimar os Destinos que podem aparecer nessa viagem.
+### Turnos de Exploração
+
