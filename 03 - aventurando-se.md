@@ -124,4 +124,4 @@ A tropa pode fazer alguns tipos de ações durante sua viagem para além do desl
 
 - Patrulhar: navegar pelos ermos com cautela para antecipar o perigo. Ao custo de um aumento no Dado de Perigo, os próximos dois Encontros serão substituídos por eventos de Rastro, a Tabela de Travessia não reiniciará até que o terceiro e derradeiro Encontro ocorra;
 - Investigar: o grupo pode encontrar um Destino paralelo no meio da viagem e resolvem explorar o local durante uma Marcha;
-- Levantar Acampamento: a tropa gasta 1 Marcha para estabelecer uma base provisória. O acampamento irá durar até a retomada da viagem e permite com que os personagens tenham uma Noite de Sono ao consumir 1 marmita.
+- Levantar Acampamento: ao custo de um aumento no Dado de Perigo, o grupo gasta uma Marcha para estabelecer uma base provisória. O acampamento irá durar até a retomada da viagem e permite com que os personagens tenham uma Noite de Sono ao consumir 1 marmita.
