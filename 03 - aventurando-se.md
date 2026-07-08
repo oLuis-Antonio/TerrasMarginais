@@ -86,6 +86,7 @@ A Tabela de Travessia é uma tabela com 24 resultados distintos e, no começo de
 #### Níveis de Risco
 
 Conforme a tropa avança pela Tabela de Travessia, o nível de periculosidade dos resultados tende a aumentar e o tipo de resultado é afetado de alguma forma. Os três níveis de risco são: Baixo, Médio e Alto.
+### Eventos de Travessia
 #### Encontros
 
 Um Encontro é um evento onde os personagens se aproximam repentinamente de peregrinos, animais selvagens ou criaturas perigosas.
@@ -109,5 +110,18 @@ Obstáculos são bloqueios, acidentes, ou perca de sinais daquele Caminho por on
 
 - Mudar de Rota: a tropa decide contornar o obstáculo, causando um evento de Desvio automaticamente na próxima Marcha de exploração;
 - Abrir Caminho: ao custo de aumentar o valor do Dado de Risco, a tropa dá um jeito de liberar a passagem e consegue viajar normalmente. Na Marcha seguinte, o grupo atravessará normalmente em caso de um novo resultado de Obstáculo;
+
+Obstáculos não são afetados pelo Nível de Risco.
 #### Desvios
+
+Desvios são momentos onde a tropa repentinamente saiu do percurso planejado, encontrando alguma coisa diferente do esperado. O Desvio ou exige 1 Marcha para retomar ao Caminho pretendido, ou pode levar a formação de um Caminho novo para a tropa.
 #### Recursos
+
+Recursos são possíveis fontes de alimento, água, ou riquezas naturais encontradas no meio do Caminho. A tropa pode gastar 1 Marcha para usufruir daqueles recursos e seu tipo varia conforme o Nível de Risco determinado na Tabela de Travessia.
+### Ações de Travessia
+
+A tropa pode fazer alguns tipos de ações durante sua viagem para além do deslocamento comum, são elas:
+
+- Patrulhar: navegar pelos ermos com cautela para antecipar o perigo. Ao custo de um aumento no Dado de Perigo, os próximos dois Encontros serão substituídos por eventos de Rastro, a Tabela de Travessia não reiniciará até que o terceiro e derradeiro Encontro ocorra;
+- Investigar: o grupo pode encontrar um Destino paralelo no meio da viagem e resolvem explorar o local durante uma Marcha;
+- Levantar Acampamento: a tropa gasta 1 Marcha para estabelecer uma base provisória. O acampamento irá durar até a retomada da viagem e permite com que os personagens tenham uma Noite de Sono ao consumir 1 marmita.
