@@ -43,7 +43,7 @@ O jogo possuí 5 níveis ao todo e sua progressão depende do número de marcas 
 
 Exemplo: para subir do nível 1 para o 2, uma personagem precisa conquistar 2 marcas de jogo. Para evoluir para o nível 3 são necessários 3 novas marcas e assim por diante.
 
-PJs adquirem a cada nível um Dado de Vida, reduzem uma salvaguarda em 1 (respeitando o valor máximo de 8) e adquirem um ponto de Vivência relacionado ao tipo predominante, aquele com o maior número de Marcas registradas pelo personagem. Em caso de empate, o jogador pode escolher qual Vivência priorizar.
+PJs adquirem a cada nível um Dado de Vida, reduzem uma salvaguarda em 1 (respeitando o valor máximo de 8) e adquire 1 ponto na Vivência predominante, aquela com o maior número de Marcas registradas pelo personagem. Em caso de empate, o jogador pode escolher qual Vivência priorizar.
 
 ## Vivências
 

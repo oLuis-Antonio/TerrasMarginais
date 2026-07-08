@@ -178,7 +178,7 @@ Para se recuperar de todos os Ferimentos não graves e Cansaços é necessário 
 
 Um personagem que deixa de realizar uma Noite de Sono fica automaticamente sobrecarregado. Se deixar de dormir por uma segunda noite consecutiva, ou receber um novo Cansaço nesse período, cai de exaustão.
 
-# MAGIA
+# MAGIA (rascunho)
 
 Para conjurar magias você precisa de um grimório ou um pergaminho contendo uma magia nas mãos e capacidade de falar em alto e bom som.
 
