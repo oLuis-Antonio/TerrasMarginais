@@ -132,25 +132,31 @@ Exemplo:
 
 O mundo não é só vasto como extremamente antigo. Cavernas nas profundezas que escondem terríveis segredos, templos abandonados pelas algúrias do tempo e masmorras habitadas por... dragões? Esses são alguns exemplos
 
+Encontro 1
+Rastro 1
+Desvio 1
+Obstáculo 1
+Recurso 1
+Tempo 1
 
 | Valor | Risco | Resultado |
 | ----- | ----- | --------- |
 | 24    | Alto  | Encontro  |
 | 23    | Alto  | Rastro    |
-| 22    | Alto  | Obstáculo |
-| 21    | Alto  | Desvio    |
-| 20    | Alto  | Tempo     |
-| 19    | Alto  | Recurso   |
-| 18    | Alto  | Rastro    |
-| 17    | Médio | Encontro  |
-| 16    | Médio | Obstáculo |
-| 15    | Médio | Desvio    |
+| 22    | Alto  | Desvio    |
+| 21    | Alto  | Obstáculo |
+| 20    | Alto  | Recurso   |
+| 19    | Alto  | Tempo     |
+| 18    | Alto  | Encontro  |
+| 17    | Alto  | Rastro    |
+| 16    | Médio | Desvio    |
+| 15    | Médio | Obstáculo |
 | 14    | Médio | Recurso   |
 | 13    | Médio | Tempo     |
-| 12    | Médio | Rastro    |
-| 11    | Médio | Obstáculo |
-| 10    | Médio | Encontro  |
-| 9     | Baixo | Rastro    |
+| 12    | Médio | Encontro  |
+| 11    | Médio | Rastro    |
+| 10    | Médio | Desvio    |
+| 9     | Médio | Obstáculo |
 | 8     | Baixo | Recurso   |
 | 7     | Baixo | Tempo     |
 | 6     | Baixo | Encontro  |

@@ -176,6 +176,8 @@ Quando se está explorando uma área perigosa geralmente não é possível desca
 
 Para se recuperar de todos os Ferimentos não graves e Cansaços é necessário uma boa noite de sono: não ser interrompido durante a noite e possuir um local adequado para dormir. Caso o descanso seja interrompido ou inadequado, recupere apenas metade dos Ferimentos e Cansaços (arredondando para baixo, mínimo 1).
 
+Um personagem que deixa de realizar uma Noite de Sono fica automaticamente sobrecarregado. Se deixar de dormir por uma segunda noite consecutiva, ou receber um novo Cansaço nesse período, cai de exaustão.
+
 # MAGIA
 
 Para conjurar magias você precisa de um grimório ou um pergaminho contendo uma magia nas mãos e capacidade de falar em alto e bom som.
