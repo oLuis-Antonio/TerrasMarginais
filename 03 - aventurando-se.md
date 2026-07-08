@@ -16,7 +16,7 @@ Personagens possuem um Lar, podendo ser compartilhado em comum ou disperso pelos
 Essas perguntas são mera referência para uma construção emergente de jogo, podendo ser substituídas ou modificadas. O importante é que os personagens tenham um lugar para onde possam voltar.
 ## Atravessando os Ermos
 
-A Terra do Sol é um lugar vasto: mares de morros, sertões desérticos, regiões pantaneiras e florestas antigas preenchem a paisagem e moldam as trilhas, percalços e histórias dos personagens.  Dos povos originários até a Coroa de Além-mar, todos reconhecem a dificuldade que é transitar por sua paisagem. Os Tropeiros parece ser alguns dos poucos corajosos (ou tolos) o bastante para embarcar nessa empreitada, mas sem quaisquer motivos.
+A Terra do Sol é um lugar vasto: mares de morros, sertões desérticos, regiões pantaneiras e florestas antigas preenchem a paisagem e moldam as trilhas, percalços e histórias dos personagens.  Dos povos originários até a Coroa de Além-mar, todos reconhecem a dificuldade que é transitar por sua paisagem. Os Tropeiros parecem ser alguns dos poucos corajosos (ou tolos) o bastante para embarcar nessa empreitada, mas sem quaisquer motivos.
 ### Trabalhos e Destinos
 
 Todo começo de uma Travessia é delimitado por dois importantes fatores: um trabalho e um Destino. 
@@ -29,10 +29,10 @@ Transportar carga, resgatar algo, proteger alguém. Tudo isso são trabalhos que
 Caminhos são as conexões entre diferentes Destinos: trilhas, estradas e percursos fluviais são algumas de suas variações mais comuns. Vários caminhos podem existir entre dois Destinos distintos, alguns são amplamente conhecidos, outros oriundos de rumores e informações que precisam ser descobertas para que a tropa tome conhecimento de sua existência.  O Caminho escolhido influenciará diretamente no tempo gasto para chegar ao Destino e o tipo de preparação necessária para enfrentar aquele percurso.
 ### Preparando uma Travessia
 
-É nesse momento onde os personagens ajeitam suas mochilas e compram os equipamentos necessários para uma viagem baseado no Destino escolhido para a Travessia.
+É nesse momento onde os personagens ajeitam suas mochilas e compram os equipamentos necessários para uma viagem baseados no Destino escolhido para a Travessia.
 #### Mapeamento
 
-Ainda que alguns Destinos e caminhos até sejam conhecidos, os aventureiros não possuem o completa compreensão da vastidão do mundo. Portanto, é recomendado que um jogador fique responsabilizado em desenhar o mapa conforme o mundo é mais e mais explorado.
+Ainda que alguns Destinos e caminhos até sejam conhecidos, os aventureiros não possuem o a completa compreensão da vastidão do mundo. Portanto, é recomendado que um jogador fique responsabilizado em desenhar o mapa conforme o mundo é mais e mais explorado.
 ### Marchas
 
 Marchas são uma forma de contabilizar o progresso e duração de uma Travessia. Dividindo o dia em 4 Marchas, cada uma com 6 horas de duração:
@@ -47,15 +47,15 @@ O tempo de deslocamento entre dois Destinos, ou uma Travessia, é medido em Marc
 
 A cada Marcha, um dos jogadores é responsável por realizar um Teste de Travessia. Uma maneira de verificar possíveis acontecimentos durante uma viagem como: encontros, mudanças no tempo ou desvios de rota.
 
-O Teste de Travessia é feito a partir da rolagem do Dado de Perigo, um dado que começa como 1d6 e aumenta conforme os riscos de exploração crescem da seguinte forma:
+O Teste de Travessia é realizado com o **Dado de Perigo**, que começa em **1d6** e aumenta sempre que uma ação, evento ou escolha da tropa indicar maior exposição ao risco.
 
-**d6** → **d8** → **d10** → **d12**
+**d6 → d8 → d10 → d12**
 
-O resultado do Dado de Perigo avança uma quantidade de valores da Tabela de Travessia, e seu resultado final determina o tipo de **evento** que ocorrerá naquela Marcha de exploração. O dado não volta ao seu valor padrão até o reinício da Tabela de Travessia.
+O resultado do Dado de Perigo determina quantas casas a tropa avança na **Tabela de Travessia**, e o evento correspondente ao valor alcançado ocorre imediatamente naquela Marcha.
 
-A Tabela de Travessia é uma tabela com 24 resultados distintos e, no começo de uma Travessia ou após um Encontro, sempre parte do valor 1 e escala em direção ao valor 24. Caso o resultado do Dado de Perigo ultrapasse esse limite, o resultado 24 (Encontro de Alto Risco) ocorre e a tabela reinicia.
+> Exemplo: no começo de uma Travessia, a tropa rola **1d6** no Dado de Perigo e obtém **5**. Ela avança até o valor **5** da Tabela de Travessia, encontrando um **Rastro**. Após resolver o evento, uma nova Marcha começa. A tropa rola novamente o Dado de Perigo e obtém **3**. Como o marcador estava no valor **5**, ele avança para o valor **8**, resultando em um **Recurso**.
 
-> Exemplo: no começo de uma Travessia, a tropa rola 1d6 do Dado de Perigo e tiram **5**. Eles avançam na tabela até encontrem o valor 5: Rastro. Após resolverem o evento, uma nova Marcha começa, realizam uma nova rolagem do Dado de Perigo e agora tiram **3**. Eles avançam três valores e chegam no resultado 8: Recurso.
+A Tabela de Travessia possui 24 resultados. Sempre que um **Encontro** ocorrer ou o valor **24** for alcançado, a tabela reinicia (volta a contar do valor **1**) e o Dado de Perigo retorna para **1d6**.
 
 **TABELA DE TRAVESSIA**
 
@@ -86,7 +86,7 @@ Claro, um Encontro não significa automaticamente um Combate, mas exigem um Test
 Quando um Encontro ocorre, o MJ deve rolar a tabela de acordo com o Nível de Risco determinado na Tabela de Travessia.
 #### Virada no Tempo
 
-O Mestre de Jogo no início de uma dia delimita as condições climáticas iniciais: um dia ensolarado, Sol entre nuvens, chuva torrencial. Um evento de Virada no Tempo altera essas condições climáticas de acordo com as Tabelas de Tempo nas regras do MJ.
+O Mestre de Jogo no início de um dia delimita as condições climáticas iniciais: um dia ensolarado, Sol entre nuvens, chuva torrencial. Um evento de Virada no Tempo altera essas condições climáticas de acordo com as Tabelas de Tempo nas regras do MJ.
 #### Rastros
 
 Rastros são sinais de um possível encontro nas proximidades da tropa e variam de intensidade e tempo de ocorrência a partir do Nível de Risco determinado na Tabela de Travessia.
@@ -97,10 +97,10 @@ Rastros são sinais de um possível encontro nas proximidades da tropa e variam 
 
 #### Obstáculos
 
-Obstáculos são bloqueios, acidentes, ou perca de sinais daquele Caminho por onde a tropa esteja passando. Um Obstáculo impede que o grupo continue seu percurso normalmente e exige ou uma mudança brusca de trajeto, ou um gasto de tempo e de risco para ultrapassar aquela barreira.
+Obstáculos são bloqueios, acidentes, ou perda dos sinais daquele Caminho por onde a tropa esteja passando. Um Obstáculo impede que o grupo continue seu percurso normalmente e exige ou uma mudança brusca de trajeto, ou um gasto de tempo e de risco para ultrapassar aquela barreira.
 
 - Mudar de Rota: a tropa decide contornar o obstáculo, causando um evento de Desvio automaticamente na próxima Marcha de exploração;
-- Abrir Caminho: ao custo de aumentar o valor do Dado de Risco, a tropa dá um jeito de liberar a passagem e consegue viajar normalmente. Na Marcha seguinte, o grupo atravessará normalmente em caso de um novo resultado de Obstáculo;
+- Abrir Caminho: ao custo de aumentar o valor do Dado de Perigo, a tropa dá um jeito de liberar a passagem e consegue viajar normalmente. Na Marcha seguinte, o grupo atravessará normalmente em caso de um novo resultado de Obstáculo;
 
 Obstáculos não são afetados pelo Nível de Risco.
 #### Desvios
