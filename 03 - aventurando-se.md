@@ -53,36 +53,27 @@ O Teste de Travessia é feito a partir da rolagem do Dado de Perigo, um dado que
 
 O resultado do Dado de Perigo avança uma quantidade de valores da Tabela de Travessia, e seu resultado final determina o tipo de **evento** que ocorrerá naquela Marcha de exploração. O dado não volta ao seu valor padrão até o reinício da Tabela de Travessia.
 
-A Tabela de Travessia é uma tabela com 24 resultados distintos e, no começo de uma Travessia ou após um Encontro, sempre parte do índice 1 e escala em direção ao índice 24. Caso o resultado do Dado de Perigo ultrapasse os 24 índices, o resultado 24 (Encontro de Alto Risco) ocorre e a tabela reinicia.
+A Tabela de Travessia é uma tabela com 24 resultados distintos e, no começo de uma Travessia ou após um Encontro, sempre parte do valor 1 e escala em direção ao valor 24. Caso o resultado do Dado de Perigo ultrapasse esse limite, o resultado 24 (Encontro de Alto Risco) ocorre e a tabela reinicia.
+
+> Exemplo: no começo de uma Travessia, a tropa rola 1d6 do Dado de Perigo e tiram **5**. Eles avançam na tabela até encontrem o valor 5: Rastro. Após resolverem o evento, uma nova Marcha começa, realizam uma nova rolagem do Dado de Perigo e agora tiram **3**. Eles avançam três valores e chegam no resultado 8: Recurso.
 
 **TABELA DE TRAVESSIA**
 
-| Valor | Risco | Resultado |
-| ----- | ----- | --------- |
-| 24    | Alto  | Encontro  |
-| 23    | Alto  | Rastro    |
-| 22    | Alto  | Obstáculo |
-| 21    | Alto  | Desvio    |
-| 20    | Alto  | Tempo     |
-| 19    | Alto  | Recurso   |
-| 18    | Alto  | Rastro    |
-| 17    | Médio | Encontro  |
-| 16    | Médio | Obstáculo |
-| 15    | Médio | Desvio    |
-| 14    | Médio | Recurso   |
-| 13    | Médio | Tempo     |
-| 12    | Médio | Rastro    |
-| 11    | Médio | Obstáculo |
-| 10    | Médio | Encontro  |
-| 9     | Baixo | Rastro    |
-| 8     | Baixo | Recurso   |
-| 7     | Baixo | Tempo     |
-| 6     | Baixo | Encontro  |
-| 5     | Baixo | Rastro    |
-| 4     | Baixo | Desvio    |
-| 3     | Baixo | Obstáculo |
-| 2     | Baixo | Recurso   |
-| 1     | Baixo | Tempo     |
+| Valor | Risco | Resultado | Valor | Risco | Resultado |
+| ----- | ----- | --------- | ----- | ----- | --------- |
+| 12    | Médio | Encontro  | 24    | Alto  | Encontro  |
+| 11    | Médio | Rastro    | 23    | Alto  | Rastro    |
+| 10    | Médio | Desvio    | 22    | Alto  | Desvio    |
+| 9     | Médio | Obstáculo | 21    | Alto  | Obstáculo |
+| 8     | Baixo | Recurso   | 20    | Alto  | Recurso   |
+| 7     | Baixo | Tempo     | 19    | Alto  | Tempo     |
+| 6     | Baixo | Encontro  | 18    | Alto  | Encontro  |
+| 5     | Baixo | Rastro    | 17    | Alto  | Rastro    |
+| 4     | Baixo | Desvio    | 16    | Médio | Desvio    |
+| 3     | Baixo | Obstáculo | 15    | Médio | Obstáculo |
+| 2     | Baixo | Recurso   | 14    | Médio | Recurso   |
+| 1     | Baixo | Tempo     | 13    | Médio | Tempo     |
+
 #### Níveis de Risco
 
 Conforme a tropa avança pela Tabela de Travessia, o nível de periculosidade dos resultados tende a aumentar e o tipo de resultado é afetado de alguma forma. Os três níveis de risco são: Baixo, Médio e Alto.
@@ -122,6 +113,5 @@ Recursos são possíveis fontes de alimento, água, ou riquezas naturais encontr
 
 A tropa pode fazer alguns tipos de ações durante sua viagem para além do deslocamento comum, são elas:
 
-- Patrulhar: navegar pelos ermos com cautela para antecipar o perigo. Ao custo de um aumento no Dado de Perigo, os próximos dois Encontros serão substituídos por eventos de Rastro, a Tabela de Travessia não reiniciará até que o terceiro e derradeiro Encontro ocorra;
-- Investigar: o grupo pode encontrar um Destino paralelo no meio da viagem e resolvem explorar o local durante uma Marcha;
-- Levantar Acampamento: ao custo de um aumento no Dado de Perigo, o grupo gasta uma Marcha para estabelecer uma base provisória. O acampamento irá durar até a retomada da viagem e permite com que os personagens tenham uma Noite de Sono ao consumir 1 marmita.
+- **Patrulhar**: navegar pelos ermos com cautela para antecipar o perigo. Ao custo de um aumento no Dado de Perigo, Os dois próximos resultados de Encontro na Tabela de Travessia tornam-se Rastros. A Tabela de Travessia não reiniciará até que o terceiro e derradeiro Encontro ocorra;
+- **Levantar Acampamento**: ao custo de um aumento no Dado de Perigo, o grupo gasta uma Marcha para estabelecer uma base provisória. O acampamento irá durar até a retomada da viagem e permite realizar uma Noite de Sono ao consumir 1 marmita.

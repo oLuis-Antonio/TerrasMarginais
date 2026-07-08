@@ -35,7 +35,8 @@
               "title": "03 - aventurando-se"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,12 +220,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7e6e9208e93d6129",
   "lastOpenFiles": [
+    "aventurando-se antigo.md",
     "evolucao antiga.md",
     "01-regras principais.md",
     "03 - aventurando-se.md",
-    "aventurando-se antigo.md",
     "02 - evolucao.md",
     "ideias do cenário.md",
     "Sem título.md",
