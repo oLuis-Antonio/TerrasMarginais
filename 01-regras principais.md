@@ -85,7 +85,7 @@ Uma ação é qualquer atitude específica que exija algum esforço além das pe
 Um combate pode acontecer numa clareira, no centro de uma cidade ou em uma taverna. Para melhor orientar a movimentação e posicionamento durante o combate sem depender de grids ou medidas precisas, as distâncias são abstraídas a partir dos **perímetros de combate**.
 #### Perímetros de combate
 São áreas delimitadas a partir de círculos concêntricos e uma divisória central que servem como referencial ao combate. A divisória demarca os lados de cada grupo combatente e os círculos demarcam os seguintes perímetros:
-- Periferia: o perímetro mais externo ao combate;
+
 - Retaguarda: uma distância relativamente segura, ponto ideal para tomar cobertura ou atacar à distância;
 - Apoio: região imediatamente atrás da linha de frente;
 - Frente: perímetro onde ocorre o contato direto entre combatentes;
@@ -176,7 +176,7 @@ Quando se está explorando uma área perigosa geralmente não é possível desca
 
 Para se recuperar de todos os Ferimentos não graves e Cansaços é necessário uma boa noite de sono: não ser interrompido durante a noite e possuir um local adequado para dormir. Caso o descanso seja interrompido ou inadequado, recupere apenas metade dos Ferimentos e Cansaços (arredondando para baixo, mínimo 1).
 
-# MAGIA (rascunho)
+# MAGIA
 
 Para conjurar magias você precisa de um grimório ou um pergaminho contendo uma magia nas mãos e capacidade de falar em alto e bom som.
 
