@@ -131,3 +131,31 @@ Exemplo:
 ## Investigando as Profundezas
 
 O mundo não é só vasto como extremamente antigo. Cavernas nas profundezas que escondem terríveis segredos, templos abandonados pelas algúrias do tempo e masmorras habitadas por... dragões? Esses são alguns exemplos
+
+
+| Valor | Risco | Resultado |
+| ----- | ----- | --------- |
+| 24    | Alto  | Encontro  |
+| 23    | Alto  | Rastro    |
+| 22    | Alto  | Obstáculo |
+| 21    | Alto  | Desvio    |
+| 20    | Alto  | Tempo     |
+| 19    | Alto  | Recurso   |
+| 18    | Alto  | Rastro    |
+| 17    | Médio | Encontro  |
+| 16    | Médio | Obstáculo |
+| 15    | Médio | Desvio    |
+| 14    | Médio | Recurso   |
+| 13    | Médio | Tempo     |
+| 12    | Médio | Rastro    |
+| 11    | Médio | Obstáculo |
+| 10    | Médio | Encontro  |
+| 9     | Baixo | Rastro    |
+| 8     | Baixo | Recurso   |
+| 7     | Baixo | Tempo     |
+| 6     | Baixo | Encontro  |
+| 5     | Baixo | Rastro    |
+| 4     | Baixo | Desvio    |
+| 3     | Baixo | Obstáculo |
+| 2     | Baixo | Recurso   |
+| 1     | Baixo | Tempo     |
