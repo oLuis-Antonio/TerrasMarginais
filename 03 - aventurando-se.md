@@ -169,3 +169,29 @@ A Tabela de Incursão possui 24 resultados e seu marcador sempre é reiniciado s
 - Um Encontro ocorrer;
 - O marcador ultrapassar o valor 24, desencadeando um Encontro de Alto Risco;
 Ao reiniciar, a tabela volta a ser contada a partir do valor 1 e o Dado de Alerta retorna para  d6.
+
+Encontro
+Rastro
+Penumbra
+Barulho
+Descoberta
+Especial
+
+
+
+**TABELA DE INCURSÃO**
+
+| Valor | Risco | Resultado  | Valor | Risco | Resultado  |
+| ----- | ----- | ---------- | ----- | ----- | ---------- |
+| 12    | Médio | Encontro   | 24    | Alto  | Encontro   |
+| 11    | Médio | Rastro     | 23    | Alto  | Rastro     |
+| 10    | Médio | Penumbra   | 22    | Alto  | Penumbra   |
+| 9     | Médio | Barulho    | 21    | Alto  | Barulho    |
+| 8     | Baixo | Descoberta | 20    | Alto  | Descoberta |
+| 7     | Baixo | Especial   | 19    | Alto  | Especial   |
+| 6     | Baixo | Encontro   | 18    | Alto  | Encontro   |
+| 5     | Baixo | Rastro     | 17    | Alto  | Rastro     |
+| 4     | Baixo | Penumbra   | 16    | Médio | Penumbra   |
+| 3     | Baixo | Barulho    | 15    | Médio | Barulho    |
+| 2     | Baixo | Descoberta | 14    | Médio | Descoberta |
+| 1     | Baixo | Especial   | 13    | Médio | Especial   |
