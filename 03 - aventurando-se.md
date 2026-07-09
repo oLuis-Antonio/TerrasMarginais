@@ -47,24 +47,26 @@ O tempo de deslocamento entre dois Destinos, ou de uma Travessia, é medido em M
 
 A cada Marcha, um dos jogadores é responsável por realizar um Teste de Travessia. Uma maneira de verificar possíveis acontecimentos durante uma viagem como: encontros, mudanças no tempo ou desvios de rota.
 
-O Teste de Travessia é realizado com o **Dado de Perigo**, representante da exposição acumulada da tropa aos perigos viajando pela Terra do Sol.  Ele pode aumentar ou diminuir na seguinte escala:
+O Teste de Travessia é realizado com o **Dado de Perigo**, representante da exposição acumulada da tropa aos perigos viajando pela Terra do Sol.  Ele pode aumentar ou diminuir apenas na seguinte escala:
 
 **d6 → d8 → d10 → d12**
 
-O dado começa como **d6**, não pode aumentar para além de **d12** e aumenta em um passo sempre que:
+O Dado de Perigo possui um valor-base inicial de **d6** e , durante o dia de viagem, aumenta em um passo sempre que:
 - For o custo de uma Ação de Travessia;
 - Ocorrer uma piora significativa no tempo;
 - Ao encontrar um Rastro em um Nível de Risco Alto;
 - Uma ação, evento ou escolha da tropa indicar maior exposição ao risco.
 
-O resultado do Dado de Perigo determina quantos valores o marcador avança na **Tabela de Travessia**, e o evento correspondente ao valor alcançado ocorre imediatamente naquela Marcha.
+O resultado do Dado de Perigo determina quantos valores o marcador avança na **Tabela de Travessia**, e o evento correspondente ao valor alcançado ocorre imediatamente naquela Marcha. Ele retorna para o seu valor-base (geralmente d6), sempre que ocorrer um Encontro.
+
+**Expedições prolongadas**: após cada Noite de Sono nos ermos, aumente em um passo o valor-base do Dado de Perigo. Após uma Noite de Sono em um local seguro, o valor-base retorna para d6.
 
 > Exemplo: no começo de uma Travessia, a tropa rola **1d6** no Dado de Perigo e obtém **5**. Ela avança até o valor **5** da Tabela de Travessia, encontrando um **Rastro**. Após resolver o evento, uma nova Marcha começa. A tropa rola novamente o Dado de Perigo e obtém **3**. Como o marcador estava no valor **5**, ele avança para o valor **8**, resultando em um **Recurso**.
 
 A Tabela de Travessia possui 24 resultados e seu marcador sempre é reiniciado sempre que:
 - Um Encontro ocorrer;
 - O marcador ultrapassar o valor 24, desencadeando um Encontro de Alto Risco;
-Ao reiniciar, a tabela volta a ser contada a partir do valor 1 e o Dado de Perigo retorna para  d6.
+Ao reiniciar, a tabela volta a ser contada a partir do valor 1.
 
 **TABELA DE TRAVESSIA**
 
@@ -151,14 +153,14 @@ Durante a exploração de um local subterrâneo, muitas vezes a tropa irá se de
 Essa ordem de Incursão sempre levará **1 Turno para se deslocar de uma Sala até outra.** Salas aqui são uma abstração, podendo se referir tanto a cômodos comuns, como corredores longos, escadarias ou segmentos do mapa.
 ### Testes de Incursão e Dados de Alerta
 
-Da mesma forma que a exploração na superfície depende de um Teste e Travessia, o mesmo ocorre em expedições subterrâneas. A cada Turno um Teste de Incursão é realizado com o **Dado de Alerta**, que pode aumentar ou diminuir na seguinte escala:
+Da mesma forma que a exploração na superfície depende de um Teste e Travessia, o mesmo ocorre em expedições subterrâneas. A cada Turno um Teste de Incursão é realizado com o **Dado de Alerta**, que pode aumentar ou diminuir apenas na seguinte escala:
 
-**d4 → d6 → d10 → d20**
+**d6 → d8 → d10 → d12**
 
-O dado começa como **d6**, não pode aumentar para além de **d12** e aumenta em um passo sempre que:
+O Dado de Alerta possui um valor-base de **d6** e aumenta em um passo sempre que:
 - For o custo de uma Ação de Incursão;
 - A tropa fizer barulho;
-- Utilizarem de violência para resolver o problema;
+- Utilizarem de violência para resolver um problema;
 - Uma ação, evento ou escolha da tropa indicar maior exposição ao risco.
 
 O resultado do Dado de Alerta determina quantos valores o marcador avança na **Tabela de Incursão**, e o evento correspondente ao valor alcançado ocorre imediatamente naquele Turno.
