@@ -110,8 +110,8 @@ Rastros são sinais de um possível encontro nas proximidades da tropa e variam 
 
 Obstáculos são bloqueios, acidentes, ou perda dos sinais daquele Caminho por onde a tropa esteja passando. Um Obstáculo impede que o grupo continue seu percurso normalmente e exige ou uma mudança brusca de trajeto, ou um gasto de tempo e de risco para ultrapassar aquela barreira.
 
-- Mudar de Rota: a tropa decide contornar o obstáculo, causando um evento de Desvio automaticamente na próxima Marcha de exploração;
-- Abrir Caminho: ao custo de aumentar em um passo o Dado de Perigo, a tropa dá um jeito de liberar a passagem e consegue viajar normalmente. Na Marcha seguinte, o grupo atravessará normalmente em caso de um novo resultado de Obstáculo;
+- **Mudar de Rota**: a tropa decide contornar o obstáculo, causando um evento de Desvio automaticamente na próxima Marcha de exploração;
+- **Abrir Caminho**: ao custo de aumentar em um passo o Dado de Perigo, a tropa dá um jeito de liberar a passagem e consegue viajar normalmente. Na Marcha seguinte, o grupo atravessará normalmente em caso de um novo resultado de Obstáculo;
 
 Obstáculos não são afetados pelo Nível de Risco.
 #### Desvios
@@ -129,7 +129,7 @@ Recursos são possíveis fontes de alimento, água, ou riquezas naturais encontr
 A tropa pode fazer alguns tipos de ações durante sua viagem para além do deslocamento comum, são elas:
 
 - **Patrulhar**: a tropa pode levar uma Marcha a mais para se deslocar. Durante a Patrulha, os resultados de Encontro na Tabela de Travessia são convertidos em Rastros, aumentando o Nível de Risco original do evento em um passo. Caso essa conversão resulte em um Rastro de Risco Alto, a Patrulha termina e o próximo resultado de Encontro ocorrerá normalmente.
-- **Levantar Acampamento**: a tropa pode gastar uma Marcha e aumentar o Dado de Perigo em um passo para estabelecer uma base provisória. O acampamento irá durar até a retomada da viagem e permite realizar uma Noite de Sono ao consumir 1 marmita.
+- **Montar Acampamento**: a tropa pode gastar uma Marcha e aumentar o Dado de Perigo em um passo para estabelecer uma base provisória. O acampamento irá durar até a retomada da viagem e permite realizar uma Noite de Sono ao consumir 1 marmita.
 ## Investigando as Profundezas
 
 O mundo não é só vasto como extremamente antigo. Cavernas nas profundezas que escondem terríveis segredos, templos abandonados pelas algúrias do tempo e masmorras criadas por magos loucos. Esses são alguns exemplos de aventuras subterrâneas que, ainda que num primeiro momento aparentam ser algo avesso ao trabalho dos Tropeiros, não se pode subestimar os Destinos que podem aparecer nessa viagem.
@@ -196,7 +196,7 @@ Conforme a tropa avança pela Tabela de Incursão, o nível de periculosidade do
 Um Encontro é um evento onde os personagens se aproximam repentinamente de qualquer coisa que esteja vagando pelo subterrâneo.
 Claro, um Encontro não significa automaticamente um Combate, mas exigem um Teste de Reação para determinar os rumos daquele acontecimento.
 
-Quando um Encontro ocorre, o MJ deve rolar a tabela de acordo com o Nível de Risco determinado na Tabela de Travessia.
+Quando um Encontro ocorre, o MJ deve rolar a tabela de acordo com o Nível de Risco determinado na Tabela de Incursão.
 #### Rastros
 
 Rastros são sinais de um possível encontro nas proximidades da tropa e variam de intensidade e tempo de ocorrência a partir do Nível de Risco determinado na Tabela de Incursão.
@@ -213,4 +213,21 @@ Tochas se apagarão no Turno seguinte a um evento de Penumbra. Já lampiões pre
 
 Oops... Parece que derrubaram aquela velha armadura no precipício de uma mina. Isso não passará desapercebido.
 
-Um evento de Barulho é quando a tropa comete algum deslize: um bater de escudos, um objeto caindo, 
+Um evento de Barulho é quando a tropa comete algum deslize: um bater de escudos, um objeto caindo, o pisar em objetos quebradiços, etc. Sempre que isso acontecer, o Dado de Alerta aumenta um número de passos de acordo com o Nível de Risco determinado na Tabela de Incursão (Baixo: 1, Médio: 2, Alto: 3).
+### Descoberta
+
+a
+### Especial
+
+b
+### Ações de Incursão
+
+A tropa pode fazer alguns tipos de ações durante sua exploração para além do deslocamento comum, são elas:
+- **Apertar o Passo**: não há tempo a perder. A tropa deixa de andar cautelosamente para percorrer o dobro de Salas em um Turno. O Dado de Alerta aumenta em um passo;
+- **Procurar Armadilhas e Passagens**: Um Personagem pode gastar um Turno para ativamente investigar possíveis armadilhas ou passagens secretas em uma determinada Sala;
+#### Descanso e Abrigos Provisórios
+
+A tropa pode parar para realizar um Descanso Curto em um Turno de Incursão. Porém, fazer isso em qualquer Sala desprotegida faz com que o Dado de Alerta aumente em um passo. Da mesmas forma, o grupo pode gastar uma quantidade de Turnos para bloquear as saídas e proteger temporariamente uma Sala. Cada Turno a mais gasto com essa ação trás os seguintes benefícios:
+- 1 Turno: o Dado de Alerta não aumenta;
+- 2 Turnos: 
+- 3 Turnos: 
