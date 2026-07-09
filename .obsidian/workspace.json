@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-regras principais.md",
+                "file": "03 - aventurando-se.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-regras principais"
+              "title": "03 - aventurando-se"
             }
           }
         ]
@@ -207,9 +207,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "01-regras principais.md",
     "02 - evolucao.md",
     "03 - aventurando-se.md",
-    "01-regras principais.md",
     "aventurando-se antigo.md",
     "ESCUDO.md",
     "evolucao antiga.md",
