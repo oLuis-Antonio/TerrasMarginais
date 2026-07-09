@@ -42,7 +42,7 @@ Marchas são uma forma de contabilizar o progresso e duração de uma Travessia.
 - Noite
 - Madrugada
 
-O tempo de deslocamento entre dois Destinos, ou uma Travessia, é medido em Marchas. Caminhos distintos podem levar uma quantidade distinta de Marchas para serem percorridos, porém essa quantidade não pode ser inferior a 1 Marcha.
+O tempo de deslocamento entre dois Destinos, ou uma Travessia, é medido em Marchas. A quantidade de Marchas necessária para percorrer um Caminho depende das características do terreno, do clima e das condições da rota, porém essa quantidade não pode ser inferior a 1 Marcha.
 ## Testes de Travessia e Dados de Perigo
 
 A cada Marcha, um dos jogadores é responsável por realizar um Teste de Travessia. Uma maneira de verificar possíveis acontecimentos durante uma viagem como: encontros, mudanças no tempo ou desvios de rota.
