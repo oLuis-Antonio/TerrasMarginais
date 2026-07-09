@@ -19,6 +19,22 @@ A tropa é o seu grupo de viagem. Ela é composta pelos PJ e, ocasionalmente, po
 Nem só de Personagens Jogadores se faz uma Tropa. Mulas, guias e escudeiros são alguns exemplos de acompanhantes, ou melhor, membros de uma Companhia.
 
 A Companhia é o conjunto de aliados, contratados e animais de um Tropeiro, e cada Tropeiro é responsável por sua própria Companhia. Por padrão, todo PJ pode manter ao menos 1 membro em sua Companhia, e a soma dos DVs de todos os membros sob sua responsabilidade não deve superar o DV do respectivo Personagem.
+
+**Custos de Manutenção**: toda ajuda a Tropa é bem-vinda, mas mais viajantes significa mais custos com comida, equipamentos e serviços. Os Custos de Manutenção são pagos por dia de viagem e representam os gastos com comida, equipamentos e serviços necessários para manter um membro da Companhia. O pagamento é feito antes de qualquer Travessia, mas talvez uma boa negociação pode tornar esse valor e adiantamento um pouco mais flexíveis.
+
+#### Contratados
+
+As vezes uma tropa iniciante não tem amizades ou conhecidos loucos o bastante para participar de uma aventura. Entretanto, algumas pessoas estão dispostas a se arriscar, desde que paguem bem pelo serviço.
+
+Contratados são essas pessoas e, geralmente, seus Custos de Manutenção equivalem ao dobro do seu número de DVs.
+#### Aliados
+
+Aliados são os amigos que fizemos pelo caminho. Podem não ser grandes especialistas em um ofício, mas você faz questão de sua presença durante uma aventura. Seus Custos de Manutenção equivalem ao número de DVs que possuem.
+#### Animais
+
+Animais domésticos são bastante úteis em qualquer Tropa. Mulas permitem transportar maiores quantidades de carga, cães podem ser bons farejadores e aliados de combate, e muito mais.
+Ter animais em sua companhia não requer um gasto frequente 
+
 ## Atravessando os Ermos
 
 A Terra do Sol é um lugar vasto: mares de morros, sertões desérticos, regiões pantaneiras e florestas antigas preenchem a paisagem e moldam as trilhas, percalços e histórias dos personagens.  Dos povos originários até a Coroa de Além-mar, todos reconhecem a dificuldade que é transitar por sua paisagem. Os Tropeiros parecem ser alguns dos poucos corajosos (ou tolos) o bastante para embarcar nessa empreitada, mas sem quaisquer motivos.
