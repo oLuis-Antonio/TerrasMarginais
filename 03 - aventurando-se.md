@@ -131,7 +131,7 @@ A tropa pode fazer alguns tipos de ações durante sua viagem para além do desl
 ## Investigando as Profundezas
 
 O mundo não é só vasto como extremamente antigo. Cavernas nas profundezas que escondem terríveis segredos, templos abandonados pelas algúrias do tempo e masmorras criadas por magos loucos. Esses são alguns exemplos de aventuras subterrâneas que, ainda que num primeiro momento aparentam ser algo avesso ao trabalho dos Tropeiros, não se pode subestimar os Destinos que podem aparecer nessa viagem.
-### Turnos de Exploração
+### Turnos de Incursão
 
 Turnos são a forma de contabilizar o progresso e duração de uma Incursão subterrânea. Cada Turno representa em média 10 minutos gastos com deslocamento, investigação cautelosa e mapeamento do local pela tropa.
 
@@ -148,4 +148,17 @@ Durante a exploração de um local subterrâneo, muitas vezes a tropa irá se de
 - Combatentes ficam apostos para qualquer eventualidade;
 - PJs que combatem à distância ficam no fim da fila, vigiando as costas do grupo;
 
-Essa ordem de Incursão sempre levará 1 Turno para se deslocar de uma Sala até outra. Salas podem se referir tanto a cômodos comuns, como
+Essa ordem de Incursão sempre levará **1 Turno para se deslocar de uma Sala até outra.** Salas aqui são uma abstração, podendo se referir tanto a cômodos comuns, como corredores longos, escadarias ou segmentos do mapa.
+### Testes de Incursão e Dados de Alerta
+
+Da mesma forma que a exploração na superfície depende de um Teste e Travessia, o mesmo ocorre em expedições subterrâneas. A cada Turno um Teste de Incursão é realizado com o **Dado de Alerta**, que pode aumentar ou diminuir na seguinte escala:
+
+**d6 → d8 → d10 → d12**
+
+O dado começa como **d6**, não pode aumentar para além de **d12** e aumenta em um passo sempre que:
+- For o custo de uma Ação de Incursão;
+- A tropa fizer barulho;
+- Utilizarem de violência para resolver o problema;
+- Uma ação, evento ou escolha da tropa indicar maior exposição ao risco.
+
+O resultado do Dado de Alerta determina quantos valores o marcador avança na **Tabela de Incursão**, e o evento correspondente ao valor alcançado ocorre imediatamente naquele Turno.
