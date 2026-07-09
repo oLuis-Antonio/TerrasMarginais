@@ -82,15 +82,15 @@ Esse é o momento decisivo! Segundos que parecem vários minutos gastos por disc
 Uma ação é qualquer atitude específica que exija algum esforço além das pernas: atacar, procurar um item na mochila ou jogá-la ao chão, etc. É incentivado que ações tomem um rumo mais criativo do que simplesmente "eu ataco", podendo por exemplo "saltar da mesa e atacar", ficando a critério do mestre as consequências e desafios extras que esse tipo de ação possa gerar. O que não é possível é combinar múltiplas ações como uma "mega-ação" (pegar um item na mochila e atacar com ele é um exemplo clássico).
 ## Deslocando
 
-Um combate pode acontecer numa clareira, no centro de uma cidade ou em uma taverna. Para melhor orientar a movimentação e posicionamento durante o combate sem depender de grids ou medidas precisas, as distâncias são abstraídas a partir dos **perímetros de combate**.
-#### Perímetros de combate
-São áreas delimitadas a partir de círculos concêntricos e uma divisória central que servem como referencial ao combate. A divisória demarca os lados de cada grupo combatente e os círculos demarcam os seguintes perímetros:
+Um combate pode acontecer numa clareira, no centro de uma cidade ou em uma taverna. Para melhor orientar a movimentação e posicionamento durante o combate sem depender de grids ou medidas precisas, as distâncias são abstraídas a partir das  **Zonas de Combate**.
+#### Zonas de Combate
+São áreas delimitadas a partir de círculos concêntricos e uma divisória central que servem como referencial ao combate. A divisória demarca os lados de cada grupo combatente e os círculos demarcam as seguintes zonas:
 
 - Retaguarda: uma distância relativamente segura, ponto ideal para tomar cobertura ou atacar à distância;
 - Apoio: região imediatamente atrás da linha de frente;
-- Frente: perímetro onde ocorre o contato direto entre combatentes;
+- Frente: zona onde ocorre o contato direto entre combatentes;
 
-Durante uma Rodada, um personagem pode deslocar-se ou ser deslocado entre perímetros um número de vezes igual à sua Taxa de Movimento. Caso esse limite seja excedido por um deslocamento forçado, ele cai no chão. O seguinte referencial ajuda a determinar a distância do PJ em relação a determinado ponto ou perímetro:
+Durante uma Rodada, um personagem pode deslocar-se ou ser deslocado entre zonas um número de vezes igual à sua Taxa de Movimento. Caso esse limite seja excedido por um deslocamento forçado, ele cai no chão. O seguinte referencial ajuda a determinar a distância do PJ em relação a determinado ponto ou zona:
 
 - Engajado: nenhum movimento é gasto para interagir;
 - Próximo: a distância de 1 movimento;
@@ -99,13 +99,12 @@ Durante uma Rodada, um personagem pode deslocar-se ou ser deslocado entre perím
 
 **Caindo**: Caso o personagem seja deslocado por outra pessoa (seja como efeito de um combate, feitiço, etc.) e sua Taxa de Movimento estiver zerada por aquela Rodada, ele automaticamente cairá no chão. É necessária uma ação para levantar-se assim que estiver apto a agir.
 
-Personagens caídos não conseguem deslocar de perímetro, Resistir ou Esquivar de ataques enquanto estiverem caídos.
+Personagens caídos não conseguem deslocar de Zona, Resistir ou Esquivar de ataques enquanto estiverem caídos.
 ## Atacando
 
 Diferente de outros RPGs, neste de jogo não há rolagens de ataque ou de Dano (dn.) convencionais. Ao invés disso, as consequências de um ataque são determinadas pelo resultado em uma **Tabela de Impacto** determinado pelo resultado total do Dado de Impacto de um arma após possíveis reduções aplicadas por armaduras ou efeitos correlatos.
 
-Ataques corpo-a-corpo exigem, por padrão, que o atacante e o alvo estejam no mesmo perímetro (geralmente o Perímetro Engajado). Ataques à distância exigem pelo menos dois perímetros de distância ou a rolagem na Tabela de Impacto sofre uma desvantagem (duas rolagens, mantém o pior resultado para o atacante).
-
+Ataques corpo a corpo exigem, por padrão, que o atacante e o alvo estejam na mesma Zona de Combate (geralmente a Frente). Ataques à distância exigem que o atacante esteja Longe do alvo (2 movimentos de distância). Caso contrário, a rolagem na Tabela de Impacto sofre uma Desvantagem.
 #### Tabela de Impacto
 
 | Impacto | Resultado                                                                                                                                                                                            |
@@ -113,7 +112,7 @@ Ataques corpo-a-corpo exigem, por padrão, que o atacante e o alvo estejam no me
 | 0       | Ataque absorvido: arma causa 0dn.                                                                                                                                                                    |
 | 1       | Reviravolta: o defensor ganha uma Vantagem para se defender ou reduzir Impacto no próximo ataque que sofrer; ou o atacante sofre uma Desvantagem na mesma situação. Esse efeito vale por uma Rodada  |
 | 2-4     | Golpe ordinário: um acerto sem impacto especial                                                                                                                                                      |
-| 5       | Empurrão: o defensor é deslocado de perímetro com o ataque                                                                                                                                           |
+| 5       | Empurrão: o defensor é deslocado de Zona com o ataque                                                                                                                                                |
 | 6       | Botar Pressão: o atacante ganha uma Vantagem para aumentar Impacto no próximo ataque contra aquele defensor; ou o defensor sofre uma Desvantagem na mesma situação.  Esse efeito vale por uma Rodada |
 | 7+      | Atropelo: o defensor recebe um Cansaço e o atacante escolhe um efeito adicional da tabela.                                                                                                           |
 **Vantagem e Desvantagem**: assim como na regra de salvaguardas, vantagens e desvantagens podem ser aplicadas às rolagens de Impacto feitas por jogadores. Um Dado de Impacto extra é rolado para armas, no caso de um ataque, ou para armaduras, no caso de uma defesa. 
@@ -131,7 +130,7 @@ Quando um personagem não quer perder sua posição para se defender ele precisa
 Flechas e projéteis são incrivelmente velozes. A única forma de Resistir a um ataque à distância é estar em posse de um escudo.
 
 ### Esquivar
-Quando um personagem não se garante na força bruta ele precisa confiar nos próprios pés. Esquivar requer um recuo forçado de um perímetro e uma salvaguarda bem-sucedida de DES para defender um ataque. Caso o personagem não possua Taxa de Movimento restante suficiente para esse deslocamento, ele cai no chão. O resultado da salvaguarda não interfere no deslocamento.
+Quando um personagem não se garante na força bruta ele precisa confiar nos próprios pés. Esquivar requer um recuo forçado de uma Zona de Combate e uma salvaguarda bem-sucedida de DES para defender um ataque. Caso o personagem não possua Taxa de Movimento restante suficiente para esse deslocamento, ele cai no chão. O resultado da salvaguarda não interfere no deslocamento.
 
 #### Ataques à Distância
 Flechas e projéteis são incrivelmente velozes.  A única forma de Esquivar de um ataque à distância é estar próximo de qualquer coisa que sirva de barricada, ou arriscar tudo Caindo ao chão. 

@@ -18,7 +18,7 @@ A tropa é o seu grupo de viagem. Ela é composta pelos PJ e, ocasionalmente, po
 
 Nem só de Personagens Jogadores se faz uma Tropa. Mulas, guias e escudeiros são alguns exemplos de acompanhantes, ou melhor, membros de uma Companhia.
 
-A Companhia é o conjunto de aliados, contratados e animais de um Tropeiro, e cada Tropeiro é responsável por sua própria Companhia. Por padrão, todo PJ possui capacidade para manter uma quantidade de membros em sua Companhia cuja a soma total de seus DVs seja 1.
+A Companhia é o conjunto de aliados, contratados e animais de um Tropeiro, e cada Tropeiro é responsável por sua própria Companhia. Por padrão, todo PJ possui capacidade para manter membros em sua Companhia cuja soma total de DVs seja 1.
 
 **Custos de Manutenção**: toda ajuda a Tropa é bem-vinda, mas mais viajantes significa mais custos com comida, equipamentos e serviços. Os Custos de Manutenção são pagos por dia de viagem e representam os gastos com comida, equipamentos e serviços necessários para manter um membro da Companhia. O pagamento é feito antes de qualquer Travessia, mas talvez uma boa negociação pode tornar esse valor e adiantamento um pouco mais flexíveis.
 
@@ -36,7 +36,7 @@ Animais domésticos são bastante úteis em qualquer Tropa. Mulas permitem trans
 Ter animais em sua companhia não requer Custos de Manutenção, ao invés disso, é necessário que o animal seja comprado (sem contar eventuais custos fora da viagem, como estábulos para montarias) e seu DV é contabilizado para o limite total da Companhia.
 #### Moral
 
-Membros de uma companhia não são buchas de canhão. Toda situação extrema tem limites e esgotar a paciência ou arriscar demais a vida de um ou mais membros de sua Companhia pode gerar desistências.
+Membros de uma Companhia não são apenas recursos da Tropa. Toda situação extrema tem limites e esgotar a paciência ou arriscar demais a vida de um ou mais membros de sua Companhia pode gerar desistências.
 
 Como todo NPC, membros de uma companhia possuem um valor base de **Moral**, que pode se alterar a depender do seu relacionamento com eles. Sempre que a Companhia se submete a uma situação arriscada ou a um acumulo de insatisfações (como uma viagem gastar mais tempo do que o valor pago de Custos de Manutenção), o MJ pode exigir um Teste de Moral.
 
