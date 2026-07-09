@@ -126,7 +126,7 @@ Recursos são possíveis fontes de alimento, água, ou riquezas naturais encontr
 
 A tropa pode fazer alguns tipos de ações durante sua viagem para além do deslocamento comum, são elas:
 
-- **Patrulhar**: A tropa pode levar uma Marcha a mais para se deslocar. Durante a Patrulha, os três próximos resultados de Encontro na Tabela de Travessia são convertidos em Rastros, aumentando o Nível de Risco de cada um
+- **Patrulhar**: a tropa pode levar uma Marcha a mais para se deslocar. Durante a Patrulha, os resultados de Encontro na Tabela de Travessia são convertidos em Rastros, aumentando o Nível de Risco original do evento em um passo. Caso essa conversão resulte em um Rastro de Risco Alto, a Patrulha termina e o próximo resultado de Encontro ocorrerá normalmente.
 - **Levantar Acampamento**: a tropa pode gastar uma Marcha e aumentar o Dado de Perigo em um passo para estabelecer uma base provisória. O acampamento irá durar até a retomada da viagem e permite realizar uma Noite de Sono ao consumir 1 marmita.
 ## Investigando as Profundezas
 
