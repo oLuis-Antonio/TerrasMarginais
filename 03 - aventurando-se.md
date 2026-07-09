@@ -42,7 +42,7 @@ Marchas são uma forma de contabilizar o progresso e duração de uma Travessia.
 - Noite
 - Madrugada
 
-O tempo de deslocamento entre dois Destinos, ou uma Travessia, é medido em Marchas. A quantidade de Marchas necessária para percorrer um Caminho depende das características do terreno, do clima e das condições da rota, porém essa quantidade não pode ser inferior a 1 Marcha.
+O tempo de deslocamento entre dois Destinos, ou de uma Travessia, é medido em Marchas. A quantidade de Marchas necessária para percorrer um Caminho depende das características do terreno, do clima e das condições da rota, mas nunca pode ser inferior a uma Marcha.
 ## Testes de Travessia e Dados de Perigo
 
 A cada Marcha, um dos jogadores é responsável por realizar um Teste de Travessia. Uma maneira de verificar possíveis acontecimentos durante uma viagem como: encontros, mudanças no tempo ou desvios de rota.
@@ -153,7 +153,7 @@ Essa ordem de Incursão sempre levará **1 Turno para se deslocar de uma Sala at
 
 Da mesma forma que a exploração na superfície depende de um Teste e Travessia, o mesmo ocorre em expedições subterrâneas. A cada Turno um Teste de Incursão é realizado com o **Dado de Alerta**, que pode aumentar ou diminuir na seguinte escala:
 
-**d6 → d8 → d10 → d12**
+**d4 → d6 → d10 → d20**
 
 O dado começa como **d6**, não pode aumentar para além de **d12** e aumenta em um passo sempre que:
 - For o custo de uma Ação de Incursão;
@@ -162,3 +162,8 @@ O dado começa como **d6**, não pode aumentar para além de **d12** e aumenta e
 - Uma ação, evento ou escolha da tropa indicar maior exposição ao risco.
 
 O resultado do Dado de Alerta determina quantos valores o marcador avança na **Tabela de Incursão**, e o evento correspondente ao valor alcançado ocorre imediatamente naquele Turno.
+
+A Tabela de Incursão possui 24 resultados e seu marcador sempre é reiniciado sempre que:
+- Um Encontro ocorrer;
+- O marcador ultrapassar o valor 24, desencadeando um Encontro de Alto Risco;
+Ao reiniciar, a tabela volta a ser contada a partir do valor 1 e o Dado de Alerta retorna para  d6.
