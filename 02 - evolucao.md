@@ -21,7 +21,7 @@ A lista a seguir traz uma série de perguntas a serem feitas para ajudar a deter
 	- Voltei de um combate com uma condição impactante (ferimento grave, uso extremo de recursos, ou morte evitada por pouco)?
 - Exploração
 	- Descobri uma informação ou local que altera de forma significativa a compreensão do mundo?
-	- Conseguimos obter recurso, tesouro ou informação em ambiente perigoso sob risco real de falha ou perda?
+	- Conseguimos obter recurso valioso, tesouro ou informação em ambiente perigoso sob risco real de falha ou perda?
 	- Minha ação mudou permanentemente o estado de um lugar?
 	- O grupo enfrentou um risco ambiental ou estrutural relevante que exigiu adaptação imediata?
 - Interação
@@ -51,7 +51,6 @@ Cada tipo de Vivência confere uma habilidade única que melhora conforme aquela
 
 - Combate: X vezes por sessão, previna 1 Dano de um ataque em troca de 1 Cansaço;
 - Exploração: a cada Descanso Rápido em um local protegido, você  recupera X ferimentos a mais ao consumir uma marmita;
-- Interação: um PJ pode contratar ou conquistar X aliados para a tropa, contanto que o total de seus DVs não ultrapasse X;
+- Interação: um PJ pode ter sob sua responsabilidade X membros a mais em sua Companhia;
 - Sobrevivência: um PJ pode rolar novamente o resultado de uma salvaguarda X vezes por sessão;
 
-um PJ pode manter sob sua responsabilidade X membros em sua companhia, contanto que o total de seus DVs não ultrapasse X;

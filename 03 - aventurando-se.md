@@ -1,9 +1,6 @@
 # Aventurando-se
 
 Nesta seção iremos descrever os procedimentos realizados pelos jogadores para explorar a superfície e as profundezas da Terra do Sol.
-## Tropa
-
-A tropa é o seu grupo de viagem. Ela é composta pelos PJ e, ocasionalmente, por suas montarias e aliados. Toda a exploração é gerenciada a partir da perspectiva da tropa.
 ## Lar
 
 Todos vieram de algum lugar e os Tropeiros de *nome do jogo* não são exceção. Antes de qualquer viagem, temos que manter nossa casa na memória, para que a ansiedade de voltar dê o ânimo necessário durante o fim de uma travessia.
@@ -14,6 +11,14 @@ Personagens possuem um Lar, podendo ser compartilhado em comum ou disperso pelos
 - Qual a sua comida favorita de casa?
 
 Essas perguntas são mera referência para uma construção emergente de jogo, podendo ser substituídas ou modificadas. O importante é que os personagens tenham um lugar para onde possam voltar.
+## Tropa
+
+A tropa é o seu grupo de viagem. Ela é composta pelos PJ e, ocasionalmente, por suas montarias e aliados. Toda a exploração é gerenciada a partir da perspectiva da tropa.
+### Companhia
+
+Nem só de Personagens Jogadores se faz uma Tropa. Mulas, guias e escudeiros são alguns exemplos de acompanhantes, ou melhor, membros de uma Companhia.
+
+A Companhia é o conjunto de aliados, contratados e animais de um Tropeiro, e cada Tropeiro é responsável por sua própria Companhia. Por padrão, todo PJ pode manter ao menos 1 membro em sua Companhia, e a soma dos DVs de todos os membros sob sua responsabilidade não deve superar o DV do respectivo Personagem.
 ## Atravessando os Ermos
 
 A Terra do Sol é um lugar vasto: mares de morros, sertões desérticos, regiões pantaneiras e florestas antigas preenchem a paisagem e moldam as trilhas, percalços e histórias dos personagens.  Dos povos originários até a Coroa de Além-mar, todos reconhecem a dificuldade que é transitar por sua paisagem. Os Tropeiros parecem ser alguns dos poucos corajosos (ou tolos) o bastante para embarcar nessa empreitada, mas sem quaisquer motivos.
