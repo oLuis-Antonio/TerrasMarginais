@@ -212,9 +212,9 @@ Uma súbita ventania faz as chamas da sua tocha, já gasta, crepitarem. A sua fo
 Tochas se apagarão no Turno seguinte a um evento de Penumbra. Já lampiões precisam repor óleo apenas após dois eventos de Penumbra ocorrerem.
 ### Barulho
 
-Oops... Parece que derrubaram aquela velha armadura no precipício de uma mina. Isso não passará desapercebido.
+Um evento de Barulho representa uma perturbação sonora causada pela Tropa durante a exploração: um bater de escudos, um objeto caindo, o pisar em objetos quebradiços, etc. Esse evento pode ocorrer como resultado da Tabela de Incursão ou ser provocado diretamente pelas ações dos jogadores. Cabe ao MJ arbitrar de maneira coerente quando uma ação da Tropa é suficiente para disparar esse evento.
 
-Um evento de Barulho é quando a tropa comete algum deslize: um bater de escudos, um objeto caindo, o pisar em objetos quebradiços, etc. Sempre que isso acontecer, o Dado de Alerta aumenta um número de passos de acordo com o Nível de Risco determinado na Tabela de Incursão:
+Sempre que um evento de Barulho ocorrer, o Dado de Alerta aumenta um número de passos de acordo com o Nível de Risco determinado na Tabela de Incursão:
 - Baixo: +1
 - Médio: +2
 - Alto: +3
