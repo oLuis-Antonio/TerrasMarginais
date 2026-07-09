@@ -51,6 +51,6 @@ Cada tipo de Vivência confere uma habilidade única que melhora conforme aquela
 
 - Combate: X vezes por sessão, previna 1 Dano de um ataque em troca de 1 Cansaço;
 - Exploração: a cada Descanso Rápido em um local protegido, você  recupera X ferimentos a mais ao consumir uma marmita;
-- Interação: um PJ pode ter sob sua responsabilidade X membros a mais em sua Companhia;
+- Interação: um PJ pode aumentar em X o limite da soma de DVs total dos membros de sua Companhia;
 - Sobrevivência: um PJ pode rolar novamente o resultado de uma salvaguarda X vezes por sessão;
 
