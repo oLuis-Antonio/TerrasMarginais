@@ -133,3 +133,19 @@ A tropa pode fazer alguns tipos de ações durante sua viagem para além do desl
 O mundo não é só vasto como extremamente antigo. Cavernas nas profundezas que escondem terríveis segredos, templos abandonados pelas algúrias do tempo e masmorras criadas por magos loucos. Esses são alguns exemplos de aventuras subterrâneas que, ainda que num primeiro momento aparentam ser algo avesso ao trabalho dos Tropeiros, não se pode subestimar os Destinos que podem aparecer nessa viagem.
 ### Turnos de Exploração
 
+Turnos são a forma de contabilizar o progresso e duração de uma Incursão subterrânea. Cada Turno representa em média 10 minutos gastos com deslocamento, investigação cautelosa e mapeamento do local pela tropa.
+
+Alguns tipos de ação desencadeiam o avançar dos Turnos como:
+- Mover-se entre salas;
+- Investigar um objeto ou sala;
+- Resolver um quebra-cabeças;
+- Discutir incansavelmente por qualquer desavença no grupo;
+### Ordem de Incursão e Deslocamento
+
+Durante a exploração de um local subterrâneo, muitas vezes a tropa irá se deparar com locais apertados, cheios de armadilhas e perigos. Por isso, é comum que uma ordem ou fila de Incursão seja definida onde:
+
+- Personagens com boa acuidade cuidam de procurar armadilhas afrente;
+- Combatentes ficam apostos para qualquer eventualidade;
+- PJs que combatem à distância ficam no fim da fila, vigiando as costas do grupo;
+
+Essa ordem de Incursão sempre levará 1 Turno para se deslocar de uma Sala até outra. Salas podem se referir tanto a cômodos comuns, como
