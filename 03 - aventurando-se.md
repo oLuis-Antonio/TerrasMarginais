@@ -47,7 +47,7 @@ O tempo de deslocamento entre dois Destinos, ou uma Travessia, é medido em Marc
 
 A cada Marcha, um dos jogadores é responsável por realizar um Teste de Travessia. Uma maneira de verificar possíveis acontecimentos durante uma viagem como: encontros, mudanças no tempo ou desvios de rota.
 
-O Teste de Travessia é realizado com o **Dado de Perigo**, representante do crescimento a longo prazo do risco de estar viajando pela Terra do Sol.  Ele pode aumentar ou diminuir na seguinte escala:
+O Teste de Travessia é realizado com o **Dado de Perigo**, representante da exposição acumulada da tropa aos perigos viajando pela Terra do Sol.  Ele pode aumentar ou diminuir na seguinte escala:
 
 **d6 → d8 → d10 → d12**
 
@@ -64,7 +64,7 @@ O resultado do Dado de Perigo determina quantos valores o marcador avança na **
 A Tabela de Travessia possui 24 resultados e seu marcador sempre é reiniciado sempre que:
 - Um Encontro ocorrer;
 - O marcador ultrapassar o valor 24, desencadeando um Encontro de Alto Risco;
-Ao reiniciar, a tabela volta a ser contada a partir do valor 1 e o Dado de Perigo retorna como d6.
+Ao reiniciar, a tabela volta a ser contada a partir do valor 1 e o Dado de Perigo retorna para  d6.
 
 **TABELA DE TRAVESSIA**
 
@@ -126,7 +126,7 @@ Recursos são possíveis fontes de alimento, água, ou riquezas naturais encontr
 
 A tropa pode fazer alguns tipos de ações durante sua viagem para além do deslocamento comum, são elas:
 
-- **Patrulhar**: navegar pelos ermos com cautela para antecipar o perigo. A tropa pode gastar uma Marcha extra de deslocamento para que os dois próximos resultados de Encontro na Tabela de Travessia tornam-se Rastros. A Tabela de Travessia não reiniciará até que o terceiro Encontro ocorra;
+- **Patrulhar**: A tropa pode levar uma Marcha a mais para se deslocar. Durante a Patrulha, os três próximos resultados de Encontro na Tabela de Travessia são convertidos em Rastros, aumentando o Nível de Risco de cada um
 - **Levantar Acampamento**: a tropa pode gastar uma Marcha e aumentar o Dado de Perigo em um passo para estabelecer uma base provisória. O acampamento irá durar até a retomada da viagem e permite realizar uma Noite de Sono ao consumir 1 marmita.
 ## Investigando as Profundezas
 
