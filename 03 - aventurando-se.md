@@ -47,18 +47,24 @@ O tempo de deslocamento entre dois Destinos, ou uma Travessia, é medido em Marc
 
 A cada Marcha, um dos jogadores é responsável por realizar um Teste de Travessia. Uma maneira de verificar possíveis acontecimentos durante uma viagem como: encontros, mudanças no tempo ou desvios de rota.
 
-O Teste de Travessia é realizado com o **Dado de Perigo**, que representa o crescimento a longo prazo do risco de estar viajando pela Terra do Sol.  O dado começa em **1d6** e aumenta em um passo sempre que:
-- For o custo de uma Ação de Travessia;
-- Ocorrer uma piora significativa no tempo;
-- 
+O Teste de Travessia é realizado com o **Dado de Perigo**, representante do crescimento a longo prazo do risco de estar viajando pela Terra do Sol.  Ele pode aumentar ou diminuir na seguinte escala:
 
 **d6 → d8 → d10 → d12**
 
-O resultado do Dado de Perigo determina quantas casas a tropa avança na **Tabela de Travessia**, e o evento correspondente ao valor alcançado ocorre imediatamente naquela Marcha.
+O dado começa como **d6**, não pode aumentar para além de **d12** e aumenta em um passo sempre que:
+- For o custo de uma Ação de Travessia;
+- Ocorrer uma piora significativa no tempo;
+- Ao encontrar um Rastro em um Nível de Risco Alto;
+- Uma ação, evento ou escolha da tropa indicar maior exposição ao risco.
+
+O resultado do Dado de Perigo determina quantos valores o marcador avança na **Tabela de Travessia**, e o evento correspondente ao valor alcançado ocorre imediatamente naquela Marcha.
 
 > Exemplo: no começo de uma Travessia, a tropa rola **1d6** no Dado de Perigo e obtém **5**. Ela avança até o valor **5** da Tabela de Travessia, encontrando um **Rastro**. Após resolver o evento, uma nova Marcha começa. A tropa rola novamente o Dado de Perigo e obtém **3**. Como o marcador estava no valor **5**, ele avança para o valor **8**, resultando em um **Recurso**.
 
-A Tabela de Travessia possui 24 resultados. Sempre que um **Encontro** ocorrer ou o valor **24** for alcançado, a tabela reinicia (volta a contar do valor **1**) e o Dado de Perigo retorna para **1d6**.
+A Tabela de Travessia possui 24 resultados e seu marcador sempre é reiniciado sempre que:
+- Um Encontro ocorrer;
+- O marcador ultrapassar o valor 24, desencadeando um Encontro de Alto Risco;
+Ao reiniciar, a tabela volta a ser contada a partir do valor 1 e o Dado de Perigo retorna como d6.
 
 **TABELA DE TRAVESSIA**
 
@@ -96,28 +102,32 @@ Rastros são sinais de um possível encontro nas proximidades da tropa e variam 
 
 - Baixo: rastros deixados há alguns dias. Parece de algo ou alguém que circula pela região.
 - Médio: rastros deixados há algumas horas. Parece de algo ou alguém que passou por aquele Caminho recentemente.
-- Alto: rastros deixados há pouco tempo. O que quer que seja, está há poucas marchas de distância da tropa.
+- Alto: rastros deixados há pouco tempo. O que quer que seja, está há poucas marchas de distância da tropa. O Dado de Perigo aumenta em um passo.
 
 #### Obstáculos
 
 Obstáculos são bloqueios, acidentes, ou perda dos sinais daquele Caminho por onde a tropa esteja passando. Um Obstáculo impede que o grupo continue seu percurso normalmente e exige ou uma mudança brusca de trajeto, ou um gasto de tempo e de risco para ultrapassar aquela barreira.
 
 - Mudar de Rota: a tropa decide contornar o obstáculo, causando um evento de Desvio automaticamente na próxima Marcha de exploração;
-- Abrir Caminho: ao custo de aumentar o valor do Dado de Perigo, a tropa dá um jeito de liberar a passagem e consegue viajar normalmente. Na Marcha seguinte, o grupo atravessará normalmente em caso de um novo resultado de Obstáculo;
+- Abrir Caminho: ao custo de aumentar em um passo o Dado de Perigo, a tropa dá um jeito de liberar a passagem e consegue viajar normalmente. Na Marcha seguinte, o grupo atravessará normalmente em caso de um novo resultado de Obstáculo;
 
 Obstáculos não são afetados pelo Nível de Risco.
 #### Desvios
 
 Desvios são momentos onde a tropa repentinamente saiu do percurso planejado, encontrando alguma coisa diferente do esperado. O Desvio ou exige 1 Marcha para retomar ao Caminho pretendido, ou pode levar a formação de um Caminho novo para a tropa.
+
+// escrever as tabelas
 #### Recursos
 
 Recursos são possíveis fontes de alimento, água, ou riquezas naturais encontradas no meio do Caminho. A tropa pode gastar 1 Marcha para usufruir daqueles recursos e seu tipo varia conforme o Nível de Risco determinado na Tabela de Travessia.
+
+// escrever as tabelas
 ### Ações de Travessia
 
 A tropa pode fazer alguns tipos de ações durante sua viagem para além do deslocamento comum, são elas:
 
-- **Patrulhar**: navegar pelos ermos com cautela para antecipar o perigo. Ao custo de uma Marcha extra, Os dois próximos resultados de Encontro na Tabela de Travessia tornam-se Rastros. A Tabela de Travessia não reiniciará até que o terceiro e derradeiro Encontro ocorra;
-- **Levantar Acampamento**: ao custo de um aumento no Dado de Perigo, o grupo gasta uma Marcha para estabelecer uma base provisória. O acampamento irá durar até a retomada da viagem e permite realizar uma Noite de Sono ao consumir 1 marmita.
+- **Patrulhar**: navegar pelos ermos com cautela para antecipar o perigo. A tropa pode gastar uma Marcha extra de deslocamento para que os dois próximos resultados de Encontro na Tabela de Travessia tornam-se Rastros. A Tabela de Travessia não reiniciará até que o terceiro Encontro ocorra;
+- **Levantar Acampamento**: a tropa pode gastar uma Marcha e aumentar o Dado de Perigo em um passo para estabelecer uma base provisória. O acampamento irá durar até a retomada da viagem e permite realizar uma Noite de Sono ao consumir 1 marmita.
 ## Investigando as Profundezas
 
 O mundo não é só vasto como extremamente antigo. Cavernas nas profundezas que escondem terríveis segredos, templos abandonados pelas algúrias do tempo e masmorras criadas por magos loucos. Esses são alguns exemplos de aventuras subterrâneas que, ainda que num primeiro momento aparentam ser algo avesso ao trabalho dos Tropeiros, não se pode subestimar os Destinos que podem aparecer nessa viagem.
