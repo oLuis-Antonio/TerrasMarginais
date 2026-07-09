@@ -53,3 +53,5 @@ Cada tipo de Vivência confere uma habilidade única que melhora conforme aquela
 - Exploração: a cada Descanso Rápido em um local protegido, você  recupera X ferimentos a mais ao consumir uma marmita;
 - Interação: um PJ pode contratar ou conquistar X aliados para a tropa, contanto que o total de seus DVs não ultrapasse X;
 - Sobrevivência: um PJ pode rolar novamente o resultado de uma salvaguarda X vezes por sessão;
+
+um PJ pode manter sob sua responsabilidade X membros em sua companhia, contanto que o total de seus DVs não ultrapasse X;
