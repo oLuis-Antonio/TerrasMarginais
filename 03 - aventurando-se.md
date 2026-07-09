@@ -54,7 +54,7 @@ O Teste de Travessia é realizado com o **Dado de Perigo**, representante da exp
 O Dado de Perigo possui um valor-base inicial de **d6** e , durante o dia de viagem, aumenta em um passo sempre que:
 - For o custo de uma Ação de Travessia;
 - Ocorrer uma piora significativa no tempo;
-- Ao encontrar um Rastro em um Nível de Risco Alto;
+- Encontrarem um Rastro em um Nível de Risco Alto;
 - Uma ação, evento ou escolha da tropa indicar maior exposição ao risco.
 
 O resultado do Dado de Perigo determina quantos valores o marcador avança na **Tabela de Travessia**, e o evento correspondente ao valor alcançado ocorre imediatamente naquela Marcha. Ele retorna para o seu valor-base (geralmente d6), sempre que ocorrer um Encontro.
@@ -159,7 +159,8 @@ Da mesma forma que a exploração na superfície depende de um Teste e Travessia
 
 O Dado de Alerta possui um valor-base de **d6** e aumenta em um passo sempre que:
 - For o custo de uma Ação de Incursão;
-- A tropa fizer barulho;
+- A tropa fizer barulho (como evento ou fora dele);
+- Encontrarem um Rastro em um Nível de Risco Alto;
 - Utilizarem de violência para resolver um problema;
 - Uma ação, evento ou escolha da tropa indicar maior exposição ao risco.
 
@@ -169,15 +170,6 @@ A Tabela de Incursão possui 24 resultados e seu marcador sempre é reiniciado s
 - Um Encontro ocorrer;
 - O marcador ultrapassar o valor 24, desencadeando um Encontro de Alto Risco;
 Ao reiniciar, a tabela volta a ser contada a partir do valor 1 e o Dado de Alerta retorna para  d6.
-
-Encontro
-Rastro
-Penumbra
-Barulho
-Descoberta
-Especial
-
-
 
 **TABELA DE INCURSÃO**
 
@@ -195,3 +187,30 @@ Especial
 | 3     | Baixo | Barulho    | 15    | Médio | Barulho    |
 | 2     | Baixo | Descoberta | 14    | Médio | Descoberta |
 | 1     | Baixo | Especial   | 13    | Médio | Especial   |
+#### Níveis de Risco
+
+Conforme a tropa avança pela Tabela de Incursão, o nível de periculosidade dos resultados tende a aumentar e o tipo de resultado é afetado de alguma forma. Os três níveis de risco são: Baixo, Médio e Alto.
+### Eventos de Incursão
+#### Encontros
+
+Um Encontro é um evento onde os personagens se aproximam repentinamente de qualquer coisa que esteja vagando pelo subterrâneo.
+Claro, um Encontro não significa automaticamente um Combate, mas exigem um Teste de Reação para determinar os rumos daquele acontecimento.
+
+Quando um Encontro ocorre, o MJ deve rolar a tabela de acordo com o Nível de Risco determinado na Tabela de Travessia.
+#### Rastros
+
+Rastros são sinais de um possível encontro nas proximidades da tropa e variam de intensidade e tempo de ocorrência a partir do Nível de Risco determinado na Tabela de Incursão.
+
+- Baixo: marcas antigas da presença de algo ou alguém. Talvez ainda esteja por aí.
+- Médio: rastros recentes. Não estamos sozinhos.
+- Alto: tem alguém aqui e está próximo. O Dado de Alerta aumenta em um passo.
+#### Penumbra
+
+Uma súbita ventania faz as chamas da sua tocha, já gasta, crepitarem. A sua fonte de luz deve ser reposta, ou a escuridão tomará conta do lugar.
+
+Tochas se apagarão no Turno seguinte a um evento de Penumbra. Já lampiões precisam repor óleo apenas após dois eventos de Penumbro ocorrerem.
+### Barulho
+
+Oops... Parece que derrubaram aquela velha armadura no precipício de uma mina. Isso não passará desapercebido.
+
+Um evento de Barulho é quando a tropa comete algum deslize: um bater de escudos, um objeto caindo, 
