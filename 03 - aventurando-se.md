@@ -159,9 +159,8 @@ Da mesma forma que a exploração na superfície depende de um Teste e Travessia
 
 O Dado de Alerta possui um valor-base de **d6** e aumenta em um passo sempre que:
 - For o custo de uma Ação de Incursão;
-- A tropa fizer barulho (como evento ou fora dele);
+- A tropa disparar um evento de Barulho;
 - Encontrarem um Rastro em um Nível de Risco Alto;
-- Utilizarem de violência para resolver um problema;
 - Uma ação, evento ou escolha da tropa indicar maior exposição ao risco.
 
 Ele retorna para o seu valor-base sempre que um Encontro ocorrer, ou a tropa passar mais de uma Marcha do lado de fora do local de Incursão.
@@ -221,12 +220,12 @@ Um evento de Barulho é quando a tropa comete algum deslize: um bater de escudos
 - Alto: +3
 ### Descoberta
 
-Um tesouro antigo, uma informação relevante, ou um artefato misterioso. Um evento de Descoberta é um achado dentro da Sala por onde a tropa está passando naquele momento. A tropa pode gastar um Turno para investigar uma Descoberta e seu tipo varia conforme o Nível de Risco determinado na Tabela de Incursão.
+Um evento de Descoberta revela algo digno de investigação naquela Sala: um tesouro antigo, um artefato, uma inscrição, um esconderijo, uma passagem ou qualquer outro achado relevante. A tropa pode gastar um Turno para investigar uma Descoberta e seu tipo varia conforme o Nível de Risco determinado na Tabela de Incursão.
 
 // Tabelas
 ### Especial
 
-Cavernas, esgotos, masmorras e castelos. Nenhuma incursão a esses lugares é igual a outra. Um evento Especial é uma ocorrência específica daquele local explorado pelos Tropeiros. Pode ser um desmoronamento, uma névoa misteriosamente ou simplesmente calafrios repentinos. Fica a cargo do MJ determinar o que ocorre aqui.
+Cavernas, esgotos, masmorras e castelos. Nenhuma incursão a esses lugares é igual a outra. Um evento Especial é uma ocorrência específica daquele local explorado pelos Tropeiros. Pode ser um desmoronamento, uma névoa misteriosa ou simplesmente calafrios repentinos. Fica a cargo do MJ determinar o que ocorre aqui.
 ### Ações de Incursão
 
 A tropa pode fazer alguns tipos de ações durante sua exploração para além do deslocamento comum, são elas:
@@ -235,8 +234,8 @@ A tropa pode fazer alguns tipos de ações durante sua exploração para além d
 #### Descanso e Abrigos Provisórios
 
 A tropa pode parar para realizar um Descanso Curto em um Turno de Incursão. Porém, fazer isso em qualquer Sala desprotegida faz com que o Dado de Alerta aumente em um passo. Da mesmas forma, o grupo pode gastar uma quantidade de Turnos para bloquear as saídas e proteger temporariamente uma Sala. Cada Turno a mais gasto com essa ação trás os seguintes benefícios:
-- 1 Turno: o Dado de Alerta não irá aumentar;
-- 2 Turnos: marmitas recuperam um Ferimento ou Cansaço adicionais;
-- 3 Turnos: um evento de Encontro demorará um Turno a mais para ocorrer;
+- 1 Turno: o Dado de Alerta não aumenta ao realizar um Descanso Curto no abrigo;
+- 2 Turnos: o primeiro evento de Barulho enquanto a tropa permanecer no abrigo é ignorado;
+- 3 Turnos: o primeiro evento de Encontro enquanto a tropa permanecer no abrigo é adiado em um Turno;
 
-As rolagens na Tabela de Incursão continuam normalmente.
+Um abrigo provisório nunca torna uma Incursão segura. Enquanto a tropa permanecer nele, os Testes de Incursão continuam sendo realizados normalmente.
