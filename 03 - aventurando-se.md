@@ -164,12 +164,14 @@ O Dado de Alerta possui um valor-base de **d6** e aumenta em um passo sempre que
 - Utilizarem de violência para resolver um problema;
 - Uma ação, evento ou escolha da tropa indicar maior exposição ao risco.
 
+Ele retorna para o seu valor-base sempre que um Encontro ocorrer, ou a tropa passar mais de uma Marcha do lado de fora do local de Incursão.
+
 O resultado do Dado de Alerta determina quantos valores o marcador avança na **Tabela de Incursão**, e o evento correspondente ao valor alcançado ocorre imediatamente naquele Turno.
 
 A Tabela de Incursão possui 24 resultados e seu marcador sempre é reiniciado sempre que:
 - Um Encontro ocorrer;
 - O marcador ultrapassar o valor 24, desencadeando um Encontro de Alto Risco;
-Ao reiniciar, a tabela volta a ser contada a partir do valor 1 e o Dado de Alerta retorna para  d6.
+Ao reiniciar, a tabela volta a ser contada a partir do valor 1.
 
 **TABELA DE INCURSÃO**
 
@@ -208,18 +210,23 @@ Rastros são sinais de um possível encontro nas proximidades da tropa e variam 
 
 Uma súbita ventania faz as chamas da sua tocha, já gasta, crepitarem. A sua fonte de luz deve ser reposta, ou a escuridão tomará conta do lugar.
 
-Tochas se apagarão no Turno seguinte a um evento de Penumbra. Já lampiões precisam repor óleo apenas após dois eventos de Penumbro ocorrerem.
+Tochas se apagarão no Turno seguinte a um evento de Penumbra. Já lampiões precisam repor óleo apenas após dois eventos de Penumbra ocorrerem.
 ### Barulho
 
 Oops... Parece que derrubaram aquela velha armadura no precipício de uma mina. Isso não passará desapercebido.
 
-Um evento de Barulho é quando a tropa comete algum deslize: um bater de escudos, um objeto caindo, o pisar em objetos quebradiços, etc. Sempre que isso acontecer, o Dado de Alerta aumenta um número de passos de acordo com o Nível de Risco determinado na Tabela de Incursão (Baixo: 1, Médio: 2, Alto: 3).
+Um evento de Barulho é quando a tropa comete algum deslize: um bater de escudos, um objeto caindo, o pisar em objetos quebradiços, etc. Sempre que isso acontecer, o Dado de Alerta aumenta um número de passos de acordo com o Nível de Risco determinado na Tabela de Incursão:
+- Baixo: +1
+- Médio: +2
+- Alto: +3
 ### Descoberta
 
-a
+Um tesouro antigo, uma informação relevante, ou um artefato misterioso. Um evento de Descoberta é um achado dentro da Sala por onde a tropa está passando naquele momento. A tropa pode gastar um Turno para investigar uma Descoberta e seu tipo varia conforme o Nível de Risco determinado na Tabela de Incursão.
+
+// Tabelas
 ### Especial
 
-b
+Cavernas, esgotos, masmorras e castelos. Nenhuma incursão a esses lugares é igual a outra. Um evento Especial é uma ocorrência específica daquele local explorado pelos Tropeiros. Pode ser um desmoronamento, uma névoa misteriosamente ou simplesmente calafrios repentinos. Fica a cargo do MJ determinar o que ocorre aqui.
 ### Ações de Incursão
 
 A tropa pode fazer alguns tipos de ações durante sua exploração para além do deslocamento comum, são elas:
@@ -228,6 +235,8 @@ A tropa pode fazer alguns tipos de ações durante sua exploração para além d
 #### Descanso e Abrigos Provisórios
 
 A tropa pode parar para realizar um Descanso Curto em um Turno de Incursão. Porém, fazer isso em qualquer Sala desprotegida faz com que o Dado de Alerta aumente em um passo. Da mesmas forma, o grupo pode gastar uma quantidade de Turnos para bloquear as saídas e proteger temporariamente uma Sala. Cada Turno a mais gasto com essa ação trás os seguintes benefícios:
-- 1 Turno: o Dado de Alerta não aumenta;
-- 2 Turnos: 
-- 3 Turnos: 
+- 1 Turno: o Dado de Alerta não irá aumentar;
+- 2 Turnos: marmitas recuperam um Ferimento ou Cansaço adicionais;
+- 3 Turnos: um evento de Encontro demorará um Turno a mais para ocorrer;
+
+As rolagens na Tabela de Incursão continuam normalmente.
