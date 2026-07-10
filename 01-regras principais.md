@@ -176,7 +176,15 @@ Quando se está explorando uma área perigosa geralmente não é possível desca
 Para se recuperar de todos os Ferimentos não graves e Cansaços é necessário uma boa noite de sono: não ser interrompido durante a noite e possuir um local adequado para dormir. Caso o descanso seja interrompido ou inadequado, recupere apenas metade dos Ferimentos e Cansaços (arredondando para baixo, mínimo 1).
 
 Um personagem que deixa de realizar uma Noite de Sono fica automaticamente sobrecarregado. Se deixar de dormir por uma segunda noite consecutiva, ou receber um novo Cansaço nesse período, cai de exaustão.
+# Feitiçaria
 
+Ninguém mais se lembra o que a Coroa buscava quando desembarcou na Terra do Sol, porém uma coisa é certa: esse algo tem a ver com as forças do caos.
+
+A Feitiçaria, ou seja, a arte de manipular a realidade tecendo pelas forças do caos, é uma prática considerada tabu pelas forças da Ordem. A Coroa por muito tempo perseguiu aqueles que, longe de caírem em sua seita por controle, abraçavam a imprevisibilidade e o movimento entrópico da vida. Nos dias de hoje, porém, algumas poucas pessoas se arriscam a estudar os textos antigos, retomando uma prática há muito apagada, porém poderosa (e perigosa).
+
+Para conjurar feitiços é necessário que as forças do caos estejam canalizadas em receptáculos, para que então sejam liberadas através de um conjunto de encantos e gestos. Os receptáculos mais comuns nos dias de hoje (e talvez os poucos registros escritos de feitiçaria) são os encontrados em grimórios e pergaminhos, registros dos últimos magos que vez ou outra caem nas mãos de Tropeiros, peregrinos e trovadores.
+
+Um Grimório é um tomo capaz de guardar mais de um Feitiço por vez. O Grimório de um PJ consegue canalizar uma quantidade de Feitiços igual a duas vezes seu nível de Personagem. Já pergaminhos são restos de antigos Grimórios que ainda podem ser lidos e entoados, porém sua natureza volátil faz com que se incinerem no instante em que o Feitiço é conjurado.
 # MAGIA (rascunho)
 
 Para conjurar magias você precisa de um grimório ou um pergaminho contendo uma magia nas mãos e capacidade de falar em alto e bom som.
