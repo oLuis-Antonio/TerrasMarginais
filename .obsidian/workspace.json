@@ -35,7 +35,8 @@
               "title": "nome provisório"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,10 +220,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "90df94e3cbc8424e",
   "lastOpenFiles": [
-    "nome provisório.md",
     "cantiga.md",
+    "nome provisório.md",
     "ideias do cenário.md",
     "Sem título 1.md",
     "02 - evolucao.md",

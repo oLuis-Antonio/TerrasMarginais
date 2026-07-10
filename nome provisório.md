@@ -1,5 +1,5 @@
 # NOME PROVISÓRIO
-Um jogo de aventura de fantasia
+Um jogo de aventura fantástica
 
 *Beta 1.0.0*
 
@@ -48,8 +48,6 @@ P.S. Esta versão ainda está em desenvolvimento e algumas regras podem mudar co
 >Proeza lendária
 >A Serpente ao chão
 >assim ficou
-
-
 
 ---
 # 01 - Criação de Personagens
