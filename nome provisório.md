@@ -50,4 +50,31 @@ P.S. Esta versão ainda está em desenvolvimento e algumas regras podem mudar co
 >assim ficou
 
 ---
-# 01 - Criação de Personagens
+# Criação de Personagens
+
+Para criar um PJ em NOME PROVISÓRIO, basta seguir o seguinte passo a passo:
+1. Gerar valores de Salvaguardas;
+2. Escolher um Passado;
+3. Anotar equipamentos e tesouro inicial;
+4. Definir um Nome e um Lar para seu Personagem.
+
+## PASSO 1: Salvaguardas
+
+Cada Personagem Jogador (PJ) possui três salvaguardas:
+- Força (FOR), ou sua capacidade para resistir fisicamente;
+- Destreza (DES), ou sua acuidade para escapar de algo;
+- Vontade (VON), ou sua resiliência mental.
+
+Para cada Salvaguarda, role 1d6 para determinar seu valor inicial, conforme a tabela abaixo. O valor máximo que um PJ pode ter em uma Salvaguarda é 8 e, quanto menor o valor, melhor.
+
+| 1d6 | Valor de Salvaguarda |
+| --- | -------------------- |
+| 1   | 16                   |
+| 2-3 | 15                   |
+| 4-5 | 14                   |
+| 6   | 13                   |
+## PASSO 2: Passado
+
+## PASSO 3: Equipamentos e Tesouro Inicial
+
+A escolha de um Passado, para além de uma motivação inicial, serve para agilizar o processo de criação
