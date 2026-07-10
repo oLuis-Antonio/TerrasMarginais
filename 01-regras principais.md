@@ -188,7 +188,21 @@ Para conjurar feitiços é necessário que as forças do caos estejam canalizada
 Um Grimório é um tomo capaz de guardar mais de um Feitiço por vez. O Grimório de um PJ consegue conter uma quantidade de Feitiços igual a **duas vezes seu nível de Personagem**. Já pergaminhos são restos de antigos Grimórios que ainda podem ser lidos e entoados, porém sua natureza volátil faz com que se incinerem no instante em que o Feitiço é conjurado.
 ## Conjuração
 
-Um Personagem com um receptáculo mágico em mãos pode receber um Cansaço para rasgar o véu da realidade, conjurando o Feitiço no processo. O Feitiço requer a capacidade de gesticular e falar do conjurador no momento da Conjuração, e o efeito de um Feitiço dependerá do **Nível de Concentração** declarado pelo Jogador. Por sua natureza volátil e caótica, é necessário que o conjurador realize uma Salvaguarda de VON ao final de uma conjuração sem interrupções para evitar uma **Volatilidade Arcana**, efeitos adversos que surgem quando as forças do caos escapam parcialmente do controle do conjurador.
+Um Personagem com um receptáculo mágico em mãos pode receber um Cansaço para rasgar o véu da realidade, conjurando o Feitiço no processo. O Feitiço requer a capacidade de gesticular e falar do conjurador no momento da Conjuração, e o efeito de um Feitiço dependerá do **Nível de Concentração** declarado pelo Jogador. Por sua natureza volátil e caótica, é necessário que o conjurador realize uma Salvaguarda de VON ao final de uma conjuração sem interrupções para evitar uma **Volatilidade Arcana**, efeitos adversos que surgem quando as forças do caos escapam parcialmente do controle do conjurador
+
+**TABELA DE VOLATILIDADE ARCANA**
+
+| 1d10 | Efeito | 1d10 | Efeito |
+| ---- | ------ | ---- | ------ |
+| 1    |        | 6    |        |
+| 2    |        | 7    |        |
+| 3    |        | 8    |        |
+| 4    |        | 9    |        |
+| 5    |        | 10   |        |
+
+
+
+****
 # MAGIA (rascunho)
 
 Para conjurar magias você precisa de um grimório ou um pergaminho contendo uma magia nas mãos e capacidade de falar em alto e bom som.
