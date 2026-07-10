@@ -192,13 +192,13 @@ Um Personagem com um receptáculo mágico em mãos pode receber um Cansaço para
 
 **TABELA DE VOLATILIDADE ARCANA**
 
-| 1d10 | Efeito | 1d10 | Efeito |
-| ---- | ------ | ---- | ------ |
-| 1    |        | 6    |        |
-| 2    |        | 7    |        |
-| 3    |        | 8    |        |
-| 4    |        | 9    |        |
-| 5    |        | 10   |        |
+| 1d10 | Efeito                                                                                                                                                                                         | 1d10 | Efeito                                                                                                                   |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------ |
+| 1    | Fratura do Caos: durante alguns instantes, o véu permanece aberto. Até o início do próximo turno, qualquer outro Feitiço conjurado ocorre um Nível de Concentração acima ou abaixo (role 1d2). | 6    | Mudança Climática: o clima do ambiente ao redor do conjurador fica absurdamente quente ou absurdamente frio (role 1d2) p |
+| 2    |                                                                                                                                                                                                | 7    | Retração Arcana: o Feitiço é conjurado um Nível de Concentração abaixo.                                                  |
+| 3    | Descontrole: a realidade responde de maneira imprevisível; o MJ introduz uma complicação.                                                                                                      | 8    | Expansão Arcana: o Feitiço é conjurado um Nível de Concentração acima.                                                   |
+| 4    |                                                                                                                                                                                                | 9    | Salto Dimensional: o conjurador é teleportado para uma Zona de Combate (ou correlato) adjacente.                         |
+| 5    |                                                                                                                                                                                                | 10   | Exaustão: o conjurador recebe um Cansaço a mais por lançar o Feitiço.                                                    |
 
 
 
