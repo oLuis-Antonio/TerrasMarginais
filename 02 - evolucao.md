@@ -7,7 +7,7 @@ Personagens são indivíduos que passam por todo o tipo de situações: das mais
 - Interação: a sua experiência adquirida por sua relação com o outro;
 - Sobrevivência: a sua experiência adquirida por sair vivo de perigos;
 
-Essas Vivências evoluem à medida que um personagem acumula Marcas e Evolui.
+As Vivências refletem a experiência adquirida pelo Personagem ao longo de sua jornada, desenvolvendo-se conforme ele acumula Marcas e evolui.
 ## Marcas
 
 Ao final de cada sessão, é papel da mesa refletir sobre os acontecimentos do jogo e se aquilo teve um impacto nos personagens. Esse impacto, essencial para a sua evolução, é estabelecido por  **Marcas**.  Marcas são conjuntos de eventos suficientemente relevantes para a trajetória de um personagem atreladas a um tipo de Vivência. 
@@ -39,12 +39,14 @@ Ainda que mais de uma pergunta de um mesmo tipo de Vivência tenha sido respondi
 
 ## Evoluindo
 
-O jogo possuí 5 "níveis" ao todo, representados pela quantidade de DVs do Personagem. Sua progressão depende do número de Marcas que ficam com aquele PJ. Ao adquirir uma quantidade de novas Marcas igual o nível de personagem almejado, ele evolui.
+O jogo possui cinco níveis de Personagem, representados pela quantidade de Dados de Vida (DVs) do Personagem, sua progressão depende das Marcas registradas em sua ficha. Ao adquirir uma quantidade de novas Marcas igual o nível de personagem almejado, ele evolui.
 
 Exemplo: para subir do nível 1 para o 2, uma personagem precisa conquistar 2 marcas de jogo. Para evoluir para o nível 3 são necessários 3 novas marcas e assim por diante.
 
-PJs adquirem a cada nível um Dado de Vida, reduzem uma salvaguarda em 1 (respeitando o valor máximo de 8) e adquire 1 ponto na Vivência predominante, aquela com o maior número de Marcas registradas pelo personagem. Em caso de empate, o jogador pode escolher qual Vivência priorizar.
-
+Sempre que evolui um Personagem:
+- Recebe um Dado de Vida adicional;
+- Reduz o valor de uma Salvaguarda em 1 (até o mínimo de 8);
+- Adquire um ponto na Vivência Predominante, aquela com o maior número de Marcas registradas pelo personagem. Em caso de empate, o jogador pode escolher qual Vivência priorizar.
 ## Vivências
 
 Cada tipo de Vivência confere uma habilidade única que melhora conforme aquela Vivência ganha pontos. O valor X na descrição de cada habilidade é referente a essa quantidade de pontos.

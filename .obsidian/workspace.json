@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-regras principais.md",
+                "file": "nome provisório.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-regras principais"
+              "title": "nome provisório"
             }
           },
           {
@@ -221,9 +221,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02 - evolucao.md",
-    "01-regras principais.md",
     "03 - aventurando-se.md",
+    "nome provisório.md",
+    "01-regras principais.md",
+    "02 - evolucao.md",
     "ideias do cenário.md",
     "aventurando-se antigo.md",
     "ESCUDO.md",
