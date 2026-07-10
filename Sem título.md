@@ -452,7 +452,17 @@ A espada ordinária se fincou
 
 Espada ordinária
 Proeza lendária
-A Serpente ao chão assim ficou
+A Serpente ao chão
+assim, ficou
 
-Serpe veio ao chão
-para a terra voltou
+pra terra voltou (coral)
+
+no topo ficou
+a espada ordinária
+que o monstro levou
+
+pra terra voltou (coral)
+
+o monstro banido
+no topo do mundo
+a espada ficou
