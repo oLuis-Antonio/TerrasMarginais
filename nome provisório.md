@@ -96,18 +96,50 @@ Personagens possuem um Lar, podendo ser compartilhado em comum ou disperso pelos
 
 Essas perguntas são mera referência para uma construção emergente de jogo, podendo ser substituídas ou modificadas. O importante é que os personagens tenham um lugar para onde possam voltar.
 
-Seu Personagem está pronto! As próximas seções trarão o conjunto principal de regras para que possamos mergulhar nos mares de morros da Terra do Sol.
-
+O básico de seu Personagem está pronto. Pode notar que alguns campos de sua ficha (como Movimento e Armadura) não foram preenchidos ainda. As próximas seções irão abordar essas e outras regras fundamentais para jogar NOME PROVISÓRIO.
 # Regras Básicas
 ## Testes de Salvaguarda
 
 Quando o sucesso de uma ação é incerta, ou quando um PJ precisa ser capaz de resistir a um efeito, ou reagir rápido o bastante para evitar um mal, o jogador deve rolar um d20. Se o resultado for igual ou maior ao valor da respectiva Salvaguarda, ele é bem-sucedido. Esse tipo de rolagem é chamada de Teste de Salvaguarda.
 
-1d20 ≥ SALVAGUARDA = SUCESSO
+**1d20 ≥ SALVAGUARDA = SUCESSO**
 ### Vantagem e Desvantagem
 
 Algumas situações podem dar a um Personagem Vantagens e/ou Desvantagens em suas Salvaguardas. Estes se cancelam mutuamente. Por exemplo, se uma PJ tem 2 Vantagens e uma Desvantagem, a Desvantagem se anula com uma das Vantagens, resultando em uma rolagem final sendo afetada por apenas uma Vantagem e nenhuma Desvantagem.
 
-Em qualquer Teste de Salvaguarda, para cada Vantagem ou Desvantagem o jogador rola um d6 (que se soma  ao d20 normal). Se o dado rolado é uma Vantagem, o maior valor tirado é adicionado ao resultado. Se o dado rolado é uma Desvantagem, o maior valor tirado é subtraído do resultado.
+Em qualquer Teste de Salvaguarda, para cada Vantagem ou Desvantagem o jogador rola um d6 adicional. Se o dado rolado é uma Vantagem, o maior valor tirado é somado ao resultado. Se o dado rolado é uma Desvantagem, o maior valor tirado é subtraído do resultado.
 
-Um NPC não rola sob efeito de nenhuma Vantagem ou Desvantagem. Se algo o afeta positiva ou negativamente, isso deve refletir nos testes dos PJs apenas.
+Um NPC não pode receber qualquer Vantagem ou Desvantagem. Se algo o afeta positiva ou negativamente, isso deve refletir nos Testes dos PJs apenas.
+## Inventário e Cansaços
+
+Uma PJ possuí 12 Espaços de Inventário (EI), 10 em sua mochila e 1 para cada mão. Esses espaços são abstrações da capacidade de carga de cada PJ. A maioria dos itens ocupa apenas um Espaço de Inventário, mas em alguns casos, como armas e armaduras, podem ocupam dois ou mais.
+
+Algumas ações e situações fazem com que um Personagem receba um **Cansaço**. Cada unidade de Cansaço ocupa um Espaço de Inventário. Se um PJ involuntariamente receber um Cansaço sem ter Espaços livres, ele terá de largar algum item para liberar o Espaço. Uma Personagem pode se recuperar de um Cansaço após comer uma marmita durante um Descanso Rápido.
+### Sobrecarga
+
+Quando uma Personagem estiver com todos seus Espaços de Inventário ocupados por níveis de Cansaço, ela estará **Sobrecarregada**. Ela fica com uma Taxa de Movimento 1 e recebe uma Desvantagem em Salvaguardas de DES. Caso receba um novo Cansaço por alguma razão, sem que haja Espaços livres para tal, ela automaticamente cai de exaustão e precisa de uma Noite de Sono para se recuperar.
+
+Os Espaços de Inventário das mãos não contam para a Sobrecarga, porém ultrapassar seu limite de Cansaços também causa a completa exaustão.
+### Mochila
+
+Uma PJ pode tirar sua mochila das costas para aliviar o peso. A personagem aumenta sua Taxa de Movimento em 1 e imediatamente elimina Sobrecarga relativa a mochila. Por outro lado, ao soltar sua mochila, a PJ não pode utilizar nenhum dos itens presentes nela ou seus Espaços de Inventário, e os únicos espaços utilizáveis são os de suas mãos.
+### Forçar um Personagem
+
+Antes de rolar um teste, se seu personagem tiver ao menos um espaço vazio no inventário, o jogador pode decidir forçar seu personagem para receber uma Vantagem na rolagem. Se assim o fizer, o PJ recebe um Cansaço. O jogador pode forçar seu personagem múltiplas vezes em um único rolamento, desde que tenha espaços suficientes no inventário para receber os cansaços.
+## Tempo e Movimento
+
+Em NOME PROVISÓRIO são utilizadas um conjunto de medidas abstratas para melhor gerências os múltiplos estados de jogo. São elas:
+- **Marchas**: representam 1/4 de um dia e são dividas em Manhã, Tarde, Noite e Madrugada;
+- **Turnos**: tempo de exploração em locais fechados ou subterrâneos, equivalem a 10 minutos no jogo;
+- **Rodadas**: compreendem o tempo de ação dos dois lados de um combate. Cada Rodada equivale a 10 segundos no jogo.
+### Taxa de Movimento
+
+é a quantidade abstrata da capacidade de movimentação de uma PJ, sendo o mínimo 1. Essa taxa varia de acordo com a utilização ou não de armadura e mochila pela personagem.
+
+| Armadura | Sem mochila | Com mochila |
+| -------- | ----------- | ----------- |
+| Nenhuma  | 4           | 3           |
+| Leve     | 3           | 2           |
+| Pesada   | 2           | 1           |
+
+# Combate
