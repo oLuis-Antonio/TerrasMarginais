@@ -11,6 +11,7 @@ Inspirado por jogos, trabalhos e discussões de:
 - Chris McDowall
 - Arnold Kemp
 - James Young
+- Marcia B.
 - W.F. Smith
 - Brendan S.
 - Rafael Balbi e DM Quiral
@@ -390,7 +391,7 @@ A tropa pode parar para realizar um Descanso Curto em um Turno de Incursão. Por
 - 3 Turnos: o primeiro evento de Encontro enquanto a tropa permanecer no abrigo é adiado em um Turno;
 
 Um abrigo provisório nunca torna uma Incursão segura. Enquanto a tropa permanecer nele, os Testes de Incursão continuam sendo realizados normalmente.
-# COMBATE
+# Combate
 
 A violência é, na maioria dos casos, a última resposta para um conflito. Um combate vencedor não é meramente questão de força bruta (por mais que, como veremos, isso impacte tremendamente em seu resultado), mas sim de posicionamento e cálculo de risco. Aventureiros certamente pensarão duas vezes antes de se meterem em um conflito armado, mas é igualmente verdade que, nestes momentos tão críticos, surjam as histórias mais inusitadas e memoráveis.
 
