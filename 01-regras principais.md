@@ -109,16 +109,16 @@ Ataques corpo a corpo exigem, por padrão, que o atacante e o alvo estejam na me
 
 | Impacto | Resultado                                                                                                                                                                                            |
 | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0       | Ataque absorvido: arma causa 0dn.                                                                                                                                                                    |
-| 1       | Reviravolta: o defensor ganha uma Vantagem para se defender ou reduzir Impacto no próximo ataque que sofrer; ou o atacante sofre uma Desvantagem na mesma situação. Esse efeito vale por uma Rodada  |
+| 0       | Ataque absorvido: a arma causa metade do Dano. Mínimo 1dn.                                                                                                                                           |
+| 1       | Reviravolta: o defensor ganha uma Vantagem para reduzir o Impacto do próximo ataque que sofrer, ou o atacante sofre uma Desvantagem na mesma situação. Esse efeito vale por uma Rodada               |
 | 2-4     | Golpe ordinário: um acerto sem impacto especial                                                                                                                                                      |
 | 5       | Empurrão: o defensor é deslocado de Zona com o ataque                                                                                                                                                |
-| 6       | Botar Pressão: o atacante ganha uma Vantagem para aumentar Impacto no próximo ataque contra aquele defensor; ou o defensor sofre uma Desvantagem na mesma situação.  Esse efeito vale por uma Rodada |
+| 6       | Botar Pressão: o atacante ganha uma Vantagem para aumentar Impacto no próximo ataque contra aquele defensor, ou o defensor sofre uma Desvantagem na mesma situação.  Esse efeito vale por uma Rodada |
 | 7+      | Atropelo: o defensor recebe um Cansaço e o atacante escolhe um efeito adicional da tabela.                                                                                                           |
-**Vantagem e Desvantagem**: assim como na regra de salvaguardas, vantagens e desvantagens podem ser aplicadas às rolagens de Impacto feitas por jogadores. Um Dado de Impacto extra é rolado para armas, no caso de um ataque, ou para armaduras, no caso de uma defesa. 
+**Vantagem e Desvantagem**: assim como na regra de salvaguardas, vantagens e desvantagens podem ser aplicadas às rolagens de Impacto feitas por jogadores. Um Dado de Impacto extra é rolado e o maior ou menor resultado é escolhido a depender do efeito.
 ### Dano Crítico
 
-Caso o valor máximo do Dado de Impacto seja rolado, o dano fixo daquela arma é dobrado
+Caso o atacante tire o valor máximo do seu Dado de Impacto, role o dado novamente. Em um segundo resultado máximo, a arma causará o dobro de Dano.
 ## Defendendo
 
 Quando personagens atacam NPCs os Dados de Impacto são rolados automaticamente, porém o contrário não acontece. Os personagens ao serem atacados tem a escolha de Resistir ou Esquivar. Personagens podem se defender apenas uma vez por rodada.
@@ -141,8 +141,8 @@ Quando um atacante rola o Impacto de seu ataque, o defensor alvo subtrai o valor
 
 | Armadura | Redução de Impacto |
 | -------- | ------------------ |
-| Leve     | 1                  |
-| Pesada   | 2                  |
+| Leve     | 2                  |
+| Pesada   | 4                  |
 #### Escudos
 Escudos permitem que personagens Resistam a ataques à distância ou Resistam a um ataque corpo a corpo adicional por rodada.
 
