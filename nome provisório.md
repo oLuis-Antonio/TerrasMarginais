@@ -42,6 +42,8 @@ P.S. Esta versão ainda está em desenvolvimento e algumas regras podem mudar co
 > Na porta dos céus
 > A espada ordinária se fincou
 >
+>A espada se fincou
+>
 >Espada ordinária
 >Proeza lendária
 >A Serpente ao chão

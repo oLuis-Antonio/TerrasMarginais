@@ -450,6 +450,8 @@ No topo do Mundo
 Na porta dos céus
 A espada ordinária se fincou
 
+A espada se fincou
+
 Espada ordinária
 Proeza lendária
 A Serpente ao chão
