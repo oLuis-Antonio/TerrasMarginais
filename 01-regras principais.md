@@ -192,15 +192,28 @@ Um Personagem com um receptáculo mágico em mãos pode receber um Cansaço para
 
 **TABELA DE VOLATILIDADE ARCANA**
 
-| 1d10 | Efeito                                                                                                            | 1d10 | Efeito                                                                                                                                                                               |
-| ---- | ----------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1    | Fora de Controle:                                                                                                 | 6    | Mudança Climática: o ambiente ao redor do conjurador fica absurdamente quente ou absurdamente frio por uma Rodada (role 1d2). Testes para aumentar Impacto sofrerão uma Desvantagem. |
-| 2    | Transposição: o conjurador e o alvo são teleportados, trocando de lugar.                                          | 7    | Retração Arcana: o Feitiço é conjurado um Nível de Concentração abaixo.                                                                                                              |
-| 3    | Desvio: o Feitiço acerta um outro alvo ou Zona adjacentes aleatoriamente.                                         | 8    | Expansão Arcana: o Feitiço é conjurado um Nível de Concentração acima.                                                                                                               |
-| 4    | Espetáculo: o Feitiço é conjurado normalmente, mas o conjurador é rodeado de raios de energia e faíscas coloridas | 9    | Salto Dimensional: o conjurador é teleportado para uma Zona de Combate (ou correlato) adjacente.                                                                                     |
-| 5    | Disrupção: o Feitiço causa uma mudança permanente no ambiente (um incêndio, uma grande rachadura, etc.)           | 10   | Exaustão: o conjurador recebe um Cansaço a mais por lançar o Feitiço e terá Desvantagem na próxima Salvaguarda de VON                                                                |
+| 1d10   | Efeito                                                                                                                                                                                   |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1**  | **Fora de Controle:** o véu da realidade se rompe violentamente. O MJ introduz uma complicação grave e imediata relacionada ao Feitiço conjurado.                                        |
+| **2**  | **Disrupção:** o Feitiço causa uma mudança permanente no ambiente (um incêndio, uma grande rachadura, etc.).                                                                             |
+| **3**  | **Expansão Arcana:** o Feitiço é conjurado um Nível de Concentração acima.                                                                                                               |
+| **4**  | **Salto Dimensional:** o conjurador é teleportado para uma Zona de Combate (ou correlato) adjacente.                                                                                     |
+| **5**  | **Exaustão:** o conjurador recebe um Cansaço a mais por lançar o Feitiço e terá Desvantagem na próxima Salvaguarda de VON.                                                               |
+| **6**  | **Transposição:** o conjurador e o alvo são teleportados, trocando de lugar.                                                                                                             |
+| **7**  | **Espetáculo:** o Feitiço é conjurado normalmente, mas um espetáculo de energia denuncia a presença do conjurador e ilumina os arredores.                                                |
+| **8**  | **Retração Arcana:** o Feitiço é conjurado um Nível de Concentração abaixo.                                                                                                              |
+| **9**  | **Mudança Climática:** o ambiente ao redor do conjurador fica absurdamente quente ou absurdamente frio por uma Rodada (role 1d2). Testes para aumentar Impacto sofrerão uma Desvantagem. |
+| **10** | **Desvio:** o Feitiço acerta um outro alvo ou Zona adjacente aleatoriamente.                                                                                                             |
+#### Conjuração e Armaduras
 
+Manipular a realidade exige uma maior liberdade do corpo e, consequentemente, uma maior exposição. É possível conjurar Feitiços estando totalmente equipado com uma armadura, porém não sem dificuldades.
 
+Conjurar Feitiços enquanto se veste uma Armadura Leve causam uma Desvantagem na Salvaguarda de VON contra a Volatilidade Arcana. Estar vestindo uma Armadura Pesada causa duas Desvantagens no respectivo teste.
+## Truques e Níveis de Concentração
+
+A exposição de um Personagem ao arcano permite com que ele possa manipular a intensidade de um Feitiço e até modificar uma pequena fração da realidade sem a necessidade de um receptáculo.
+
+Truques são pequenas amostras de um Feitiço, eles não causam Cansaço para serem conjurados, nem é necessário realizar uma Salvaguarda contra a Volatilidade Arcana. Já os Níveis de Concentração são uma forma de expandir as capacidades de um Feitiço ao custo de tempo e foco ininterrupto para conjurá-lo. Para 
 
 ****
 # MAGIA (rascunho)
