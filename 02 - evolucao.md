@@ -7,7 +7,7 @@ Personagens são indivíduos que passam por todo o tipo de situações: das mais
 - Interação: a sua experiência adquirida por sua relação com o outro;
 - Sobrevivência: a sua experiência adquirida por sair vivo de perigos;
 
-Essas Vivências evoluem à medida que um personagem acumula Marcas e sobe de nível.
+Essas Vivências evoluem à medida que um personagem acumula Marcas e Evolui.
 ## Marcas
 
 Ao final de cada sessão, é papel da mesa refletir sobre os acontecimentos do jogo e se aquilo teve um impacto nos personagens. Esse impacto, essencial para a sua evolução, é estabelecido por  **Marcas**.  Marcas são conjuntos de eventos suficientemente relevantes para a trajetória de um personagem atreladas a um tipo de Vivência. 
@@ -37,9 +37,9 @@ A lista a seguir traz uma série de perguntas a serem feitas para ajudar a deter
 
 Ainda que mais de uma pergunta de um mesmo tipo de Vivência tenha sido respondida com sim, apenas 1 marca por tipo é adquirida por sessão. Após a avaliação em conjunto, os jogadores devem escolher uma única marca para preencher na sua ficha. Personagens vivem todo tipo de situações, porém apenas uma pequena fração delas é carregada pelo resto de sua vida.
 
-## Subindo de nível
+## Evoluindo
 
-O jogo possuí 5 níveis ao todo e sua progressão depende do número de marcas que ficam com um personagem. Ao adquirir uma quantidade de novas marcas igual o nível de personagem almejado, ele evolui.
+O jogo possuí 5 "níveis" ao todo, representados pela quantidade de DVs do Personagem. Sua progressão depende do número de Marcas que ficam com aquele PJ. Ao adquirir uma quantidade de novas Marcas igual o nível de personagem almejado, ele evolui.
 
 Exemplo: para subir do nível 1 para o 2, uma personagem precisa conquistar 2 marcas de jogo. Para evoluir para o nível 3 são necessários 3 novas marcas e assim por diante.
 

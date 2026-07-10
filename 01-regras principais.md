@@ -34,11 +34,11 @@ Um NPC não rola sob efeito de nenhuma Vantagem ou Desvantagem. Se algo o afeta 
 
 Um PJ possuí 12 Espaços de Inventário (EI), 10 em sua mochila e 1 para cada mão. Esses espaços são abstrações da capacidade de carga de cada PJ, onde a maioria dos itens ocupa apenas um espaço, mas alguns itens, como armas e armaduras, ocupam múltiplos espaços.
 
-Algumas ações e situações fazem com que um Personagem receba um Cansaço. Cada unidade de Cansaço ocupa um espaço no inventário. Se um PJ involuntariamente receber um Cansaço sem ter espaços livres, ele terá de largar algum item para liberar o espaço. Uma personagem se recupera de 1 nível de Cansaço após comer uma marmita durante um Descanso Rápido.
+Algumas ações e situações fazem com que um Personagem receba um Cansaço. Cada unidade de Cansaço ocupa um espaço no inventário. Se um PJ involuntariamente receber um Cansaço sem ter espaços livres, ele terá de largar algum item para liberar o espaço. Uma personagem se recupera de um Cansaço após comer uma marmita durante um Descanso Rápido.
 
 ## Sobrecarga
 
-quando uma personagem estiver com todos seus Espaços de Inventário ocupados por níveis de Cansaço, ela estará sobrecarregada. Ela fica com uma Taxa de Movimento igual a 1 e recebe uma Desvantagem em salvaguardas de DES. Caso receba mais algum nível de Cansaço por alguma razão, sem que haja espaços livres para tal, ela automaticamente cai de exaustão e precisa de uma Noite de Sono para se recuperar.
+quando uma personagem estiver com todos seus Espaços de Inventário ocupados por níveis de Cansaço, ela estará sobrecarregada. Ela fica com uma Taxa de Movimento igual a 1 e recebe uma Desvantagem em salvaguardas de DES. Caso receba um novo Cansaço por alguma razão, sem que haja espaços livres para tal, ela automaticamente cai de exaustão e precisa de uma Noite de Sono para se recuperar.
 
 Os Espaços de Inventário das mãos não contam para a sobrecarga, porém ultrapassar seu limite de cansaços também causa a completa exaustão.
 
@@ -185,10 +185,10 @@ A Feitiçaria, ou seja, a arte de manipular a realidade seguindo a dança das fo
 
 Para conjurar feitiços é necessário que as forças do caos estejam canalizadas em receptáculos, para que então sejam liberadas através de um conjunto de encantos e gestos. Os receptáculos mais comuns nos dias de hoje (e talvez os poucos registros escritos de feitiçaria sobreviventes) são os encontrados em grimórios e pergaminhos, registros dos últimos magos que, vez ou outra, caem nas mãos de Tropeiros, peregrinos e trovadores.
 
-Um Grimório é um tomo capaz de guardar mais de um Feitiço por vez. O Grimório de um PJ consegue conter uma quantidade de Feitiços igual a **duas vezes seu nível de Personagem**. Já pergaminhos são restos de antigos Grimórios que ainda podem ser lidos e entoados, porém sua natureza volátil faz com que se incinerem no instante em que o Feitiço é conjurado.
+Um Grimório é um tomo capaz de guardar mais de um Feitiço por vez. O Grimório de um PJ consegue conter uma quantidade de Feitiços igual a **duas vezes a quantidade de DVs de seu Personagem**. Já pergaminhos são restos de antigos Grimórios que ainda podem ser lidos e entoados, porém sua natureza volátil faz com que se incinerem no instante em que o Feitiço é conjurado.
 ## Conjuração
 
-Um Personagem com um receptáculo mágico em mãos pode receber um Cansaço para rasgar o véu da realidade, conjurando o Feitiço no processo. O Feitiço requer a capacidade de gesticular e falar do conjurador no momento da Conjuração, e o efeito de um Feitiço dependerá do **Nível de Concentração** declarado pelo Jogador. Por sua natureza volátil e caótica, é necessário que o conjurador realize uma Salvaguarda de VON ao final de uma conjuração sem interrupções para evitar uma **Volatilidade Arcana**, efeitos adversos que surgem quando as forças do caos escapam parcialmente do controle do conjurador
+Um Personagem com um receptáculo mágico em mãos pode receber um Cansaço para rasgar o véu da realidade, conjurando o Feitiço no processo. O Feitiço requer a capacidade de gesticular e falar do conjurador no momento da Conjuração, e o efeito de um Feitiço dependerá do **Nível de Concentração** declarado pelo Jogador. Por sua natureza volátil e caótica, é necessário que o conjurador realize uma Salvaguarda de VON ao final de uma conjuração sem interrupções para evitar uma **Volatilidade Arcana**, efeitos adversos que surgem quando as forças do caos escapam parcialmente do controle do conjurador.
 
 **TABELA DE VOLATILIDADE ARCANA**
 
@@ -208,13 +208,21 @@ Um Personagem com um receptáculo mágico em mãos pode receber um Cansaço para
 
 Manipular a realidade exige uma maior liberdade do corpo e, consequentemente, uma maior exposição. É possível conjurar Feitiços estando totalmente equipado com uma armadura, porém não sem dificuldades.
 
-Conjurar Feitiços enquanto se veste uma Armadura Leve causam uma Desvantagem na Salvaguarda de VON contra a Volatilidade Arcana. Estar vestindo uma Armadura Pesada causa duas Desvantagens no respectivo teste.
+Conjurar Feitiços enquanto se veste uma Armadura Leve causa uma Desvantagem na Salvaguarda de VON contra a Volatilidade Arcana. Estar vestindo uma Armadura Pesada causa duas Desvantagens no respectivo teste.
 ## Truques e Níveis de Concentração
 
-A exposição de um Personagem ao arcano permite com que ele possa manipular a intensidade de um Feitiço e até modificar uma pequena fração da realidade sem a necessidade de um receptáculo.
+A exposição de um Personagem ao arcano permite com que ele possa manipular a intensidade de um Feitiço e até modificar uma pequena fração da realidade sem a necessidade de estar segurando o receptáculo.
 
-Truques são pequenas amostras de um Feitiço, eles não causam Cansaço para serem conjurados, nem é necessário realizar uma Salvaguarda contra a Volatilidade Arcana. Já os Níveis de Concentração são uma forma de expandir as capacidades de um Feitiço ao custo de tempo e foco ininterrupto para conjurá-lo. Para 
+Truques são pequenas amostras de um Feitiço, eles não causam Cansaço para serem conjurados, nem é necessário realizar uma Salvaguarda contra a Volatilidade Arcana. Já os Níveis de Concentração são uma forma de expandir as capacidades de um Feitiço ao custo de tempo e foco ininterrupto para conjurá-lo. Para cada Nível de Concentração o tempo necessário se dá da seguinte forma:
 
+- **Conjuração Rápida (R)**: o Feitiço é conjurado naquela Rodada;
+- **Conjuração Expandida (E)**: o Feitiço é conjurado na Rodada seguinte;
+- **Conjuração Suprema (S)**: o Feitiço é conjurado após 3 Rodadas;
+
+**Interrupção**: É importante que nesse meio tempo de conjuração o personagem não sofra uma distração, isso é: sofra algum ataque, se desloque, ou que a conjuração de seu Feitiço seja atrapalhada de alguma outra forma.  Caso isso aconteça, uma Volatilidade Arcana é automaticamente desencadeada, ignorando a Salvaguarda de VON.
+## Modificador de Feitiço
+
+Alguns Feitiços possuem X em sua descrição. Esse X representa um modificador para aquele Feitiço e seu valor corresponde a quantidade de DVs do Personagem.
 ****
 # MAGIA (rascunho)
 
