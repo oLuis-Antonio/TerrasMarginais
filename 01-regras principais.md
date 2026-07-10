@@ -180,11 +180,15 @@ Um personagem que deixa de realizar uma Noite de Sono fica automaticamente sobre
 
 Ninguém mais se lembra o que a Coroa buscava quando desembarcou na Terra do Sol, porém uma coisa é certa: esse algo tem a ver com as forças do caos.
 
-A Feitiçaria, ou seja, a arte de manipular a realidade tecendo pelas forças do caos, é uma prática considerada tabu pelas forças da Ordem. A Coroa por muito tempo perseguiu aqueles que, longe de caírem em sua seita por controle, abraçavam a imprevisibilidade e o movimento entrópico da vida. Nos dias de hoje, porém, algumas poucas pessoas se arriscam a estudar os textos antigos, retomando uma prática há muito apagada, porém poderosa (e perigosa).
+A Feitiçaria, ou seja, a arte de manipular a realidade seguindo a dança das forças do caos, é uma prática considerada tabu pelas forças da Ordem. A Coroa por muito tempo perseguiu aqueles que, longe de caírem em sua seita por controle, abraçavam a imprevisibilidade e o belo movimento entrópico da vida. Nos dias de hoje, porém, algumas poucas pessoas se arriscam a estudar os registros sobreviventes, retomando uma prática há muito apagada, porém ainda viva.
+## Receptáculos
 
-Para conjurar feitiços é necessário que as forças do caos estejam canalizadas em receptáculos, para que então sejam liberadas através de um conjunto de encantos e gestos. Os receptáculos mais comuns nos dias de hoje (e talvez os poucos registros escritos de feitiçaria) são os encontrados em grimórios e pergaminhos, registros dos últimos magos que vez ou outra caem nas mãos de Tropeiros, peregrinos e trovadores.
+Para conjurar feitiços é necessário que as forças do caos estejam canalizadas em receptáculos, para que então sejam liberadas através de um conjunto de encantos e gestos. Os receptáculos mais comuns nos dias de hoje (e talvez os poucos registros escritos de feitiçaria sobreviventes) são os encontrados em grimórios e pergaminhos, registros dos últimos magos que, vez ou outra, caem nas mãos de Tropeiros, peregrinos e trovadores.
 
-Um Grimório é um tomo capaz de guardar mais de um Feitiço por vez. O Grimório de um PJ consegue canalizar uma quantidade de Feitiços igual a duas vezes seu nível de Personagem. Já pergaminhos são restos de antigos Grimórios que ainda podem ser lidos e entoados, porém sua natureza volátil faz com que se incinerem no instante em que o Feitiço é conjurado.
+Um Grimório é um tomo capaz de guardar mais de um Feitiço por vez. O Grimório de um PJ consegue conter uma quantidade de Feitiços igual a **duas vezes seu nível de Personagem**. Já pergaminhos são restos de antigos Grimórios que ainda podem ser lidos e entoados, porém sua natureza volátil faz com que se incinerem no instante em que o Feitiço é conjurado.
+## Conjuração
+
+Um Personagem com um receptáculo mágico em mãos pode receber um Cansaço para rasgar o véu da realidade, conjurando o Feitiço no processo. O Feitiço requer a capacidade de gesticular e falar do conjurador no momento da Conjuração, e o efeito de um Feitiço dependerá do **Nível de Concentração** declarado pelo Jogador. Por sua natureza volátil e caótica, é necessário que o conjurador realize uma Salvaguarda de VON ao final de uma conjuração sem interrupções para evitar uma **Volatilidade Arcana**, efeitos adversos que surgem quando as forças do caos escapam parcialmente do controle do conjurador.
 # MAGIA (rascunho)
 
 Para conjurar magias você precisa de um grimório ou um pergaminho contendo uma magia nas mãos e capacidade de falar em alto e bom som.
