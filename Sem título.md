@@ -446,23 +446,27 @@ Exemplo:
 O mundo não é só vasto como extremamente antigo. Cavernas nas profundezas que escondem terríveis segredos, templos abandonados pelas algúrias do tempo e masmorras habitadas por... dragões? Esses são alguns exemplos
 
 
-No topo do mundo
+No topo do Mundo
 Na porta dos céus
 A espada ordinária se fincou
 
 Espada ordinária
 Proeza lendária
 A Serpente ao chão
-assim, ficou
+assim ficou
 
-pra terra voltou (coral)
+Pra terra voltou (coral)
 
-no topo ficou
-a espada ordinária
+No topo ficou
+A espada ordinária
 que o monstro levou
 
-pra terra voltou (coral)
+Ao mundo caiu (coral)
 
-o monstro banido
-no topo do mundo
+O monstro banido
+No topo do mundo
 a espada ficou
+
+Pra terra voltou (coral)
+
+repete....

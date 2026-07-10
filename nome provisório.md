@@ -36,18 +36,18 @@ P.S. Esta versão ainda está em desenvolvimento e algumas regras podem mudar co
 
 ---
 
-## Soneto da Espada 
-O fragmento conhecido
+## Cantiga da Espada (fragmento)
 
-"No topo do mundo, jaz
-uma espada fincada.
-Selando ao chão, há muito,
-uma Serpente lendária. 
+> No topo do Mundo
+> Na porta dos céus
+> A espada ordinária se fincou
+>
+>Espada ordinária
+>Proeza lendária
+>A Serpente ao chão
+>assim ficou
 
-Na cordilheira, repousa
-a espada fincada.
-Não uma espada especial,
-mas uma espada ordinária"
+
 
 ---
 # 01 - Criação de Personagens
