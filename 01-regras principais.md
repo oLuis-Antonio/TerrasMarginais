@@ -84,13 +84,13 @@ Uma ação é qualquer atitude específica que exija algum esforço além das pe
 
 Um combate pode acontecer numa clareira, no centro de uma cidade ou em uma taverna. Para melhor orientar a movimentação e posicionamento durante o combate sem depender de grids ou medidas precisas, as distâncias são abstraídas a partir das  **Zonas de Combate**.
 #### Zonas de Combate
-São áreas delimitadas a partir de círculos concêntricos e uma divisória central que servem como referencial ao combate. A divisória demarca os lados de cada grupo combatente e os círculos demarcam as seguintes zonas:
+São áreas delimitadas a partir de círculos concêntricos e uma divisória central que servem como referencial ao combate. A divisória demarca os lados de cada grupo combatente e os círculos demarcam as seguintes Zonas:
 
 - Retaguarda: uma distância relativamente segura, ponto ideal para tomar cobertura ou atacar à distância;
 - Apoio: região imediatamente atrás da linha de frente;
-- Frente: zona onde ocorre o contato direto entre combatentes;
+- Frente: Zona onde ocorre o contato direto entre combatentes;
 
-Durante uma Rodada, um personagem pode deslocar-se ou ser deslocado entre zonas um número de vezes igual à sua Taxa de Movimento. Caso esse limite seja excedido por um deslocamento forçado, ele cai no chão. O seguinte referencial ajuda a determinar a distância do PJ em relação a determinado ponto ou zona:
+Durante uma Rodada, um personagem pode deslocar-se ou ser deslocado entre Zonas um número de vezes igual à sua Taxa de Movimento. Caso esse limite seja excedido por um deslocamento forçado, ele cai no chão. O seguinte referencial ajuda a determinar a distância do PJ em relação a determinado ponto ou Zona:
 
 - Engajado: nenhum movimento é gasto para interagir;
 - Próximo: a distância de 1 movimento;
@@ -231,7 +231,7 @@ R - Mãos Flamejantes: uma mão livre se incendeia e causa 3 de dano em contato 
 
 E - Flecha Ardente: você dispara uma rajada de fogo contra um alvo à distância, causando 3 de dano.
 
-S - Bola de Fogo: você conjura uma explosão de fogo em um perímetro alvo à distância. Quem estiver no perímetro sofre 6 de dano, ou apenas metade em uma salvaguarda bem-sucedida de DES.
+S - Bola de Fogo: você conjura uma explosão de fogo em uma Zona de Combate alvo à distância. Quem estiver na Zona sofre 6 de dano, ou apenas metade em uma salvaguarda bem-sucedida de DES.
 
 ### FECHADURA
 
