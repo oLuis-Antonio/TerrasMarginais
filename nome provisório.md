@@ -1,10 +1,11 @@
 # NOME PROVISÓRIO
+Um jogo de aventura de fantasia
 
 *Beta 1.0.0*
 
-Um jogo de aventura  luis_antonimo
+ criado por:  luis_antonimo
 
-Inspirado nos trabalhos e discussões de: 
+Inspirado por jogos, trabalhos e discussões de:
 - Emiel Boven
 - Ben Milton
 - Chris McDowall
@@ -12,4 +13,4 @@ Inspirado nos trabalhos e discussões de:
 - James Young
 - W.F. Smith
 - Brendan S.
-- Balbi e Quiral.
+- Rafael Balbi e DM Quiral
