@@ -75,6 +75,39 @@ Para cada Salvaguarda, role 1d6 para determinar seu valor inicial, conforme a ta
 | 6   | 13                   |
 ## PASSO 2: Passado
 
+// parte mais demorada de escrever
+
 ## PASSO 3: Equipamentos e Tesouro Inicial
 
-A escolha de um Passado, para além de uma motivação inicial, serve para agilizar o processo de criação
+A escolha de um Passado, para além de uma motivação inicial, serve para agilizar o processo de criação de Personagens ao delimitar um conjunto básico de itens e equipamentos carregados por aquela PJ. Anote cada item em seus Espaços de Inventário e role o Dado de Tesouro especificado em seu Passado para determinar a quantidade de Moedas que seu Personagem carrega.
+
+**Nota**: Equipamentos com ** em seu nome ocupam dois Espaços de Inventário ao invés de um.
+## PASSO 4: Nome e Lar
+
+Personagens precisam de um bom nome para que não sejam esquecidos. Um nome memorável e fácil de pronunciar gera impacto positivo, um nome excêntrico e recheado de trocadilhos também. Portanto, seja criativo!
+### Lar
+
+Todos vieram de algum lugar e os Tropeiros de *nome do jogo* não são exceção. Antes de qualquer viagem, temos que manter nossa casa na memória, para que a ansiedade de voltar dê o ânimo necessário durante o fim de uma travessia.
+
+Personagens possuem um Lar, podendo ser compartilhado em comum ou disperso pelos vários cantos do mundo. A conexão dos Tropeiros com seu Lar se dá pela seguinte maneira:
+- De onde você é?
+- Quem está te esperando voltar?
+- Qual a sua comida favorita de casa?
+
+Essas perguntas são mera referência para uma construção emergente de jogo, podendo ser substituídas ou modificadas. O importante é que os personagens tenham um lugar para onde possam voltar.
+
+Seu Personagem está pronto! As próximas seções trarão o conjunto principal de regras para que possamos mergulhar nos mares de morros da Terra do Sol.
+
+# Regras Básicas
+## Testes de Salvaguarda
+
+Quando o sucesso de uma ação é incerta, ou quando um PJ precisa ser capaz de resistir a um efeito, ou reagir rápido o bastante para evitar um mal, o jogador deve rolar um d20. Se o resultado for igual ou maior ao valor da respectiva Salvaguarda, ele é bem-sucedido. Esse tipo de rolagem é chamada de Teste de Salvaguarda.
+
+1d20 ≥ SALVAGUARDA = SUCESSO
+### Vantagem e Desvantagem
+
+Algumas situações podem dar a um Personagem Vantagens e/ou Desvantagens em suas Salvaguardas. Estes se cancelam mutuamente. Por exemplo, se uma PJ tem 2 Vantagens e uma Desvantagem, a Desvantagem se anula com uma das Vantagens, resultando em uma rolagem final sendo afetada por apenas uma Vantagem e nenhuma Desvantagem.
+
+Em qualquer Teste de Salvaguarda, para cada Vantagem ou Desvantagem o jogador rola um d6 (que se soma  ao d20 normal). Se o dado rolado é uma Vantagem, o maior valor tirado é adicionado ao resultado. Se o dado rolado é uma Desvantagem, o maior valor tirado é subtraído do resultado.
+
+Um NPC não rola sob efeito de nenhuma Vantagem ou Desvantagem. Se algo o afeta positiva ou negativamente, isso deve refletir nos testes dos PJs apenas.
