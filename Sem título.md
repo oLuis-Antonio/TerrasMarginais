@@ -444,3 +444,15 @@ Exemplo:
 ## Investigando as Profundezas
 
 O mundo não é só vasto como extremamente antigo. Cavernas nas profundezas que escondem terríveis segredos, templos abandonados pelas algúrias do tempo e masmorras habitadas por... dragões? Esses são alguns exemplos
+
+
+No topo do mundo
+Na porta dos céus
+A espada ordinária se fincou
+
+Espada ordinária
+Proeza lendária
+A Serpente ao chão assim ficou
+
+Serpe veio ao chão
+para a terra voltou
