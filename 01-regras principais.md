@@ -107,14 +107,14 @@ Diferente de outros RPGs, neste de jogo não há rolagens de ataque ou de Dano (
 Ataques corpo a corpo exigem, por padrão, que o atacante e o alvo estejam na mesma Zona de Combate (geralmente a Frente). Ataques à distância exigem que o atacante esteja Longe do alvo (2 movimentos de distância). Caso contrário, a rolagem na Tabela de Impacto sofre uma Desvantagem.
 #### Tabela de Impacto
 
-| Impacto | Resultado                                                                                                                                                                                            |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0       | Ataque absorvido: a arma causa metade do Dano. Mínimo 1dn.                                                                                                                                           |
-| 1       | Reviravolta: o defensor ganha uma Vantagem para reduzir o Impacto do próximo ataque que sofrer, ou o atacante sofre uma Desvantagem na mesma situação. Esse efeito vale por uma Rodada               |
-| 2-4     | Golpe ordinário: um acerto sem impacto especial                                                                                                                                                      |
-| 5       | Empurrão: o defensor é deslocado de Zona com o ataque                                                                                                                                                |
-| 6       | Botar Pressão: o atacante ganha uma Vantagem para aumentar Impacto no próximo ataque contra aquele defensor, ou o defensor sofre uma Desvantagem na mesma situação.  Esse efeito vale por uma Rodada |
-| 7+      | Atropelo: o defensor recebe um Cansaço e o atacante escolhe um efeito adicional da tabela.                                                                                                           |
+| Impacto | Resultado                                                                                                                                     |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0       | Ataque absorvido: a arma causa metade do Dano. Mínimo 1dn.                                                                                    |
+| 1       | Reviravolta: o defensor ganha uma Vantagem para aumentar Impacto no próximo contra-ataque. Esse efeito vale por uma Rodada                    |
+| 2-4     | Golpe ordinário: um acerto sem impacto especial                                                                                               |
+| 5       | Empurrão: o defensor é deslocado de Zona com o ataque                                                                                         |
+| 6       | Botar Pressão: o atacante ganha uma Vantagem para aumentar Impacto no próximo ataque contra aquele defensor.  Esse efeito vale por uma Rodada |
+| 7+      | Atropelo: o defensor recebe um Cansaço e o atacante escolhe um efeito adicional da tabela.                                                    |
 **Vantagem e Desvantagem**: assim como na regra de salvaguardas, vantagens e desvantagens podem ser aplicadas às rolagens de Impacto feitas por jogadores. Um Dado de Impacto extra é rolado e o maior ou menor resultado é escolhido a depender do efeito.
 ### Dano Crítico
 
@@ -192,13 +192,13 @@ Um Personagem com um receptáculo mágico em mãos pode receber um Cansaço para
 
 **TABELA DE VOLATILIDADE ARCANA**
 
-| 1d10 | Efeito                                                                                                                                                                                         | 1d10 | Efeito                                                                                                                   |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------ |
-| 1    | Fratura do Caos: durante alguns instantes, o véu permanece aberto. Até o início do próximo turno, qualquer outro Feitiço conjurado ocorre um Nível de Concentração acima ou abaixo (role 1d2). | 6    | Mudança Climática: o clima do ambiente ao redor do conjurador fica absurdamente quente ou absurdamente frio (role 1d2) p |
-| 2    |                                                                                                                                                                                                | 7    | Retração Arcana: o Feitiço é conjurado um Nível de Concentração abaixo.                                                  |
-| 3    | Descontrole: a realidade responde de maneira imprevisível; o MJ introduz uma complicação.                                                                                                      | 8    | Expansão Arcana: o Feitiço é conjurado um Nível de Concentração acima.                                                   |
-| 4    |                                                                                                                                                                                                | 9    | Salto Dimensional: o conjurador é teleportado para uma Zona de Combate (ou correlato) adjacente.                         |
-| 5    |                                                                                                                                                                                                | 10   | Exaustão: o conjurador recebe um Cansaço a mais por lançar o Feitiço.                                                    |
+| 1d10 | Efeito                                                                                                            | 1d10 | Efeito                                                                                                                                                                               |
+| ---- | ----------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1    | Fora de Controle:                                                                                                 | 6    | Mudança Climática: o ambiente ao redor do conjurador fica absurdamente quente ou absurdamente frio por uma Rodada (role 1d2). Testes para aumentar Impacto sofrerão uma Desvantagem. |
+| 2    | Transposição: o conjurador e o alvo são teleportados, trocando de lugar.                                          | 7    | Retração Arcana: o Feitiço é conjurado um Nível de Concentração abaixo.                                                                                                              |
+| 3    | Desvio: o Feitiço acerta um outro alvo ou Zona adjacentes aleatoriamente.                                         | 8    | Expansão Arcana: o Feitiço é conjurado um Nível de Concentração acima.                                                                                                               |
+| 4    | Espetáculo: o Feitiço é conjurado normalmente, mas o conjurador é rodeado de raios de energia e faíscas coloridas | 9    | Salto Dimensional: o conjurador é teleportado para uma Zona de Combate (ou correlato) adjacente.                                                                                     |
+| 5    | Disrupção: o Feitiço causa uma mudança permanente no ambiente (um incêndio, uma grande rachadura, etc.)           | 10   | Exaustão: o conjurador recebe um Cansaço a mais por lançar o Feitiço e terá Desvantagem na próxima Salvaguarda de VON                                                                |
 
 
 
