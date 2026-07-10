@@ -35,4 +35,19 @@ Sigam o passo a passo para a criação de personagens na próxima seção. Assim
 P.S. Esta versão ainda está em desenvolvimento e algumas regras podem mudar conforme as experiências da mesa.
 
 ---
+
+## Soneto da Espada 
+O fragmento conhecido
+
+"No topo do mundo, jaz
+uma espada fincada.
+Selando ao chão, há muito,
+uma Serpente lendária. 
+
+Na cordilheira, repousa
+a espada fincada.
+Não uma espada especial,
+mas uma espada ordinária"
+
+---
 # 01 - Criação de Personagens
