@@ -11,18 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ESCUDO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "ideias do cenário.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "ESCUDO"
+              "icon": "lucide-file",
+              "title": "ideias do cenário"
             }
           }
         ]
@@ -212,6 +208,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "nome provisório.md",
+    "ESCUDO.md",
     "02 - evolucao.md",
     "01-regras principais.md",
     "03 - aventurando-se.md",
@@ -219,7 +216,6 @@
     "ideias do cenário.md",
     "Sem título 1.md",
     "aventurando-se antigo.md",
-    "ESCUDO.md",
     "evolucao antiga.md",
     "Context.md",
     "MAPA.md",
