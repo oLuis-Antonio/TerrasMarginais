@@ -11,18 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "ESCUDO.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "ideias do cenário.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "ESCUDO"
+              "icon": "lucide-file",
+              "title": "ideias do cenário"
             }
           }
         ]
@@ -213,30 +209,30 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "nome provisório.md",
-    "ESCUDO.md",
-    "ideias do cenário.md",
-    "02 - evolucao.md",
-    "01-regras principais.md",
-    "03 - aventurando-se.md",
-    "cantiga.md",
-    "Sem título 1.md",
-    "aventurando-se antigo.md",
     "evolucao antiga.md",
+    "nome provisório.md",
+    "Sessões/01 - Introdução.md",
+    "Estruturas/O Velho Forte.md",
+    "Regiões/Boca do Vale (região inicial).md",
+    "z-media/terras marginais.png",
+    "02 - evolucao.md",
+    "03 - aventurando-se.md",
+    "aventurando-se antigo.md",
+    "cantiga.md",
+    "ESCUDO.md",
     "Context.md",
+    "ideias do cenário.md",
+    "01-regras principais.md",
+    "Sem título 1.md",
     "MAPA.md",
     "conflict-files-obsidian-git.md",
     "Sem título 2.md",
     "Boca do Vale.md",
     "README.md",
     "Untitled.canvas",
-    "z-media/terras marginais.png",
     "Untitled.base",
-    "Sessões/01 - Introdução.md",
-    "Estruturas/O Velho Forte.md",
     "Estruturas",
     "z-media",
-    "Regiões/Boca do Vale (região inicial).md",
     "[].md",
     "Sessões",
     "Regiões"
